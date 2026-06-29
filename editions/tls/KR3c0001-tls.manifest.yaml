@@ -1,0 +1,2855 @@
+canonical_identifier: bkk:krp/KR3c0001/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3c0001/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 管子
+  identifiers:
+    krp: KR3c0001
+  tags:
+    kr-categories: KR3c
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-zh
+    tls-dates: dat08110
+  source:
+    repository: tls-texts
+    path: data/tls/KR3c0001.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3c0001_001-tls.yaml, hash: 'sha256:9e2e7d1a0f3225b36713a0f77317d3daef8c64c3c167172bdcd6245849ac986e'}
+  - {seq: 2, filename: KR3c0001_002-tls.yaml, hash: 'sha256:4a0ddcb3854ae373b63207f2c0bb5012691e122d3e2a05621852730d6a1bdf96'}
+  - {seq: 3, filename: KR3c0001_003-tls.yaml, hash: 'sha256:472daa9078f5dba751e87610fb07e3523a808d5e6e6f43a3b2fa0915e91d4d4e'}
+  - {seq: 4, filename: KR3c0001_004-tls.yaml, hash: 'sha256:7bd756d54b40b7d6ae43030d0150bc30d81df1dd952ca634e3d510fc4f1356ca'}
+  - {seq: 5, filename: KR3c0001_005-tls.yaml, hash: 'sha256:7e53f6334d0a5d25f292c6866027310b00029bfb1e9d1d719c7c5560717e8d8b'}
+  - {seq: 6, filename: KR3c0001_006-tls.yaml, hash: 'sha256:cf05698523a97955d0a411f22ec2a71aa30bed6b31772604683b34845dcdd709'}
+  - {seq: 7, filename: KR3c0001_007-tls.yaml, hash: 'sha256:d6171b160417af1c6db38b4ac0585e64e3b8aa8a880667a5f1633375de038ae8'}
+  - {seq: 8, filename: KR3c0001_008-tls.yaml, hash: 'sha256:ba40c3aa33726e11a463ee827643eed38b093be2f6a98c8cf0e3f7c370633ae1'}
+  - {seq: 9, filename: KR3c0001_009-tls.yaml, hash: 'sha256:f2e7498553455bbffe6711fb605b95dc29a39eeca2474eeaa544a86029a8dc50'}
+  - {seq: 10, filename: KR3c0001_010-tls.yaml, hash: 'sha256:b5abe22a0cd5516ec612745bcf33784d0eaeb1bfdece24fbc7e6b4513a6d1381'}
+  - {seq: 11, filename: KR3c0001_011-tls.yaml, hash: 'sha256:1f9ef682af2a47b266772f7ad7852024514e19c55978412f1ec9659e2e2fe92c'}
+  - {seq: 12, filename: KR3c0001_012-tls.yaml, hash: 'sha256:eebfae0daecff18a813d87ffb61de8d2f0031751491bf94a7a9124a68f1bf686'}
+  - {seq: 13, filename: KR3c0001_013-tls.yaml, hash: 'sha256:aa93c0905c375a5deae750ab9a1c952dff6b206fce94b63b2d380a51818a19d9'}
+  - {seq: 14, filename: KR3c0001_014-tls.yaml, hash: 'sha256:9f5b40c712d5734bcbf3f78d014375f3d68d93263875bec98ee7788368a0cbb9'}
+  - {seq: 15, filename: KR3c0001_015-tls.yaml, hash: 'sha256:aca23401aec073df75151f025dab9857c98ff1557bc342fac5ff2533d75ba570'}
+  - {seq: 16, filename: KR3c0001_016-tls.yaml, hash: 'sha256:c7e89c0ac52e6fec8f989e20d414240616e06c0fce0d3359b6385d2858e29420'}
+  - {seq: 17, filename: KR3c0001_017-tls.yaml, hash: 'sha256:d66e772b4a8a30643c0e0243f7a7f4c6bc475fe719f03aaf8114ebec86ece7a2'}
+  - {seq: 18, filename: KR3c0001_018-tls.yaml, hash: 'sha256:6bb202e7649c1cee4c70f0013e9d2cf367fbefe505d1205f10890b163b669e03'}
+  - {seq: 19, filename: KR3c0001_019-tls.yaml, hash: 'sha256:cb3a6b946bd0e3e14d2568563fe27de0aea748606aca6d8c58bb10cd7c4a8f2c'}
+  - {seq: 20, filename: KR3c0001_020-tls.yaml, hash: 'sha256:078de6fbd7051b1530083caf762b012e9c3191c4ef8908f81c2e071d498edd76'}
+  - {seq: 21, filename: KR3c0001_021-tls.yaml, hash: 'sha256:dce0e361f63ba8a124311327e0af0cb3131d558c16a7330186c6ab71dbfefac5'}
+  - {seq: 22, filename: KR3c0001_022-tls.yaml, hash: 'sha256:9e37f73ed799a584b02c04f67ac78bf86a9655b1de6fb37fa157b2d7777500e4'}
+  - {seq: 23, filename: KR3c0001_023-tls.yaml, hash: 'sha256:8c6cf742f3f41758fb672c51a5f9cff7141d8b7a9a2e54758acced9cfaf20dd1'}
+  - {seq: 24, filename: KR3c0001_024-tls.yaml, hash: 'sha256:437e207331736f8b0364fdfdf4d03c9018be18d9b7064ff0570ee3e2823ed0f5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3c0001_001-tls.markers.yaml, hash: 'sha256:a65efedc601b40f6f1ad20aee85aa2120bab1af9a0edce355a072aba5a387232'}
+  - {seq: 2, role: markers, filename: assets/KR3c0001_002-tls.markers.yaml, hash: 'sha256:2abca886e23551cb0eed8c6b911b9bc8ae133ace356fe76c0c3f4706d8e661da'}
+  - {seq: 3, role: markers, filename: assets/KR3c0001_003-tls.markers.yaml, hash: 'sha256:c00b6920e2f75b1fa522a3a04dfbc73fe96d2d57162ff3e56d8e9b14c5ebd26c'}
+  - {seq: 4, role: markers, filename: assets/KR3c0001_004-tls.markers.yaml, hash: 'sha256:65edbb96bfb06d0bc3b9dc29125ca7a9323718f12def99b91c5ccb058fd0f62a'}
+  - {seq: 5, role: markers, filename: assets/KR3c0001_005-tls.markers.yaml, hash: 'sha256:8249daa7af0caefaee55ea9e727f9f3e5ca4d06c5d7b712fe3b9ac47c55b5745'}
+  - {seq: 6, role: markers, filename: assets/KR3c0001_006-tls.markers.yaml, hash: 'sha256:6e4a0b4636cc682a878625afb8396e8ccfbe61207e90edfdbb5fb1bf031d9b86'}
+  - {seq: 7, role: markers, filename: assets/KR3c0001_007-tls.markers.yaml, hash: 'sha256:f7773c7583c3d03b072d68dc23309715db4a6eafb95d78e1c114bff928334791'}
+  - {seq: 8, role: markers, filename: assets/KR3c0001_008-tls.markers.yaml, hash: 'sha256:51794568d45e058990f39bfadb3966b999bc643c474d5d5b6299da4c1d32b060'}
+  - {seq: 9, role: markers, filename: assets/KR3c0001_009-tls.markers.yaml, hash: 'sha256:b0d588eb033db5f86487a01955f6f4f4d106d194b80cab374c13211dfac2afd9'}
+  - {seq: 10, role: markers, filename: assets/KR3c0001_010-tls.markers.yaml, hash: 'sha256:b48502d4431f0b2c566ef21a0d30b7d78a0405691f474419da70018818301b5e'}
+  - {seq: 11, role: markers, filename: assets/KR3c0001_011-tls.markers.yaml, hash: 'sha256:b1dbaaf6de0bbb3fcf78cdc2cb8b3ad444446d1a114a84d345393a52fe9464f7'}
+  - {seq: 12, role: markers, filename: assets/KR3c0001_012-tls.markers.yaml, hash: 'sha256:0d7a946c51dd2d70beaca5ac75413b515536b4ad20d48783867d9f79f6d5864e'}
+  - {seq: 13, role: markers, filename: assets/KR3c0001_013-tls.markers.yaml, hash: 'sha256:add2550d14a38778a8169092c89372ba9127ea3db814e478283fd2041bd7d1ad'}
+  - {seq: 14, role: markers, filename: assets/KR3c0001_014-tls.markers.yaml, hash: 'sha256:85a27c95988984e42a398717d578b3a97e03e3b8efe1edeca69086b37b8806af'}
+  - {seq: 15, role: markers, filename: assets/KR3c0001_015-tls.markers.yaml, hash: 'sha256:b407898ff35438e2e942625e4b71a306248efb5ba1f02b3f9efbf81f56f25a82'}
+  - {seq: 16, role: markers, filename: assets/KR3c0001_016-tls.markers.yaml, hash: 'sha256:917815cc016f403286df9a922df868e60b5af1063a7434dfde60577e29cb28dc'}
+  - {seq: 17, role: markers, filename: assets/KR3c0001_017-tls.markers.yaml, hash: 'sha256:32c2feca2efdfed105057f3ce631c61babcaa41dc06b262e16bebe4b54b48613'}
+  - {seq: 18, role: markers, filename: assets/KR3c0001_018-tls.markers.yaml, hash: 'sha256:8fea91820b6b29b1d83685d5dbf77f85132037436ec65227d58847e44e1233b9'}
+  - {seq: 19, role: markers, filename: assets/KR3c0001_019-tls.markers.yaml, hash: 'sha256:66ebac0ac161d1596ef2140ecc8a035ed86561cda92f7ad99ad27bb8cafa8439'}
+  - {seq: 20, role: markers, filename: assets/KR3c0001_020-tls.markers.yaml, hash: 'sha256:bc57bc996b99bb0a13db934ebd8c074401dd3bbac715ebd571481a5d977fa770'}
+  - {seq: 21, role: markers, filename: assets/KR3c0001_021-tls.markers.yaml, hash: 'sha256:58dc979bc8cbb26ce865a971fb4ccef638b3c54e7b0edaa5eadba7574cd7b533'}
+  - {seq: 22, role: markers, filename: assets/KR3c0001_022-tls.markers.yaml, hash: 'sha256:0b9b5c473096cfe63fda2276041cf0136988992545349b415ab40e6bf70c1378'}
+  - {seq: 23, role: markers, filename: assets/KR3c0001_023-tls.markers.yaml, hash: 'sha256:1ebe0c74f96f98ce82f671e37fc7482df378473523f79f71a33b414842f25b67'}
+  - {seq: 24, role: markers, filename: assets/KR3c0001_024-tls.markers.yaml, hash: 'sha256:942be37fab5f3c02bf84c0cd17846be1f07f44d59624d754737d59f5e65b55bf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-1a.4-h
+    span:
+    - body
+    - 5
+    - 1056
+  label: 牧民第一經言一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-32a.3-h
+    span:
+    - body
+    - 1056
+    - 1063
+  label: 形勢第二經
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-32a.5-h
+    span:
+    - body
+    - 1063
+    - 1187
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-34a.5-h
+    span:
+    - body
+    - 1187
+    - 1365
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-39a.4-h
+    span:
+    - body
+    - 1365
+    - 1574
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-45a.3-h
+    span:
+    - body
+    - 1574
+    - 1579
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-45a.5-h
+    span:
+    - body
+    - 1579
+    - 1714
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-50a.3-h
+    span:
+    - body
+    - 1714
+    - 1840
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-53a.3-h
+    span:
+    - body
+    - 1840
+    - 1849
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-53a.6-h
+    span:
+    - body
+    - 1849
+    - 2022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-57a.5-h
+    span:
+    - body
+    - 2022
+    - 2096
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-59a.5-h
+    span:
+    - body
+    - 2096
+    - 2295
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-64a.5-h
+    span:
+    - body
+    - 2295
+    - 2368
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-66a.5-h
+    span:
+    - body
+    - 2368
+    - 2421
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-68a.5-h
+    span:
+    - body
+    - 2421
+    - 2470
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-70a.3-h
+    span:
+    - body
+    - 2470
+    - 2525
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-71a.5-h
+    span:
+    - body
+    - 2525
+    - 2591
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-73a.5-h
+    span:
+    - body
+    - 2591
+    - 2665
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-75a.4-h
+    span:
+    - body
+    - 2665
+    - 2734
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-78a.3-h
+    span:
+    - body
+    - 2734
+    - 2787
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-79a.5-h
+    span:
+    - body
+    - 2787
+    - 2839
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-81a.5-h
+    span:
+    - body
+    - 2839
+    - 2956
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-83a.5-h
+    span:
+    - body
+    - 2956
+    - 3052
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-85a.5-h
+    span:
+    - body
+    - 3052
+    - 3155
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-88a.5-h
+    span:
+    - body
+    - 3155
+    - 3255
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-91a.5-h
+    span:
+    - body
+    - 3255
+    - 3362
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-94a.6-h
+    span:
+    - body
+    - 3362
+    - 3548
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-99a.5-h
+    span:
+    - body
+    - 3548
+    - 3622
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-100a.5-h
+    span:
+    - body
+    - 3622
+    - 3696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-102a.5-h
+    span:
+    - body
+    - 3696
+    - 3778
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-105a.3-h
+    span:
+    - body
+    - 3778
+    - 3884
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-107a.3-h
+    span:
+    - body
+    - 3884
+    - 3948
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-109a.4-h
+    span:
+    - body
+    - 3948
+    - 3993
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-110a.4-h
+    span:
+    - body
+    - 3993
+    - 4048
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-112a.3-h
+    span:
+    - body
+    - 4048
+    - 4103
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-114a.3-h
+    span:
+    - body
+    - 4103
+    - 4200
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-116a.5-h
+    span:
+    - body
+    - 4200
+    - 4274
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-118a.4-h
+    span:
+    - body
+    - 4274
+    - 4348
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-120a.4-h
+    span:
+    - body
+    - 4348
+    - 4438
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-122a.5-h
+    span:
+    - body
+    - 4438
+    - 4538
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-124a.6-h
+    span:
+    - body
+    - 4538
+    - 4659
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-127a.5-h
+    span:
+    - body
+    - 4659
+    - 4742
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-129a.5-h
+    span:
+    - body
+    - 4742
+    - 4809
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-131a.5-h
+    span:
+    - body
+    - 4809
+    - 4872
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-133a.4-h
+    span:
+    - body
+    - 4872
+    - 4946
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-135a.3-h
+    span:
+    - body
+    - 4946
+    - 4987
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-136a.3-h
+    span:
+    - body
+    - 4987
+    - 5046
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-138a.5-h
+    span:
+    - body
+    - 5046
+    - 5100
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-140a.5-h
+    span:
+    - body
+    - 5100
+    - 5143
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-141a.5-h
+    span:
+    - body
+    - 5143
+    - 5201
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-142a.7-h
+    span:
+    - body
+    - 5201
+    - 5265
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-144a.5-h
+    span:
+    - body
+    - 5265
+    - 5312
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-146a.5-h
+    span:
+    - body
+    - 5312
+    - 5371
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-148a.5-h
+    span:
+    - body
+    - 5371
+    - 5436
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-150a.7-h
+    span:
+    - body
+    - 5436
+    - 5509
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-152a.5-h
+    span:
+    - body
+    - 5509
+    - 5595
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-155a.3-h
+    span:
+    - body
+    - 5595
+    - 5667
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-157a.3-h
+    span:
+    - body
+    - 5667
+    - 5774
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-160a.3-h
+    span:
+    - body
+    - 5774
+    - 5835
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-162a.5-h
+    span:
+    - body
+    - 5835
+    - 5892
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-165a.3-h
+    span:
+    - body
+    - 5892
+    - 5992
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-168a.5-h
+    span:
+    - body
+    - 5992
+    - 6051
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-170a.5-h
+    span:
+    - body
+    - 6051
+    - 6103
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-171a.6-h
+    span:
+    - body
+    - 6103
+    - 6212
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-174a.3-h
+    span:
+    - body
+    - 6212
+    - 6291
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-176a.7-h
+    span:
+    - body
+    - 6291
+    - 6368
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-179a.3-h
+    span:
+    - body
+    - 6368
+    - 6449
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-182a.3-h
+    span:
+    - body
+    - 6449
+    - 6542
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-184a.7-h
+    span:
+    - body
+    - 6542
+    - 6605
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-187a.3-h
+    span:
+    - body
+    - 6605
+    - 6752
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-192a.3-h
+    span:
+    - body
+    - 6752
+    - 6838
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-195a.3-h
+    span:
+    - body
+    - 6838
+    - 6895
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-197a.3-h
+    span:
+    - body
+    - 6895
+    - 6958
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-199a.4-h
+    span:
+    - body
+    - 6958
+    - 7017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-201a.4-h
+    span:
+    - body
+    - 7017
+    - 7108
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-203a.4-h
+    span:
+    - body
+    - 7108
+    - 7166
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-205a.3-h
+    span:
+    - body
+    - 7166
+    - 7243
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-207a.3-h
+    span:
+    - body
+    - 7243
+    - 7329
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-209a.5-h
+    span:
+    - body
+    - 7329
+    - 7442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-211a.5-h
+    span:
+    - body
+    - 7442
+    - 7538
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-213a.5-h
+    span:
+    - body
+    - 7538
+    - 7623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-215a.5-h
+    span:
+    - body
+    - 7623
+    - 7673
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-216a.5-h
+    span:
+    - body
+    - 7673
+    - 7733
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-219a.3-h
+    span:
+    - body
+    - 7733
+    - 7816
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-223a.3-h
+    span:
+    - body
+    - 7816
+    - 7874
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-224a.5-h
+    span:
+    - body
+    - 7874
+    - 7960
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-226a.5-h
+    span:
+    - body
+    - 7960
+    - 8058
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-229a.3-h
+    span:
+    - body
+    - 8058
+    - 8137
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-232a.3-h
+    span:
+    - body
+    - 8137
+    - 9851
+  label: 權脩第三經言三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-283a.3-h
+    span:
+    - body
+    - 9851
+    - 11559
+  label: 立政第四經四言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-328a.3-h
+    span:
+    - body
+    - 11559
+    - 11660
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-330a.5-h
+    span:
+    - body
+    - 11660
+    - 11812
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-335a.3-h
+    span:
+    - body
+    - 11812
+    - 11899
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-339a.3-h
+    span:
+    - body
+    - 11899
+    - 11964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-340a.5-h
+    span:
+    - body
+    - 11964
+    - 12057
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-342a.5-h
+    span:
+    - body
+    - 12057
+    - 12166
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-346a.3-h
+    span:
+    - body
+    - 12166
+    - 12293
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-350a.3-h
+    span:
+    - body
+    - 12293
+    - 12377
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-352a.5-h
+    span:
+    - body
+    - 12377
+    - 12616
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3c0001_tls_001-359a.3-h
+    span:
+    - body
+    - 12616
+    - 14470
+  label: 乘馬第五經言五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_001-359a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 乘馬第五經言五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-1a.4-h
+    span:
+    - body
+    - 5
+    - 2027
+  label: 七法第六經言六
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-62a.3-h
+    span:
+    - body
+    - 2027
+    - 2042
+  label: 版法第七經言七
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-62a.6-h
+    span:
+    - body
+    - 2042
+    - 2292
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-69a.6-h
+    span:
+    - body
+    - 2292
+    - 2322
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-70a.5-h
+    span:
+    - body
+    - 2322
+    - 2520
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-75a.5-h
+    span:
+    - body
+    - 2520
+    - 2628
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-79a.3-h
+    span:
+    - body
+    - 2628
+    - 2855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-85a.3-h
+    span:
+    - body
+    - 2855
+    - 2926
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-87a.3-h
+    span:
+    - body
+    - 2926
+    - 3045
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-90a.5-h
+    span:
+    - body
+    - 3045
+    - 3138
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-93a.3-h
+    span:
+    - body
+    - 3138
+    - 3237
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-96a.3-h
+    span:
+    - body
+    - 3237
+    - 3359
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-100a.3-h
+    span:
+    - body
+    - 3359
+    - 3438
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-102a.7-h
+    span:
+    - body
+    - 3438
+    - 3502
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-103a.7-h
+    span:
+    - body
+    - 3502
+    - 3776
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-108a.5-h
+    span:
+    - body
+    - 3776
+    - 3884
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-111a.5-h
+    span:
+    - body
+    - 3884
+    - 3977
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-114a.5-h
+    span:
+    - body
+    - 3977
+    - 4093
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-117a.4-h
+    span:
+    - body
+    - 4093
+    - 4182
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-120a.4-h
+    span:
+    - body
+    - 4182
+    - 4284
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-123a.4-h
+    span:
+    - body
+    - 4284
+    - 4327
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3c0001_tls_002-124a.4-h
+    span:
+    - body
+    - 4327
+    - 4383
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3c0001_tls_002-124a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3c0001_tls_003-1a.4-h
+    span:
+    - body
+    - 5
+    - 2273
+  label: 幼官第八經言八
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3c0001_tls_003-65a.3-h
+    span:
+    - body
+    - 2273
+    - 4587
+  label: 幼官圖第九經言九
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3c0001_tls_003-67a.3-h
+    span:
+    - body
+    - 4587
+    - 6284
+  label: 五輔第十外言一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 6284
+    - 6289
+  label: 管子卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3c0001_tls_004-1a.4-h
+    span:
+    - body
+    - 0
+    - 2504
+  label: 宙合第十一外言二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3c0001_tls_004-73a.3-h
+    span:
+    - body
+    - 2504
+    - 4264
+  label: 樞言第十二外言三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3c0001_tls_004-73a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 樞言第十二外言三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3c0001_tls_005-1a.4-h
+    span:
+    - body
+    - 5
+    - 4809
+  label: 八觀第十三外言四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3c0001_tls_005-1a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 八觀第十三外言四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3c0001_tls_006-1a.4-h
+    span:
+    - body
+    - 5
+    - 4636
+  label: 法法第十六外言七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3c0001_tls_006-1a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 法法第十六外言七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3c0001_tls_007-1a.4-h
+    span:
+    - body
+    - 5
+    - 5017
+  label: 大匡第十八內言一
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3c0001_tls_007-1a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 大匡第十八內言一
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3c0001_tls_008-1a.4-h
+    span:
+    - body
+    - 5
+    - 910
+  label: 中匡第十九內言二
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3c0001_tls_008-24a.3-h
+    span:
+    - body
+    - 910
+    - 6729
+  label: 小匡第二十內言三
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3c0001_tls_008-174a.3-h
+    span:
+    - body
+    - 6729
+    - 6740
+  label: 王言第二十一內言四
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3c0001_tls_008-174a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 王言第二十一內言四
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3c0001_tls_009-1a.4-h
+    span:
+    - body
+    - 5
+    - 1519
+  label: 霸形第二十二內言五
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3c0001_tls_009-39a.3-h
+    span:
+    - body
+    - 1519
+    - 3622
+  label: 霸言第二十三內言六
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3c0001_tls_009-95a.3-h
+    span:
+    - body
+    - 3622
+    - 4950
+  label: 問第二十四內言七
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3c0001_tls_009-125a.3-h
+    span:
+    - body
+    - 4950
+    - 4958
+  label: 謀失第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_009-125a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 謀失第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5
+  label: 管子卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_010-1a.4-h
+    span:
+    - body
+    - 5
+    - 1959
+  label: 戒第二十六內言九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_010-50a.3-h
+    span:
+    - body
+    - 1959
+    - 2223
+  label: 地圖第二十七短語一
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_010-57a.3-h
+    span:
+    - body
+    - 2223
+    - 2828
+  label: 參患第二十八短語二
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_010-72a.3-h
+    span:
+    - body
+    - 2828
+    - 3238
+  label: 制分第二十九短語三
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3c0001_tls_010-85a.3-h
+    span:
+    - body
+    - 3238
+    - 5600
+  label: 君臣上第三十短語四
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3c0001_tls_010-85a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 君臣上第三十短語四
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3c0001_tls_011-1a.4-h
+    span:
+    - body
+    - 6
+    - 2378
+  label: 君臣下第三十一短語五
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3c0001_tls_011-61a.3-h
+    span:
+    - body
+    - 2378
+    - 3627
+  label: 小稱第三十二短語六
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3c0001_tls_011-84a.3-h
+    span:
+    - body
+    - 3627
+    - 4585
+  label: 四稱第三十三短語七
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3c0001_tls_011-108a.3-h
+    span:
+    - body
+    - 4585
+    - 4590
+  label: 短語八
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3c0001_tls_011-108a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 短語八
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3c0001_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 4359
+  label: 管子卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3c0001_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 管子卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3c0001_tls_013-1a.4-h
+    span:
+    - body
+    - 6
+    - 1446
+  label: 短語十
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3c0001_tls_013-56a.3-h
+    span:
+    - body
+    - 1446
+    - 3602
+  label: 短語十一
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3c0001_tls_013-56a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 短語十一
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3c0001_tls_014-1a.4-h
+    span:
+    - body
+    - 6
+    - 1069
+  label: 短語十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3c0001_tls_014-33a.3-h
+    span:
+    - body
+    - 1069
+    - 2380
+  label: 短語十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3c0001_tls_014-71a.3-h
+    span:
+    - body
+    - 2380
+    - 3536
+  label: 短語十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_014-71a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 短語十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-1a.4-h
+    span:
+    - body
+    - 6
+    - 525
+  label: 勢第四十二短語
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-18a.3-h
+    span:
+    - body
+    - 525
+    - 843
+  label: 正第四十三短語十七
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-29a.3-h
+    span:
+    - body
+    - 843
+    - 1039
+  label: 九變第四十四短語十八
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-34a.3-h
+    span:
+    - body
+    - 1039
+    - 2770
+  label: 任法第四十五區言一
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-78a.3-h
+    span:
+    - body
+    - 2770
+    - 2788
+  label: 明法第四十六區言二
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-79a.3-h
+    span:
+    - body
+    - 2788
+    - 2885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-82a.3-h
+    span:
+    - body
+    - 2885
+    - 2968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-85a.3-h
+    span:
+    - body
+    - 2968
+    - 3085
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-88a.3-h
+    span:
+    - body
+    - 3085
+    - 3212
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-91a.3-h
+    span:
+    - body
+    - 3212
+    - 3296
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-95a.3-h
+    span:
+    - body
+    - 3296
+    - 3437
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-99a.3-h
+    span:
+    - body
+    - 3437
+    - 3515
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-102a.3-h
+    span:
+    - body
+    - 3515
+    - 3624
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-106a.3-h
+    span:
+    - body
+    - 3624
+    - 3717
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-109a.3-h
+    span:
+    - body
+    - 3717
+    - 3826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-112a.3-h
+    span:
+    - body
+    - 3826
+    - 3921
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-115a.3-h
+    span:
+    - body
+    - 3921
+    - 4049
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-118a.3-h
+    span:
+    - body
+    - 4049
+    - 4205
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-123a.3-h
+    span:
+    - body
+    - 4205
+    - 4342
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-128a.3-h
+    span:
+    - body
+    - 4342
+    - 4496
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-133a.3-h
+    span:
+    - body
+    - 4496
+    - 4626
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-138a.3-h
+    span:
+    - body
+    - 4626
+    - 4756
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-141a.3-h
+    span:
+    - body
+    - 4756
+    - 4869
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-144a.3-h
+    span:
+    - body
+    - 4869
+    - 5041
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-148a.3-h
+    span:
+    - body
+    - 5041
+    - 5196
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-152a.3-h
+    span:
+    - body
+    - 5196
+    - 5293
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-155a.3-h
+    span:
+    - body
+    - 5293
+    - 5406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-158a.3-h
+    span:
+    - body
+    - 5406
+    - 5499
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-161a.3-h
+    span:
+    - body
+    - 5499
+    - 5686
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-165a.3-h
+    span:
+    - body
+    - 5686
+    - 5816
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-169a.3-h
+    span:
+    - body
+    - 5816
+    - 5923
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-173a.3-h
+    span:
+    - body
+    - 5923
+    - 6036
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-176a.3-h
+    span:
+    - body
+    - 6036
+    - 6179
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-180a.3-h
+    span:
+    - body
+    - 6179
+    - 6330
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-184a.3-h
+    span:
+    - body
+    - 6330
+    - 6472
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-189a.3-h
+    span:
+    - body
+    - 6472
+    - 6624
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-193a.3-h
+    span:
+    - body
+    - 6624
+    - 6799
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-198a.3-h
+    span:
+    - body
+    - 6799
+    - 6910
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-202a.3-h
+    span:
+    - body
+    - 6910
+    - 7009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-205a.3-h
+    span:
+    - body
+    - 7009
+    - 7177
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-211a.3-h
+    span:
+    - body
+    - 7177
+    - 7264
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-215a.3-h
+    span:
+    - body
+    - 7264
+    - 8085
+  label: 正世第四十七區言三
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3c0001_tls_015-239a.3-h
+    span:
+    - body
+    - 8085
+    - 8914
+  label: 治國第四十八區言四
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3c0001_tls_015-239a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 治國第四十八區言四
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3c0001_tls_016-1a.4-h
+    span:
+    - body
+    - 6
+    - 1578
+  label: 內業四十九區言五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3c0001_tls_016-51a.3-h
+    span:
+    - body
+    - 1578
+    - 1912
+  label: 封禪第五十桓公既霸
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3c0001_tls_016-61a.3-h
+    span:
+    - body
+    - 1912
+    - 4361
+  label: 小問第五十一雜篇二
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3c0001_tls_016-61a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 小問第五十一雜篇二
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3c0001_tls_017-1a.4-h
+    span:
+    - body
+    - 6
+    - 1623
+  label: 七臣七主第五十二雜篇三
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3c0001_tls_017-44a.3-h
+    span:
+    - body
+    - 1623
+    - 3511
+  label: 禁藏第五十三雜篇四
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3c0001_tls_017-44a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 禁藏第五十三雜篇四
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3c0001_tls_018-1a.4-h
+    span:
+    - body
+    - 6
+    - 566
+  label: 入國第五十四雜篇五
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3c0001_tls_018-18a.3-h
+    span:
+    - body
+    - 566
+    - 959
+  label: 九守第五十五雜篇六
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3c0001_tls_018-32a.3-h
+    span:
+    - body
+    - 959
+    - 1207
+  label: 桓公問第五十六雜篇七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3c0001_tls_018-38a.3-h
+    span:
+    - body
+    - 1207
+    - 3132
+  label: 度地第五十七雜篇八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_018-38a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 度地第五十七雜篇八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-1a.4-h
+    span:
+    - body
+    - 6
+    - 2237
+  label: 地員第五十八雜篇九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-73a.3-h
+    span:
+    - body
+    - 2237
+    - 2893
+  label: 弟子職第五十九雜篇十
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-97a.3-h
+    span:
+    - body
+    - 2893
+    - 2904
+  label: 言昭第六十雜篇十一
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-98a.3-h
+    span:
+    - body
+    - 2904
+    - 2916
+  label: 脩身第六十一雜篇十二
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-99a.3-h
+    span:
+    - body
+    - 2916
+    - 2928
+  label: 問霸第六十二雜篇十三
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3c0001_tls_019-100a.3-h
+    span:
+    - body
+    - 2928
+    - 2941
+  label: 牧民解第六十三管子解一
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3c0001_tls_019-100a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 牧民解第六十三管子解一
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6
+  label: 管子卷第二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3c0001_tls_020-1a.4-h
+    span:
+    - body
+    - 6
+    - 6177
+  label: 形勢解第六十四管子解二
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_020-1a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 形勢解第六十四管子解二
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7
+  label: 管子卷第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-1a.4-h
+    span:
+    - body
+    - 7
+    - 814
+  label: 立政九敗解第六十五管子解三
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-2a.3-h
+    span:
+    - body
+    - 814
+    - 3119
+  label: 版法解第六十六管子解四
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-3a.3-h
+    span:
+    - body
+    - 3119
+    - 7224
+  label: 明法解第六十七管子解五
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-4a.3-h
+    span:
+    - body
+    - 7224
+    - 7728
+  label: 巨乘馬第六十八管子輕重一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-18a.3-h
+    span:
+    - body
+    - 7728
+    - 8356
+  label: 乘馬數第六十九管子輕重二
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3c0001_tls_021-34a.3-h
+    span:
+    - body
+    - 8356
+    - 8369
+  label: 問乘馬第七十管子輕重三
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_021-34a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 問乘馬第七十管子輕重三
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7
+  label: 管子卷第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-2a.4-h
+    span:
+    - body
+    - 7
+    - 441
+  label: 事語第七十一管子輕重四
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-14a.3-h
+    span:
+    - body
+    - 441
+    - 963
+  label: 海王第七十二管子輕重五
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-27a.3-h
+    span:
+    - body
+    - 963
+    - 2717
+  label: 國蓄第七十三管子輕重六
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-69a.3-h
+    span:
+    - body
+    - 2717
+    - 4103
+  label: 山國軌第七十四管子輕重七
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-114a.3-h
+    span:
+    - body
+    - 4103
+    - 5958
+  label: 山權數第七十五管子輕重八
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3c0001_tls_022-170a.3-h
+    span:
+    - body
+    - 5958
+    - 8369
+  label: 山至數第七十六管子輕重九
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3c0001_tls_022-170a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 山至數第七十六管子輕重九
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7
+  label: 管子卷第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3c0001_tls_023-1a.4-h
+    span:
+    - body
+    - 7
+    - 1360
+  label: 地數第七十七管子輕重十
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3c0001_tls_023-33a.3-h
+    span:
+    - body
+    - 1360
+    - 3682
+  label: 揆度第七十八輕重十一
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3c0001_tls_023-107a.3-h
+    span:
+    - body
+    - 3682
+    - 4092
+  label: 國准第七十九輕重十二
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3c0001_tls_023-122a.3-h
+    span:
+    - body
+    - 4092
+    - 7942
+  label: 輕重甲第八十輕重十三
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_023-122a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 輕重甲第八十輕重十三
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7
+  label: 管子卷第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-1a.4-h
+    span:
+    - body
+    - 7
+    - 2723
+  label: 輕重乙第八十一輕重十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-96a.3-h
+    span:
+    - body
+    - 2723
+    - 2738
+  label: 輕重丙第八十二管子輕重十五
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-97a.3-h
+    span:
+    - body
+    - 2738
+    - 6171
+  label: 輕重丁第八十三管子輕重十六
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-211a.3-h
+    span:
+    - body
+    - 6171
+    - 8125
+  label: 輕重戊第八十四輕重十七
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-278a.3-h
+    span:
+    - body
+    - 8125
+    - 9089
+  label: 輕重己第八十五輕重十八
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3c0001_tls_024-315a.3-h
+    span:
+    - body
+    - 9089
+    - 9098
+  label: 輕重庚第八十六
+  type: section
+  level: 1
+hash: sha256:76315996dbbb2834698974285131c71b5d7ab325c0cd79183279417a10482668

@@ -1,0 +1,2475 @@
+canonical_identifier: bkk:krp/KR3c0001/krp/v1/markers/6
+seq: 6
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3c0001_SBCK_006-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR3c0001_WYG_006-1a, image: WYG0729/WYG0729-0065a.png}
+  - {type: variant, offset: 3, length: 1, content: 第, WYG: ''}
+  - {type: indent, offset: 5, content: 　, id: KR3c0001_krp_006-bkkind1}
+  - {type: variant, offset: 6, length: 2, content: 司空, WYG: ''}
+  - {type: indent, offset: 9, content: 　, id: KR3c0001_krp_006-bkkind2}
+  - {type: variant, offset: 9, length: 1, content: 玄, SBCK: 􅀇}
+  - {type: variant, offset: 9, length: 1, content: 玄, WYG: 𤣥}
+  - {type: indent, offset: 11, content: 　, id: KR3c0001_krp_006-bkkind3}
+  - {type: variant, offset: 12, length: 10, content: 法法第十六兵法第十七, WYG: ''}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3c0001_SBCK_006-1a02}
+  - {type: indent, offset: 0, content: 　　　, id: KR3c0001_krp_006-bkkind1}
+  - {type: indent, offset: 5, content: 　, id: KR3c0001_krp_006-bkkind2}
+  - {type: 'kr:newline', offset: 10, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl2}
+  - {type: line-break, offset: 10, content: '', id: KR3c0001_SBCK_006-1a03}
+  - {type: indent, offset: 15, content: 　, id: KR3c0001_krp_006-bkkind3}
+  - {type: 'kr:newline', offset: 18, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl3}
+  - {type: line-break, offset: 18, content: '', id: KR3c0001_SBCK_006-1a04}
+  - {type: punctuation, offset: 25, content: (, id: KR3c0001_krp_006-bkkpn1}
+  - {type: variant, offset: 25, length: 0, content: '', WYG: 不設法以法}
+  - {type: punctuation, offset: 30, content: /, id: KR3c0001_krp_006-bkkpn2}
+  - {type: variant, offset: 30, length: 5, content: 不設法以法, WYG: ''}
+  - {type: punctuation, offset: 35, content: ), id: KR3c0001_krp_006-bkkpn3}
+  - {type: variant, offset: 39, length: 6, content: 令不行之冝故, WYG: ''}
+  - {type: punctuation, offset: 42, content: (, id: KR3c0001_krp_006-bkkpn4}
+  - {type: punctuation, offset: 48, content: /, id: KR3c0001_krp_006-bkkpn5}
+  - {type: punctuation, offset: 55, content: ), id: KR3c0001_krp_006-bkkpn6}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl4}
+  - {type: line-break, offset: 55, content: '', id: KR3c0001_SBCK_006-1a05}
+  - {type: variant, offset: 55, length: 0, content: '', WYG: 之冝故令不行}
+  - {type: variant, offset: 69, length: 1, content: 脩, WYG: 修}
+  - {type: punctuation, offset: 75, content: (, id: KR3c0001_krp_006-bkkpn7}
+  - {type: variant, offset: 75, length: 1, content: 冝, WYG: 法既得宜}
+  - {type: punctuation, offset: 78, content: /, id: KR3c0001_krp_006-bkkpn8}
+  - {type: variant, offset: 78, length: 3, content: 法旣得, WYG: 不行則以修令}
+  - {type: punctuation, offset: 81, content: ), id: KR3c0001_krp_006-bkkpn9}
+  - {type: 'kr:newline', offset: 81, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl5}
+  - {type: line-break, offset: 81, content: '', id: KR3c0001_SBCK_006-1a06}
+  - {type: punctuation, offset: 81, content: (, id: KR3c0001_krp_006-bkkpn10}
+  - {type: punctuation, offset: 87, content: /, id: KR3c0001_krp_006-bkkpn11}
+  - {type: variant, offset: 87, length: 6, content: 不行則以脩令, WYG: ''}
+  - {type: punctuation, offset: 93, content: ), id: KR3c0001_krp_006-bkkpn12}
+  - {type: punctuation, offset: 102, content: (, id: KR3c0001_krp_006-bkkpn13}
+  - {type: variant, offset: 102, length: 0, content: '', WYG: 修令者既審而猶不行}
+  - {type: punctuation, offset: 110, content: /, id: KR3c0001_krp_006-bkkpn14}
+  - {type: variant, offset: 110, length: 9, content: 脩令者旣審而猶不行, WYG: ''}
+  - {type: punctuation, offset: 119, content: ), id: KR3c0001_krp_006-bkkpn15}
+  - {type: 'kr:newline', offset: 121, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl6}
+  - {type: line-break, offset: 121, content: '', id: KR3c0001_SBCK_006-1a07}
+  - {type: punctuation, offset: 129, content: (, id: KR3c0001_krp_006-bkkpn16}
+  - {type: variant, offset: 129, length: 0, content: '', WYG: 賞罰既重而猶不行則}
+  - {type: page-break, offset: 129, content: '', id: KR3c0001_WYG_006-1b, image: WYG0729/WYG0729-0065b.png}
+  - {type: punctuation, offset: 137, content: /, id: KR3c0001_krp_006-bkkpn17}
+  - {type: variant, offset: 137, length: 9, content: 賞罰旣重而猶不行則, WYG: ''}
+  - {type: punctuation, offset: 146, content: ), id: KR3c0001_krp_006-bkkpn18}
+  - {type: 'kr:newline', offset: 153, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl7}
+  - {type: line-break, offset: 153, content: '', id: KR3c0001_SBCK_006-1a08}
+  - {type: punctuation, offset: 157, content: (, id: KR3c0001_krp_006-bkkpn19}
+  - {type: variant, offset: 157, length: 0, content: '', WYG: 賞罰既信而猶不行則}
+  - {type: punctuation, offset: 166, content: /, id: KR3c0001_krp_006-bkkpn20}
+  - {type: variant, offset: 166, length: 9, content: 賞罰旣信而猶不行則, WYG: ''}
+  - {type: punctuation, offset: 175, content: ), id: KR3c0001_krp_006-bkkpn21}
+  - {type: punctuation, offset: 181, content: (, id: KR3c0001_krp_006-bkkpn22}
+  - {type: variant, offset: 181, length: 0, content: '', WYG: 身從}
+  - {type: punctuation, offset: 183, content: /, id: KR3c0001_krp_006-bkkpn23}
+  - {type: variant, offset: 183, length: 2, content: 身從, WYG: ''}
+  - {type: punctuation, offset: 185, content: ), id: KR3c0001_krp_006-bkkpn24}
+  - {type: 'kr:newline', offset: 189, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl8}
+  - {type: line-break, offset: 189, content: '', id: KR3c0001_SBCK_006-1a09}
+  - {type: punctuation, offset: 197, content: (, id: KR3c0001_krp_006-bkkpn25}
+  - {type: variant, offset: 197, length: 0, content: '', WYG: 聞賢不舉不若}
+  - {type: punctuation, offset: 203, content: /, id: KR3c0001_krp_006-bkkpn26}
+  - {type: variant, offset: 203, length: 6, content: 聞賢不舉不若, WYG: ''}
+  - {type: punctuation, offset: 209, content: ), id: KR3c0001_krp_006-bkkpn27}
+  - {type: 'kr:newline', offset: 219, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl9}
+  - {type: line-break, offset: 219, content: '', id: KR3c0001_SBCK_006-1a10}
+  - {type: punctuation, offset: 238, content: (, id: KR3c0001_krp_006-bkkpn28}
+  - {type: variant, offset: 238, length: 0, content: '', WYG: 危人不能}
+  - {type: punctuation, offset: 242, content: /, id: KR3c0001_krp_006-bkkpn29}
+  - {type: variant, offset: 242, length: 4, content: 危人不能, WYG: ''}
+  - {type: punctuation, offset: 246, content: ), id: KR3c0001_krp_006-bkkpn30}
+  - {type: 'kr:newline', offset: 247, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl10}
+  - {type: line-break, offset: 247, content: '', id: KR3c0001_SBCK_006-1a11}
+  - {type: punctuation, offset: 252, content: (, id: KR3c0001_krp_006-bkkpn31}
+  - {type: variant, offset: 252, length: 0, content: '', WYG: 既廢更起或}
+  - {type: punctuation, offset: 256, content: /, id: KR3c0001_krp_006-bkkpn32}
+  - {type: variant, offset: 256, length: 5, content: 旣廢更起或, WYG: ''}
+  - {type: punctuation, offset: 261, content: ), id: KR3c0001_krp_006-bkkpn33}
+  - {type: variant, offset: 264, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 266, content: (, id: KR3c0001_krp_006-bkkpn34}
+  - {type: variant, offset: 266, length: 0, content: '', WYG: 可為而不為}
+  - {type: punctuation, offset: 270, content: /, id: KR3c0001_krp_006-bkkpn35}
+  - {type: variant, offset: 270, length: 5, content: 可爲而不爲, WYG: ''}
+  - {type: punctuation, offset: 275, content: ), id: KR3c0001_krp_006-bkkpn36}
+  - {type: 'kr:newline', offset: 280, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl11}
+  - {type: line-break, offset: 280, content: '', id: KR3c0001_SBCK_006-1a12}
+  - {type: punctuation, offset: 280, content: (, id: KR3c0001_krp_006-bkkpn37}
+  - {type: variant, offset: 280, length: 0, content: '', WYG: 足而不施}
+  - {type: punctuation, offset: 284, content: /, id: KR3c0001_krp_006-bkkpn38}
+  - {type: variant, offset: 284, length: 4, content: 足而不施, WYG: ''}
+  - {type: punctuation, offset: 288, content: ), id: KR3c0001_krp_006-bkkpn39}
+  - {type: punctuation, offset: 293, content: (, id: KR3c0001_krp_006-bkkpn40}
+  - {type: variant, offset: 293, length: 3, content: 則害成, WYG: ''}
+  - {type: punctuation, offset: 296, content: /, id: KR3c0001_krp_006-bkkpn41}
+  - {type: punctuation, offset: 300, content: ), id: KR3c0001_krp_006-bkkpn42}
+  - {type: variant, offset: 300, length: 0, content: '', WYG: 則害成}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl12}
+  - {type: page-break, offset: 312, content: '', id: KR3c0001_SBCK_006-1b}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl13}
+  - {type: page-break, offset: 312, content: '', id: KR3c0001_SBCK_006-1b}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl14}
+  - {type: line-break, offset: 312, content: '', id: KR3c0001_SBCK_006-1b01}
+  - {type: variant, offset: 312, length: 0, content: '', WYG: 危所謂君不密則失臣正言直行之士危則人主孤而毋内䇿謀毋自入也人主孤而毋内則人臣黨而成羣君子道消則小人道長也使人主孤而毋内人臣黨而成羣者此非人臣之罪也人主之過也君不密之過民毋重罪過不大也有大過然後有重罪民毋大過上毋赦也不赦則懼而修徳上赦小過則民多重罪積之所生也所謂積小以成髙大故曰赦出則民不敬有罪不誅則安用敬惠行則過日益恃恩不恭非過而何惠赦加於民而囹圄雖實殺戮雖繁姦不勝矣造姦以待赦也故曰邪莫如蚤禁之無使滋蔓蔓難圖也赦過遺善則民不勵善即恵也有過不赦有善不遺勵民之道於此乎用之矣故曰明君者事斷者也君有三欲於民三欲不節則上位危三欲者何也一曰求二曰禁三曰令求必欲得禁必欲止令必欲行求多者其得寡無厭則難供故其得寡禁多者其止寡法令滋章盜賊多有令多者其行寡再三則瀆故其行寡求而不得則威日損獨唱莫和非損而何禁}
+  - {type: page-break, offset: 312, content: '', id: KR3c0001_WYG_006-2a, image: WYG0729/WYG0729-0066a.png}
+  - {type: page-break, offset: 312, content: '', id: KR3c0001_WYG_006-2b, image: WYG0729/WYG0729-0066b.png}
+  - {type: punctuation, offset: 319, content: (, id: KR3c0001_krp_006-bkkpn43}
+  - {type: variant, offset: 319, length: 0, content: '', WYG: 愈禁愈犯}
+  - {type: punctuation, offset: 323, content: /, id: KR3c0001_krp_006-bkkpn44}
+  - {type: variant, offset: 323, length: 4, content: 愈禁愈犯, WYG: ''}
+  - {type: punctuation, offset: 327, content: ), id: KR3c0001_krp_006-bkkpn45}
+  - {type: punctuation, offset: 335, content: (, id: KR3c0001_krp_006-bkkpn46}
+  - {type: variant, offset: 335, length: 0, content: '', WYG: 不禀其命}
+  - {type: punctuation, offset: 339, content: /, id: KR3c0001_krp_006-bkkpn47}
+  - {type: variant, offset: 339, length: 4, content: 不禀其命, WYG: ''}
+  - {type: punctuation, offset: 343, content: ), id: KR3c0001_krp_006-bkkpn48}
+  - {type: 'kr:newline', offset: 344, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl15}
+  - {type: line-break, offset: 344, content: '', id: KR3c0001_SBCK_006-1b02}
+  - {type: 'kr:newline', offset: 367, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl16}
+  - {type: line-break, offset: 367, content: '', id: KR3c0001_SBCK_006-1b03}
+  - {type: variant, offset: 381, length: 1, content: 聽, WYG: 聴}
+  - {type: variant, offset: 384, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 390, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl17}
+  - {type: line-break, offset: 390, content: '', id: KR3c0001_SBCK_006-1b04}
+  - {type: variant, offset: 391, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 398, length: 1, content: 爲, WYG: 為}
+  - {type: page-break, offset: 399, content: '', id: KR3c0001_WYG_006-3a, image: WYG0729/WYG0729-0066c.png}
+  - {type: 'kr:newline', offset: 413, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl18}
+  - {type: line-break, offset: 413, content: '', id: KR3c0001_SBCK_006-1b05}
+  - {type: variant, offset: 415, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 417, length: 1, content: 又, WYG: 乂}
+  - {type: variant, offset: 422, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 429, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 435, length: 1, content: 法, WYG: 罰}
+  - {type: 'kr:newline', offset: 436, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl19}
+  - {type: line-break, offset: 436, content: '', id: KR3c0001_SBCK_006-1b06}
+  - {type: variant, offset: 436, length: 1, content: 巳, WYG: 已}
+  - {type: 'kr:newline', offset: 458, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl20}
+  - {type: line-break, offset: 458, content: '', id: KR3c0001_SBCK_006-1b07}
+  - {type: punctuation, offset: 466, content: (, id: KR3c0001_krp_006-bkkpn49}
+  - {type: variant, offset: 466, length: 0, content: '', WYG: 植}
+  - {type: punctuation, offset: 467, content: /, id: KR3c0001_krp_006-bkkpn50}
+  - {type: variant, offset: 467, length: 1, content: 植, WYG: ''}
+  - {type: punctuation, offset: 468, content: ), id: KR3c0001_krp_006-bkkpn51}
+  - {type: 'kr:newline', offset: 482, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl21}
+  - {type: line-break, offset: 482, content: '', id: KR3c0001_SBCK_006-1b08}
+  - {type: punctuation, offset: 482, content: (, id: KR3c0001_krp_006-bkkpn52}
+  - {type: variant, offset: 482, length: 0, content: '', WYG: 數理也國無常經人力必竭}
+  - {type: punctuation, offset: 493, content: /, id: KR3c0001_krp_006-bkkpn53}
+  - {type: variant, offset: 493, length: 11, content: 數理也國無常經人力必竭, WYG: ''}
+  - {type: punctuation, offset: 504, content: ), id: KR3c0001_krp_006-bkkpn54}
+  - {type: 'kr:newline', offset: 518, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl22}
+  - {type: line-break, offset: 518, content: '', id: KR3c0001_SBCK_006-1b09}
+  - {type: punctuation, offset: 518, content: (, id: KR3c0001_krp_006-bkkpn55}
+  - {type: variant, offset: 518, length: 5, content: 自恃爲貴也, WYG: ''}
+  - {type: punctuation, offset: 523, content: /, id: KR3c0001_krp_006-bkkpn56}
+  - {type: punctuation, offset: 528, content: ), id: KR3c0001_krp_006-bkkpn57}
+  - {type: variant, offset: 528, length: 0, content: '', WYG: 自恃為貴也}
+  - {type: punctuation, offset: 542, content: (, id: KR3c0001_krp_006-bkkpn58}
+  - {type: variant, offset: 542, length: 0, content: '', WYG: 國不作竒怪則}
+  - {type: punctuation, offset: 548, content: /, id: KR3c0001_krp_006-bkkpn59}
+  - {type: variant, offset: 548, length: 9, content: 國不作竒恠則皆公議, WYG: ''}
+  - {type: punctuation, offset: 554, content: ), id: KR3c0001_krp_006-bkkpn60}
+  - {type: 'kr:newline', offset: 554, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl23}
+  - {type: line-break, offset: 554, content: '', id: KR3c0001_SBCK_006-1b10}
+  - {type: punctuation, offset: 554, content: (, id: KR3c0001_krp_006-bkkpn61}
+  - {type: punctuation, offset: 557, content: /, id: KR3c0001_krp_006-bkkpn62}
+  - {type: punctuation, offset: 561, content: ), id: KR3c0001_krp_006-bkkpn63}
+  - {type: variant, offset: 561, length: 0, content: '', WYG: 皆公議}
+  - {type: punctuation, offset: 574, content: (, id: KR3c0001_krp_006-bkkpn64}
+  - {type: variant, offset: 574, length: 0, content: '', WYG: 易令謂變令錯儀}
+  - {type: punctuation, offset: 581, content: /, id: KR3c0001_krp_006-bkkpn65}
+  - {type: variant, offset: 581, length: 7, content: 易令謂變令錯儀, WYG: 更畫制凡此}
+  - {type: punctuation, offset: 588, content: ), id: KR3c0001_krp_006-bkkpn66}
+  - {type: 'kr:newline', offset: 588, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl24}
+  - {type: line-break, offset: 588, content: '', id: KR3c0001_SBCK_006-1b11}
+  - {type: punctuation, offset: 588, content: (, id: KR3c0001_krp_006-bkkpn67}
+  - {type: punctuation, offset: 593, content: /, id: KR3c0001_krp_006-bkkpn68}
+  - {type: variant, offset: 593, length: 5, content: 更畫制凡此, WYG: ''}
+  - {type: punctuation, offset: 598, content: ), id: KR3c0001_krp_006-bkkpn69}
+  - {type: page-break, offset: 605, content: '', id: KR3c0001_WYG_006-3b, image: WYG0729/WYG0729-0066d.png}
+  - {type: 'kr:newline', offset: 617, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl25}
+  - {type: line-break, offset: 617, content: '', id: KR3c0001_SBCK_006-1b12}
+  - {type: 'kr:newline', offset: 640, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl26}
+  - {type: page-break, offset: 640, content: '', id: KR3c0001_SBCK_006-2a}
+  - {type: 'kr:newline', offset: 640, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl27}
+  - {type: line-break, offset: 640, content: '', id: KR3c0001_SBCK_006-2a01}
+  - {type: punctuation, offset: 657, content: (, id: KR3c0001_krp_006-bkkpn70}
+  - {type: variant, offset: 657, length: 7, content: 誅從此之後令不, WYG: ''}
+  - {type: punctuation, offset: 664, content: /, id: KR3c0001_krp_006-bkkpn71}
+  - {type: punctuation, offset: 671, content: ), id: KR3c0001_krp_006-bkkpn72}
+  - {type: 'kr:newline', offset: 671, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl28}
+  - {type: line-break, offset: 671, content: '', id: KR3c0001_SBCK_006-2a02}
+  - {type: punctuation, offset: 671, content: (, id: KR3c0001_krp_006-bkkpn73}
+  - {type: variant, offset: 671, length: 0, content: '', WYG: 誅従此之後令不復}
+  - {type: punctuation, offset: 672, content: /, id: KR3c0001_krp_006-bkkpn74}
+  - {type: variant, offset: 672, length: 1, content: 復, WYG: ''}
+  - {type: punctuation, offset: 673, content: ), id: KR3c0001_krp_006-bkkpn75}
+  - {type: 'kr:newline', offset: 695, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl29}
+  - {type: line-break, offset: 695, content: '', id: KR3c0001_SBCK_006-2a03}
+  - {type: variant, offset: 700, length: 1, content: 說, SBCK: 􅀃}
+  - {type: punctuation, offset: 703, content: (, id: KR3c0001_krp_006-bkkpn76}
+  - {type: variant, offset: 703, length: 0, content: '', WYG: 立私説尚能卑主况其倨}
+  - {type: punctuation, offset: 713, content: /, id: KR3c0001_krp_006-bkkpn77}
+  - {type: variant, offset: 713, length: 10, content: 立私說尚能卑主況其倨, WYG: ''}
+  - {type: variant, offset: 715, length: 1, content: 說, SBCK: 􅀃}
+  - {type: punctuation, offset: 723, content: ), id: KR3c0001_krp_006-bkkpn78}
+  - {type: 'kr:newline', offset: 730, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl30}
+  - {type: line-break, offset: 730, content: '', id: KR3c0001_SBCK_006-2a04}
+  - {type: variant, offset: 732, length: 1, content: 郷, WYG: 鄉}
+  - {type: variant, offset: 737, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 751, content: (, id: KR3c0001_krp_006-bkkpn79}
+  - {type: variant, offset: 751, length: 0, content: '', WYG: 於上不}
+  - {type: punctuation, offset: 754, content: /, id: KR3c0001_krp_006-bkkpn80}
+  - {type: variant, offset: 755, length: 1, content: 上, WYG: 下}
+  - {type: punctuation, offset: 757, content: ), id: KR3c0001_krp_006-bkkpn81}
+  - {type: 'kr:newline', offset: 757, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl31}
+  - {type: line-break, offset: 757, content: '', id: KR3c0001_SBCK_006-2a05}
+  - {type: punctuation, offset: 757, content: (, id: KR3c0001_krp_006-bkkpn82}
+  - {type: variant, offset: 757, length: 1, content: 成, WYG: 合鄉里但率意自為易國之}
+  - {type: punctuation, offset: 771, content: /, id: KR3c0001_krp_006-bkkpn83}
+  - {type: variant, offset: 771, length: 14, content: 於下不合郷里但率意自爲易國之, WYG: ''}
+  - {type: punctuation, offset: 785, content: ), id: KR3c0001_krp_006-bkkpn84}
+  - {type: 'kr:newline', offset: 797, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl32}
+  - {type: line-break, offset: 797, content: '', id: KR3c0001_SBCK_006-2a06}
+  - {type: page-break, offset: 808, content: '', id: KR3c0001_WYG_006-4a, image: WYG0729/WYG0729-0067a.png}
+  - {type: 'kr:newline', offset: 820, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl33}
+  - {type: line-break, offset: 820, content: '', id: KR3c0001_SBCK_006-2a07}
+  - {type: 'kr:newline', offset: 843, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl34}
+  - {type: line-break, offset: 843, content: '', id: KR3c0001_SBCK_006-2a08}
+  - {type: 'kr:newline', offset: 855, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl35}
+  - {type: line-break, offset: 855, content: '', id: KR3c0001_SBCK_006-2a09}
+  - {type: punctuation, offset: 865, content: (, id: KR3c0001_krp_006-bkkpn85}
+  - {type: variant, offset: 865, length: 0, content: '', WYG: 茍悦衆心故曰小利人則}
+  - {type: punctuation, offset: 875, content: /, id: KR3c0001_krp_006-bkkpn86}
+  - {type: variant, offset: 875, length: 10, content: 苟恱衆心故曰小利人則, WYG: ''}
+  - {type: punctuation, offset: 885, content: ), id: KR3c0001_krp_006-bkkpn87}
+  - {type: variant, offset: 888, length: 7, content: 不勝其禍君故曰, WYG: ''}
+  - {type: 'kr:newline', offset: 891, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl36}
+  - {type: line-break, offset: 891, content: '', id: KR3c0001_SBCK_006-2a10}
+  - {type: punctuation, offset: 892, content: (, id: KR3c0001_krp_006-bkkpn88}
+  - {type: punctuation, offset: 899, content: /, id: KR3c0001_krp_006-bkkpn89}
+  - {type: punctuation, offset: 906, content: ), id: KR3c0001_krp_006-bkkpn90}
+  - {type: variant, offset: 906, length: 0, content: '', WYG: 君故曰不勝其禍}
+  - {type: punctuation, offset: 916, content: (, id: KR3c0001_krp_006-bkkpn91}
+  - {type: variant, offset: 916, length: 0, content: '', WYG: 人初不悦故曰小害}
+  - {type: punctuation, offset: 917, content: /, id: KR3c0001_krp_006-bkkpn92}
+  - {type: punctuation, offset: 923, content: /, id: KR3c0001_krp_006-bkkpn93}
+  - {type: variant, offset: 923, length: 8, content: 人初不恱故曰小害, WYG: 利}
+  - {type: punctuation, offset: 931, content: ), id: KR3c0001_krp_006-bkkpn94}
+  - {type: 'kr:newline', offset: 931, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl37}
+  - {type: line-break, offset: 931, content: '', id: KR3c0001_SBCK_006-2a11}
+  - {type: punctuation, offset: 931, content: (, id: KR3c0001_krp_006-bkkpn95}
+  - {type: punctuation, offset: 932, content: /, id: KR3c0001_krp_006-bkkpn96}
+  - {type: variant, offset: 932, length: 1, content: 利, WYG: ''}
+  - {type: punctuation, offset: 933, content: ), id: KR3c0001_krp_006-bkkpn97}
+  - {type: punctuation, offset: 940, content: (, id: KR3c0001_krp_006-bkkpn98}
+  - {type: variant, offset: 940, length: 0, content: '', WYG: 家正而天下定則太平}
+  - {type: punctuation, offset: 949, content: /, id: KR3c0001_krp_006-bkkpn99}
+  - {type: variant, offset: 949, length: 9, content: 家正而天下定則太平, WYG: ''}
+  - {type: punctuation, offset: 958, content: ), id: KR3c0001_krp_006-bkkpn100}
+  - {type: 'kr:newline', offset: 966, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl38}
+  - {type: line-break, offset: 966, content: '', id: KR3c0001_SBCK_006-2a12}
+  - {type: punctuation, offset: 966, content: (, id: KR3c0001_krp_006-bkkpn101}
+  - {type: variant, offset: 966, length: 0, content: '', WYG: 必致覆}
+  - {type: punctuation, offset: 968, content: /, id: KR3c0001_krp_006-bkkpn102}
+  - {type: variant, offset: 968, length: 3, content: 必也覆, WYG: ''}
+  - {type: punctuation, offset: 971, content: ), id: KR3c0001_krp_006-bkkpn103}
+  - {type: punctuation, offset: 975, content: (, id: KR3c0001_krp_006-bkkpn104}
+  - {type: variant, offset: 975, length: 2, content: 癤也, WYG: ''}
+  - {type: punctuation, offset: 977, content: /, id: KR3c0001_krp_006-bkkpn105}
+  - {type: punctuation, offset: 980, content: ), id: KR3c0001_krp_006-bkkpn106}
+  - {type: variant, offset: 980, length: 0, content: '', WYG: 癤也}
+  - {type: punctuation, offset: 985, content: (, id: KR3c0001_krp_006-bkkpn107}
+  - {type: variant, offset: 985, length: 0, content: '', WYG: 疾可}
+  - {type: punctuation, offset: 987, content: /, id: KR3c0001_krp_006-bkkpn108}
+  - {type: variant, offset: 987, length: 2, content: 疾可, WYG: ''}
+  - {type: punctuation, offset: 989, content: ), id: KR3c0001_krp_006-bkkpn109}
+  - {type: 'kr:newline', offset: 996, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl39}
+  - {type: page-break, offset: 996, content: '', id: KR3c0001_SBCK_006-2b}
+  - {type: 'kr:newline', offset: 996, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl40}
+  - {type: line-break, offset: 996, content: '', id: KR3c0001_SBCK_006-2b01}
+  - {type: page-break, offset: 1000, content: '', id: KR3c0001_WYG_006-4b, image: WYG0729/WYG0729-0067b.png}
+  - {type: variant, offset: 1005, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 1012, content: (, id: KR3c0001_krp_006-bkkpn110}
+  - {type: variant, offset: 1012, length: 11, content: 重禄旣與之尊爵重禄其可, WYG: ''}
+  - {type: punctuation, offset: 1023, content: /, id: KR3c0001_krp_006-bkkpn111}
+  - {type: punctuation, offset: 1034, content: ), id: KR3c0001_krp_006-bkkpn112}
+  - {type: 'kr:newline', offset: 1034, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl41}
+  - {type: line-break, offset: 1034, content: '', id: KR3c0001_SBCK_006-2b02}
+  - {type: punctuation, offset: 1034, content: (, id: KR3c0001_krp_006-bkkpn113}
+  - {type: variant, offset: 1034, length: 3, content: 犯危也, WYG: 重禄既與之尊爵重禄則可}
+  - {type: punctuation, offset: 1037, content: /, id: KR3c0001_krp_006-bkkpn114}
+  - {type: punctuation, offset: 1041, content: ), id: KR3c0001_krp_006-bkkpn115}
+  - {type: variant, offset: 1041, length: 0, content: '', WYG: 犯危也}
+  - {type: variant, offset: 1048, length: 1, content: 足, WYG: 所}
+  - {type: 'kr:newline', offset: 1061, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl42}
+  - {type: line-break, offset: 1061, content: '', id: KR3c0001_SBCK_006-2b03}
+  - {type: 'kr:newline', offset: 1084, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl43}
+  - {type: line-break, offset: 1084, content: '', id: KR3c0001_SBCK_006-2b04}
+  - {type: 'kr:newline', offset: 1107, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl44}
+  - {type: line-break, offset: 1107, content: '', id: KR3c0001_SBCK_006-2b05}
+  - {type: indent, offset: 1118, content: 　, id: KR3c0001_krp_006-bkkind4}
+  - {type: variant, offset: 1118, length: 0, content: '', WYG: 胥}
+  - {type: punctuation, offset: 1127, content: (, id: KR3c0001_krp_006-bkkpn116}
+  - {type: variant, offset: 1127, length: 0, content: '', WYG: 胥相}
+  - {type: punctuation, offset: 1128, content: /, id: KR3c0001_krp_006-bkkpn117}
+  - {type: punctuation, offset: 1128, content: ？, id: KR3c0001_krp_006-bkkpn118}
+  - {type: variant, offset: 1128, length: 1, content: 相, WYG: ''}
+  - {type: punctuation, offset: 1129, content: ), id: KR3c0001_krp_006-bkkpn119}
+  - {type: 'kr:newline', offset: 1129, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl45}
+  - {type: line-break, offset: 1129, content: '', id: KR3c0001_SBCK_006-2b06}
+  - {type: punctuation, offset: 1133, content: (, id: KR3c0001_krp_006-bkkpn120}
+  - {type: variant, offset: 1133, length: 1, content: 也, WYG: ''}
+  - {type: punctuation, offset: 1134, content: /, id: KR3c0001_krp_006-bkkpn121}
+  - {type: punctuation, offset: 1136, content: ), id: KR3c0001_krp_006-bkkpn122}
+  - {type: variant, offset: 1136, length: 0, content: '', WYG: 也}
+  - {type: 'kr:newline', offset: 1153, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl46}
+  - {type: line-break, offset: 1153, content: '', id: KR3c0001_SBCK_006-2b07}
+  - {type: 'kr:newline', offset: 1176, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl47}
+  - {type: line-break, offset: 1176, content: '', id: KR3c0001_SBCK_006-2b08}
+  - {type: punctuation, offset: 1178, content: (, id: KR3c0001_krp_006-bkkpn123}
+  - {type: variant, offset: 1178, length: 5, content: 故爲仇讎也, WYG: ''}
+  - {type: punctuation, offset: 1183, content: /, id: KR3c0001_krp_006-bkkpn124}
+  - {type: punctuation, offset: 1188, content: ), id: KR3c0001_krp_006-bkkpn125}
+  - {type: variant, offset: 1188, length: 0, content: '', WYG: 故為仇讎也}
+  - {type: page-break, offset: 1188, content: '', id: KR3c0001_WYG_006-5a, image: WYG0729/WYG0729-0067c.png}
+  - {type: variant, offset: 1192, length: 5, content: 父母也故爲, WYG: ''}
+  - {type: punctuation, offset: 1195, content: (, id: KR3c0001_krp_006-bkkpn126}
+  - {type: punctuation, offset: 1200, content: /, id: KR3c0001_krp_006-bkkpn127}
+  - {type: punctuation, offset: 1205, content: ), id: KR3c0001_krp_006-bkkpn128}
+  - {type: variant, offset: 1205, length: 0, content: '', WYG: 故為父母也}
+  - {type: 'kr:newline', offset: 1211, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl48}
+  - {type: line-break, offset: 1211, content: '', id: KR3c0001_SBCK_006-2b09}
+  - {type: punctuation, offset: 1218, content: (, id: KR3c0001_krp_006-bkkpn129}
+  - {type: variant, offset: 1218, length: 0, content: '', WYG: 能追}
+  - {type: punctuation, offset: 1220, content: /, id: KR3c0001_krp_006-bkkpn130}
+  - {type: variant, offset: 1220, length: 2, content: 能追, WYG: ''}
+  - {type: punctuation, offset: 1222, content: ), id: KR3c0001_krp_006-bkkpn131}
+  - {type: 'kr:newline', offset: 1236, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl49}
+  - {type: line-break, offset: 1236, content: '', id: KR3c0001_SBCK_006-2b10}
+  - {type: variant, offset: 1237, length: 1, content: 賔, WYG: 賓}
+  - {type: variant, offset: 1243, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1259, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl50}
+  - {type: line-break, offset: 1259, content: '', id: KR3c0001_SBCK_006-2b11}
+  - {type: variant, offset: 1259, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1266, length: 1, content: 辯, WYG: 辨}
+  - {type: 'kr:newline', offset: 1283, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl51}
+  - {type: line-break, offset: 1283, content: '', id: KR3c0001_SBCK_006-2b12}
+  - {type: punctuation, offset: 1294, content: (, id: KR3c0001_krp_006-bkkpn132}
+  - {type: variant, offset: 1294, length: 2, content: 之日, WYG: ''}
+  - {type: punctuation, offset: 1296, content: /, id: KR3c0001_krp_006-bkkpn133}
+  - {type: punctuation, offset: 1299, content: ), id: KR3c0001_krp_006-bkkpn134}
+  - {type: variant, offset: 1299, length: 0, content: '', WYG: 之日}
+  - {type: punctuation, offset: 1303, content: (, id: KR3c0001_krp_006-bkkpn135}
+  - {type: variant, offset: 1303, length: 0, content: '', WYG: 墆乆}
+  - {type: punctuation, offset: 1305, content: /, id: KR3c0001_krp_006-bkkpn136}
+  - {type: variant, offset: 1305, length: 2, content: 墆乆, WYG: ''}
+  - {type: punctuation, offset: 1307, content: ), id: KR3c0001_krp_006-bkkpn137}
+  - {type: 'kr:newline', offset: 1311, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl52}
+  - {type: page-break, offset: 1311, content: '', id: KR3c0001_SBCK_006-3a}
+  - {type: 'kr:newline', offset: 1311, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl53}
+  - {type: line-break, offset: 1311, content: '', id: KR3c0001_SBCK_006-3a01}
+  - {type: 'kr:newline', offset: 1313, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl54}
+  - {type: line-break, offset: 1313, content: '', id: KR3c0001_SBCK_006-3a02}
+  - {type: variant, offset: 1319, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 1331, content: (, id: KR3c0001_krp_006-bkkpn138}
+  - {type: variant, offset: 1331, length: 0, content: '', WYG: 未布而為所謂}
+  - {type: punctuation, offset: 1337, content: /, id: KR3c0001_krp_006-bkkpn139}
+  - {type: variant, offset: 1337, length: 9, content: 未布而爲所謂妄與也, WYG: ''}
+  - {type: punctuation, offset: 1343, content: ), id: KR3c0001_krp_006-bkkpn140}
+  - {type: 'kr:newline', offset: 1343, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl55}
+  - {type: line-break, offset: 1343, content: '', id: KR3c0001_SBCK_006-3a03}
+  - {type: punctuation, offset: 1343, content: (, id: KR3c0001_krp_006-bkkpn141}
+  - {type: punctuation, offset: 1346, content: /, id: KR3c0001_krp_006-bkkpn142}
+  - {type: punctuation, offset: 1350, content: ), id: KR3c0001_krp_006-bkkpn143}
+  - {type: variant, offset: 1350, length: 0, content: '', WYG: 妄與也}
+  - {type: page-break, offset: 1364, content: '', id: KR3c0001_WYG_006-5b, image: WYG0729/WYG0729-0067d.png}
+  - {type: 'kr:newline', offset: 1370, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl56}
+  - {type: line-break, offset: 1370, content: '', id: KR3c0001_SBCK_006-3a04}
+  - {type: punctuation, offset: 1388, content: (, id: KR3c0001_krp_006-bkkpn144}
+  - {type: variant, offset: 1388, length: 0, content: '', WYG: 所謂不}
+  - {type: punctuation, offset: 1391, content: /, id: KR3c0001_krp_006-bkkpn145}
+  - {type: variant, offset: 1391, length: 3, content: 所謂不, WYG: ''}
+  - {type: punctuation, offset: 1394, content: ), id: KR3c0001_krp_006-bkkpn146}
+  - {type: 'kr:newline', offset: 1396, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl57}
+  - {type: line-break, offset: 1396, content: '', id: KR3c0001_SBCK_006-3a05}
+  - {type: punctuation, offset: 1414, content: (, id: KR3c0001_krp_006-bkkpn147}
+  - {type: variant, offset: 1414, length: 3, content: 爲暴亂, WYG: ''}
+  - {type: punctuation, offset: 1417, content: /, id: KR3c0001_krp_006-bkkpn148}
+  - {type: punctuation, offset: 1420, content: ), id: KR3c0001_krp_006-bkkpn149}
+  - {type: variant, offset: 1420, length: 0, content: '', WYG: 為暴亂}
+  - {type: 'kr:newline', offset: 1422, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl58}
+  - {type: line-break, offset: 1422, content: '', id: KR3c0001_SBCK_006-3a06}
+  - {type: variant, offset: 1429, length: 1, content: 巳, WYG: 已}
+  - {type: 'kr:newline', offset: 1445, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl59}
+  - {type: line-break, offset: 1445, content: '', id: KR3c0001_SBCK_006-3a07}
+  - {type: 'kr:newline', offset: 1468, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl60}
+  - {type: line-break, offset: 1468, content: '', id: KR3c0001_SBCK_006-3a08}
+  - {type: variant, offset: 1478, length: 1, content: 令, WYG: 今}
+  - {type: variant, offset: 1479, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 1487, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 1490, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 1491, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl61}
+  - {type: line-break, offset: 1491, content: '', id: KR3c0001_SBCK_006-3a09}
+  - {type: variant, offset: 1493, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 1514, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl62}
+  - {type: line-break, offset: 1514, content: '', id: KR3c0001_SBCK_006-3a10}
+  - {type: 'kr:newline', offset: 1538, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl63}
+  - {type: line-break, offset: 1538, content: '', id: KR3c0001_SBCK_006-3a11}
+  - {type: page-break, offset: 1538, content: '', id: KR3c0001_WYG_006-6a, image: WYG0729/WYG0729-0068a.png}
+  - {type: variant, offset: 1553, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1562, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl64}
+  - {type: line-break, offset: 1562, content: '', id: KR3c0001_SBCK_006-3a12}
+  - {type: variant, offset: 1570, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1577, length: 1, content: 則, WYG: 而}
+  - {type: variant, offset: 1578, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1585, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl65}
+  - {type: page-break, offset: 1585, content: '', id: KR3c0001_SBCK_006-3b}
+  - {type: 'kr:newline', offset: 1585, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl66}
+  - {type: line-break, offset: 1585, content: '', id: KR3c0001_SBCK_006-3b01}
+  - {type: variant, offset: 1585, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1602, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1608, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl67}
+  - {type: line-break, offset: 1608, content: '', id: KR3c0001_SBCK_006-3b02}
+  - {type: variant, offset: 1609, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1612, length: 1, content: 柰, WYG: 奈}
+  - {type: 'kr:newline', offset: 1631, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl68}
+  - {type: line-break, offset: 1631, content: '', id: KR3c0001_SBCK_006-3b03}
+  - {type: 'kr:newline', offset: 1654, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl69}
+  - {type: line-break, offset: 1654, content: '', id: KR3c0001_SBCK_006-3b04}
+  - {type: variant, offset: 1665, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 1677, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl70}
+  - {type: line-break, offset: 1677, content: '', id: KR3c0001_SBCK_006-3b05}
+  - {type: 'kr:newline', offset: 1700, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl71}
+  - {type: line-break, offset: 1700, content: '', id: KR3c0001_SBCK_006-3b06}
+  - {type: page-break, offset: 1706, content: '', id: KR3c0001_WYG_006-6b, image: WYG0729/WYG0729-0068b.png}
+  - {type: variant, offset: 1714, length: 1, content: 聽, WYG: 聴}
+  - {type: variant, offset: 1717, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 1723, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl72}
+  - {type: line-break, offset: 1723, content: '', id: KR3c0001_SBCK_006-3b07}
+  - {type: variant, offset: 1735, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1741, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1746, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl73}
+  - {type: line-break, offset: 1746, content: '', id: KR3c0001_SBCK_006-3b08}
+  - {type: 'kr:newline', offset: 1769, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl74}
+  - {type: line-break, offset: 1769, content: '', id: KR3c0001_SBCK_006-3b09}
+  - {type: punctuation, offset: 1773, content: (, id: KR3c0001_krp_006-bkkpn150}
+  - {type: variant, offset: 1773, length: 0, content: '', WYG: 夫用人者當以法令以愛人}
+  - {type: punctuation, offset: 1784, content: /, id: KR3c0001_krp_006-bkkpn151}
+  - {type: variant, offset: 1785, length: 11, content: 用人者當以法令以愛人夫, WYG: ''}
+  - {type: punctuation, offset: 1795, content: ), id: KR3c0001_krp_006-bkkpn152}
+  - {type: variant, offset: 1805, length: 0, content: '', WYG: 之苦}
+  - {type: 'kr:newline', offset: 1806, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl75}
+  - {type: line-break, offset: 1806, content: '', id: KR3c0001_SBCK_006-3b10}
+  - {type: punctuation, offset: 1828, content: (, id: KR3c0001_krp_006-bkkpn153}
+  - {type: variant, offset: 1828, length: 0, content: '', WYG: 至}
+  - {type: punctuation, offset: 1829, content: /, id: KR3c0001_krp_006-bkkpn154}
+  - {type: variant, offset: 1829, length: 30, content: 至必致此極則姦者不敢爲非善者恱而從命欲求可與謀害己者其可得哉, WYG: ''}
+  - {type: punctuation, offset: 1830, content: ), id: KR3c0001_krp_006-bkkpn155}
+  - {type: 'kr:newline', offset: 1830, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl76}
+  - {type: line-break, offset: 1830, content: '', id: KR3c0001_SBCK_006-3b11}
+  - {type: punctuation, offset: 1830, content: (, id: KR3c0001_krp_006-bkkpn156}
+  - {type: punctuation, offset: 1859, content: /, id: KR3c0001_krp_006-bkkpn157}
+  - {type: punctuation, offset: 1888, content: ), id: KR3c0001_krp_006-bkkpn158}
+  - {type: 'kr:newline', offset: 1888, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl77}
+  - {type: line-break, offset: 1888, content: '', id: KR3c0001_SBCK_006-3b12}
+  - {type: variant, offset: 1888, length: 0, content: '', WYG: 必致此極則姦者不敢為非善者悦而從命欲求可與謀害己者其可得哉}
+  - {type: variant, offset: 1899, length: 1, content: 舎, WYG: 舍}
+  - {type: punctuation, offset: 1906, content: (, id: KR3c0001_krp_006-bkkpn159}
+  - {type: variant, offset: 1907, length: 0, content: '', WYG: 好者私欲也所}
+  - {type: variant, offset: 1911, length: 6, content: 也所好者私欲, WYG: ''}
+  - {type: punctuation, offset: 1912, content: /, id: KR3c0001_krp_006-bkkpn160}
+  - {type: punctuation, offset: 1918, content: ), id: KR3c0001_krp_006-bkkpn161}
+  - {type: 'kr:newline', offset: 1918, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl78}
+  - {type: page-break, offset: 1918, content: '', id: KR3c0001_SBCK_006-4a}
+  - {type: 'kr:newline', offset: 1918, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl79}
+  - {type: line-break, offset: 1918, content: '', id: KR3c0001_SBCK_006-4a01}
+  - {type: page-break, offset: 1921, content: '', id: KR3c0001_WYG_006-7a, image: WYG0729/WYG0729-0068c.png}
+  - {type: punctuation, offset: 1934, content: (, id: KR3c0001_krp_006-bkkpn162}
+  - {type: variant, offset: 1934, length: 0, content: '', WYG: 不以下有私寵妄以軒冕}
+  - {type: punctuation, offset: 1937, content: /, id: KR3c0001_krp_006-bkkpn163}
+  - {type: variant, offset: 1937, length: 0, content: '', WYG: 儗}
+  - {type: punctuation, offset: 1942, content: /, id: KR3c0001_krp_006-bkkpn164}
+  - {type: variant, offset: 1942, length: 1, content: 不, WYG: 憾妄}
+  - {type: variant, offset: 1944, length: 7, content: 私寵下妾以軒冕, WYG: 斧鉞}
+  - {type: punctuation, offset: 1951, content: ), id: KR3c0001_krp_006-bkkpn165}
+  - {type: 'kr:newline', offset: 1951, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl80}
+  - {type: line-break, offset: 1951, content: '', id: KR3c0001_SBCK_006-4a02}
+  - {type: punctuation, offset: 1951, content: (, id: KR3c0001_krp_006-bkkpn166}
+  - {type: punctuation, offset: 1956, content: /, id: KR3c0001_krp_006-bkkpn167}
+  - {type: variant, offset: 1956, length: 5, content: 憾妄以斧鉞, WYG: ''}
+  - {type: punctuation, offset: 1961, content: ), id: KR3c0001_krp_006-bkkpn168}
+  - {type: 'kr:newline', offset: 1980, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl81}
+  - {type: line-break, offset: 1980, content: '', id: KR3c0001_SBCK_006-4a03}
+  - {type: variant, offset: 1989, length: 1, content: 矢, WYG: 矣}
+  - {type: variant, offset: 1990, length: 1, content: 后, WYG: 石}
+  - {type: variant, offset: 1995, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 2003, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl82}
+  - {type: line-break, offset: 2003, content: '', id: KR3c0001_SBCK_006-4a04}
+  - {type: punctuation, offset: 2015, content: (, id: KR3c0001_krp_006-bkkpn169}
+  - {type: variant, offset: 2015, length: 0, content: '', WYG: 轉猶}
+  - {type: punctuation, offset: 2017, content: /, id: KR3c0001_krp_006-bkkpn170}
+  - {type: variant, offset: 2017, length: 2, content: 轉猶, WYG: ''}
+  - {type: punctuation, offset: 2019, content: ), id: KR3c0001_krp_006-bkkpn171}
+  - {type: 'kr:newline', offset: 2029, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl83}
+  - {type: line-break, offset: 2029, content: '', id: KR3c0001_SBCK_006-4a05}
+  - {type: variant, offset: 2035, length: 1, content: 后, WYG: 後}
+  - {type: 'kr:newline', offset: 2052, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl84}
+  - {type: line-break, offset: 2052, content: '', id: KR3c0001_SBCK_006-4a06}
+  - {type: 'kr:newline', offset: 2075, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl85}
+  - {type: line-break, offset: 2075, content: '', id: KR3c0001_SBCK_006-4a07}
+  - {type: variant, offset: 2076, length: 1, content: 甞, WYG: 嘗}
+  - {type: 'kr:newline', offset: 2098, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl86}
+  - {type: line-break, offset: 2098, content: '', id: KR3c0001_SBCK_006-4a08}
+  - {type: punctuation, offset: 2101, content: (, id: KR3c0001_krp_006-bkkpn172}
+  - {type: variant, offset: 2101, length: 0, content: '', WYG: 大猶}
+  - {type: punctuation, offset: 2103, content: /, id: KR3c0001_krp_006-bkkpn173}
+  - {type: variant, offset: 2103, length: 2, content: 大猶, WYG: ''}
+  - {type: punctuation, offset: 2105, content: ), id: KR3c0001_krp_006-bkkpn174}
+  - {type: page-break, offset: 2105, content: '', id: KR3c0001_WYG_006-7b, image: WYG0729/WYG0729-0068d.png}
+  - {type: variant, offset: 2122, length: 1, content: 德, WYG: 徳}
+  - {type: 'kr:newline', offset: 2124, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl87}
+  - {type: line-break, offset: 2124, content: '', id: KR3c0001_SBCK_006-4a09}
+  - {type: variant, offset: 2133, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 2147, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl88}
+  - {type: line-break, offset: 2147, content: '', id: KR3c0001_SBCK_006-4a10}
+  - {type: punctuation, offset: 2154, content: (, id: KR3c0001_krp_006-bkkpn175}
+  - {type: variant, offset: 2154, length: 0, content: '', WYG: 言國無以小與不幸而削亡者}
+  - {type: punctuation, offset: 2166, content: /, id: KR3c0001_krp_006-bkkpn176}
+  - {type: variant, offset: 2166, length: 12, content: 言國無以小與不幸而削亡者, WYG: ''}
+  - {type: punctuation, offset: 2178, content: ), id: KR3c0001_krp_006-bkkpn177}
+  - {type: 'kr:newline', offset: 2185, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl89}
+  - {type: line-break, offset: 2185, content: '', id: KR3c0001_SBCK_006-4a11}
+  - {type: variant, offset: 2195, length: 1, content: 德, WYG: 徳}
+  - {type: variant, offset: 2206, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 2208, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl90}
+  - {type: line-break, offset: 2208, content: '', id: KR3c0001_SBCK_006-4a12}
+  - {type: variant, offset: 2221, length: 1, content: 后, WYG: 後}
+  - {type: punctuation, offset: 2227, content: (, id: KR3c0001_krp_006-bkkpn178}
+  - {type: variant, offset: 2227, length: 0, content: '', WYG: 言國無以大}
+  - {type: punctuation, offset: 2232, content: /, id: KR3c0001_krp_006-bkkpn179}
+  - {type: variant, offset: 2232, length: 13, content: 言國無以大以臣主有得名故也, WYG: ''}
+  - {type: punctuation, offset: 2237, content: ), id: KR3c0001_krp_006-bkkpn180}
+  - {type: 'kr:newline', offset: 2237, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl91}
+  - {type: page-break, offset: 2237, content: '', id: KR3c0001_SBCK_006-4b}
+  - {type: 'kr:newline', offset: 2237, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl92}
+  - {type: line-break, offset: 2237, content: '', id: KR3c0001_SBCK_006-4b01}
+  - {type: punctuation, offset: 2237, content: (, id: KR3c0001_krp_006-bkkpn181}
+  - {type: punctuation, offset: 2245, content: /, id: KR3c0001_krp_006-bkkpn182}
+  - {type: punctuation, offset: 2253, content: ), id: KR3c0001_krp_006-bkkpn183}
+  - {type: variant, offset: 2253, length: 0, content: '', WYG: 以臣主有得故也}
+  - {type: 'kr:newline', offset: 2270, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl93}
+  - {type: line-break, offset: 2270, content: '', id: KR3c0001_SBCK_006-4b02}
+  - {type: 'kr:newline', offset: 2293, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl94}
+  - {type: line-break, offset: 2293, content: '', id: KR3c0001_SBCK_006-4b03}
+  - {type: page-break, offset: 2298, content: '', id: KR3c0001_WYG_006-8a, image: WYG0729/WYG0729-0069a.png}
+  - {type: punctuation, offset: 2306, content: (, id: KR3c0001_krp_006-bkkpn184}
+  - {type: variant, offset: 2306, length: 0, content: '', WYG: 先身無害而有利然後可以及物}
+  - {type: punctuation, offset: 2319, content: /, id: KR3c0001_krp_006-bkkpn185}
+  - {type: variant, offset: 2319, length: 7, content: 先身無害而有利, WYG: 傷所以}
+  - {type: variant, offset: 2327, length: 5, content: 後可以及物, WYG: 者則}
+  - {type: punctuation, offset: 2332, content: ), id: KR3c0001_krp_006-bkkpn186}
+  - {type: 'kr:newline', offset: 2332, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl95}
+  - {type: line-break, offset: 2332, content: '', id: KR3c0001_SBCK_006-4b04}
+  - {type: punctuation, offset: 2332, content: (, id: KR3c0001_krp_006-bkkpn187}
+  - {type: punctuation, offset: 2338, content: /, id: KR3c0001_krp_006-bkkpn188}
+  - {type: variant, offset: 2338, length: 6, content: 傷所以然者則, WYG: ''}
+  - {type: punctuation, offset: 2344, content: ), id: KR3c0001_krp_006-bkkpn189}
+  - {type: punctuation, offset: 2350, content: (, id: KR3c0001_krp_006-bkkpn190}
+  - {type: variant, offset: 2350, length: 0, content: '', WYG: 失令則為下}
+  - {type: punctuation, offset: 2354, content: /, id: KR3c0001_krp_006-bkkpn191}
+  - {type: variant, offset: 2354, length: 5, content: 失令則爲下, WYG: ''}
+  - {type: punctuation, offset: 2359, content: ), id: KR3c0001_krp_006-bkkpn192}
+  - {type: 'kr:newline', offset: 2368, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl96}
+  - {type: line-break, offset: 2368, content: '', id: KR3c0001_SBCK_006-4b05}
+  - {type: variant, offset: 2373, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2391, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl97}
+  - {type: line-break, offset: 2391, content: '', id: KR3c0001_SBCK_006-4b06}
+  - {type: 'kr:newline', offset: 2414, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl98}
+  - {type: line-break, offset: 2414, content: '', id: KR3c0001_SBCK_006-4b07}
+  - {type: punctuation, offset: 2429, content: (, id: KR3c0001_krp_006-bkkpn193}
+  - {type: variant, offset: 2429, length: 0, content: '', WYG: 臣得勢期年君雖知其不}
+  - {type: punctuation, offset: 2439, content: /, id: KR3c0001_krp_006-bkkpn194}
+  - {type: variant, offset: 2439, length: 10, content: 臣得勢期年君雖知其不, WYG: ''}
+  - {type: punctuation, offset: 2449, content: ), id: KR3c0001_krp_006-bkkpn195}
+  - {type: 'kr:newline', offset: 2449, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl99}
+  - {type: line-break, offset: 2449, content: '', id: KR3c0001_SBCK_006-4b08}
+  - {type: punctuation, offset: 2462, content: (, id: KR3c0001_krp_006-bkkpn196}
+  - {type: variant, offset: 2462, length: 2, content: 之何, WYG: ''}
+  - {type: punctuation, offset: 2464, content: /, id: KR3c0001_krp_006-bkkpn197}
+  - {type: punctuation, offset: 2467, content: ), id: KR3c0001_krp_006-bkkpn198}
+  - {type: variant, offset: 2467, length: 0, content: '', WYG: 之何}
+  - {type: punctuation, offset: 2472, content: (, id: KR3c0001_krp_006-bkkpn199}
+  - {type: variant, offset: 2472, length: 0, content: '', WYG: 春秋即周}
+  - {type: punctuation, offset: 2476, content: /, id: KR3c0001_krp_006-bkkpn200}
+  - {type: variant, offset: 2476, length: 7, content: 春秋即周國史也, WYG: ''}
+  - {type: punctuation, offset: 2480, content: ), id: KR3c0001_krp_006-bkkpn201}
+  - {type: 'kr:newline', offset: 2480, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl100}
+  - {type: line-break, offset: 2480, content: '', id: KR3c0001_SBCK_006-4b09}
+  - {type: punctuation, offset: 2480, content: (, id: KR3c0001_krp_006-bkkpn202}
+  - {type: punctuation, offset: 2483, content: /, id: KR3c0001_krp_006-bkkpn203}
+  - {type: punctuation, offset: 2487, content: ), id: KR3c0001_krp_006-bkkpn204}
+  - {type: variant, offset: 2487, length: 0, content: '', WYG: 國史也}
+  - {type: 'kr:newline', offset: 2507, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl101}
+  - {type: line-break, offset: 2507, content: '', id: KR3c0001_SBCK_006-4b10}
+  - {type: page-break, offset: 2508, content: '', id: KR3c0001_WYG_006-8b, image: WYG0729/WYG0729-0069b.png}
+  - {type: 'kr:newline', offset: 2530, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl102}
+  - {type: line-break, offset: 2530, content: '', id: KR3c0001_SBCK_006-4b11}
+  - {type: punctuation, offset: 2540, content: (, id: KR3c0001_krp_006-bkkpn205}
+  - {type: variant, offset: 2540, length: 0, content: '', WYG: 其事適在堂上耳}
+  - {type: punctuation, offset: 2547, content: /, id: KR3c0001_krp_006-bkkpn206}
+  - {type: variant, offset: 2547, length: 7, content: 其事適在堂上耳, WYG: ''}
+  - {type: punctuation, offset: 2554, content: ), id: KR3c0001_krp_006-bkkpn207}
+  - {type: 'kr:newline', offset: 2561, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl103}
+  - {type: line-break, offset: 2561, content: '', id: KR3c0001_SBCK_006-4b12}
+  - {type: 'kr:newline', offset: 2584, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl104}
+  - {type: page-break, offset: 2584, content: '', id: KR3c0001_SBCK_006-5a}
+  - {type: 'kr:newline', offset: 2584, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl105}
+  - {type: line-break, offset: 2584, content: '', id: KR3c0001_SBCK_006-5a01}
+  - {type: 'kr:newline', offset: 2607, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl106}
+  - {type: line-break, offset: 2607, content: '', id: KR3c0001_SBCK_006-5a02}
+  - {type: punctuation, offset: 2627, content: (, id: KR3c0001_krp_006-bkkpn208}
+  - {type: variant, offset: 2627, length: 1, content: 旣, WYG: 臣有請告既}
+  - {type: punctuation, offset: 2631, content: /, id: KR3c0001_krp_006-bkkpn209}
+  - {type: variant, offset: 2631, length: 4, content: 臣有情告, WYG: 出此則左右不為通}
+  - {type: punctuation, offset: 2635, content: ), id: KR3c0001_krp_006-bkkpn210}
+  - {type: 'kr:newline', offset: 2635, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl107}
+  - {type: line-break, offset: 2635, content: '', id: KR3c0001_SBCK_006-5a03}
+  - {type: punctuation, offset: 2635, content: (, id: KR3c0001_krp_006-bkkpn211}
+  - {type: punctuation, offset: 2643, content: /, id: KR3c0001_krp_006-bkkpn212}
+  - {type: variant, offset: 2644, length: 8, content: 此則左右不爲通出, WYG: ''}
+  - {type: punctuation, offset: 2651, content: ), id: KR3c0001_krp_006-bkkpn213}
+  - {type: punctuation, offset: 2658, content: (, id: KR3c0001_krp_006-bkkpn214}
+  - {type: variant, offset: 2658, length: 0, content: '', WYG: 其事既出而}
+  - {type: variant, offset: 2659, length: 1, content: 爲, WYG: 入此則左右不為}
+  - {type: punctuation, offset: 2669, content: /, id: KR3c0001_krp_006-bkkpn215}
+  - {type: variant, offset: 2669, length: 11, content: 其事旣出而不入此則左右, WYG: ''}
+  - {type: punctuation, offset: 2680, content: ), id: KR3c0001_krp_006-bkkpn216}
+  - {type: 'kr:newline', offset: 2682, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl108}
+  - {type: line-break, offset: 2682, content: '', id: KR3c0001_SBCK_006-5a04}
+  - {type: punctuation, offset: 2687, content: (, id: KR3c0001_krp_006-bkkpn217}
+  - {type: variant, offset: 2687, length: 0, content: '', WYG: 其事既入不得至於君}
+  - {type: punctuation, offset: 2696, content: /, id: KR3c0001_krp_006-bkkpn218}
+  - {type: variant, offset: 2696, length: 9, content: 其事旣入不得至於君, WYG: ''}
+  - {type: punctuation, offset: 2705, content: ), id: KR3c0001_krp_006-bkkpn219}
+  - {type: punctuation, offset: 2712, content: (, id: KR3c0001_krp_006-bkkpn220}
+  - {type: variant, offset: 2712, length: 0, content: '', WYG: 其事既出中道}
+  - {type: page-break, offset: 2712, content: '', id: KR3c0001_WYG_006-9a, image: WYG0729/WYG0729-0069c.png}
+  - {type: punctuation, offset: 2718, content: /, id: KR3c0001_krp_006-bkkpn221}
+  - {type: variant, offset: 2718, length: 8, content: 其事旣出中道故也, WYG: ''}
+  - {type: punctuation, offset: 2724, content: ), id: KR3c0001_krp_006-bkkpn222}
+  - {type: 'kr:newline', offset: 2724, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl109}
+  - {type: line-break, offset: 2724, content: '', id: KR3c0001_SBCK_006-5a05}
+  - {type: punctuation, offset: 2724, content: (, id: KR3c0001_krp_006-bkkpn223}
+  - {type: punctuation, offset: 2726, content: /, id: KR3c0001_krp_006-bkkpn224}
+  - {type: punctuation, offset: 2729, content: ), id: KR3c0001_krp_006-bkkpn225}
+  - {type: variant, offset: 2729, length: 0, content: '', WYG: 故也}
+  - {type: variant, offset: 2732, length: 1, content: 擁, WYG: 壅}
+  - {type: variant, offset: 2743, length: 1, content: 戸, WYG: 户}
+  - {type: variant, offset: 2745, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2749, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl110}
+  - {type: line-break, offset: 2749, content: '', id: KR3c0001_SBCK_006-5a06}
+  - {type: variant, offset: 2752, length: 7, content: 也非由杜門守戸, WYG: ''}
+  - {type: punctuation, offset: 2753, content: (, id: KR3c0001_krp_006-bkkpn226}
+  - {type: punctuation, offset: 2760, content: /, id: KR3c0001_krp_006-bkkpn227}
+  - {type: variant, offset: 2767, length: 1, content: 擁, WYG: 壅非由杜門守户也}
+  - {type: punctuation, offset: 2768, content: ), id: KR3c0001_krp_006-bkkpn228}
+  - {type: 'kr:newline', offset: 2781, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl111}
+  - {type: line-break, offset: 2781, content: '', id: KR3c0001_SBCK_006-5a07}
+  - {type: variant, offset: 2792, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 2794, length: 1, content: 寶, WYG: 寳}
+  - {type: variant, offset: 2799, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2804, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl112}
+  - {type: line-break, offset: 2804, content: '', id: KR3c0001_SBCK_006-5a08}
+  - {type: variant, offset: 2806, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 2813, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2827, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl113}
+  - {type: line-break, offset: 2827, content: '', id: KR3c0001_SBCK_006-5a09}
+  - {type: punctuation, offset: 2828, content: (, id: KR3c0001_krp_006-bkkpn229}
+  - {type: variant, offset: 2828, length: 0, content: '', WYG: 凡此上事其勢不}
+  - {type: punctuation, offset: 2835, content: /, id: KR3c0001_krp_006-bkkpn230}
+  - {type: variant, offset: 2835, length: 7, content: 凡此上事其勢不, WYG: ''}
+  - {type: punctuation, offset: 2842, content: ), id: KR3c0001_krp_006-bkkpn231}
+  - {type: punctuation, offset: 2858, content: (, id: KR3c0001_krp_006-bkkpn232}
+  - {type: variant, offset: 2858, length: 0, content: '', WYG: 萬物}
+  - {type: punctuation, offset: 2860, content: /, id: KR3c0001_krp_006-bkkpn233}
+  - {type: variant, offset: 2860, length: 1, content: 萬, WYG: 由}
+  - {type: variant, offset: 2861, length: 1, content: 物, WYG: 正}
+  - {type: punctuation, offset: 2862, content: ), id: KR3c0001_krp_006-bkkpn234}
+  - {type: 'kr:newline', offset: 2862, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl114}
+  - {type: line-break, offset: 2862, content: '', id: KR3c0001_SBCK_006-5a10}
+  - {type: punctuation, offset: 2862, content: (, id: KR3c0001_krp_006-bkkpn235}
+  - {type: punctuation, offset: 2864, content: /, id: KR3c0001_krp_006-bkkpn236}
+  - {type: variant, offset: 2864, length: 2, content: 由正, WYG: ''}
+  - {type: punctuation, offset: 2866, content: ), id: KR3c0001_krp_006-bkkpn237}
+  - {type: variant, offset: 2871, length: 1, content: 德, WYG: 徳}
+  - {type: punctuation, offset: 2877, content: (, id: KR3c0001_krp_006-bkkpn238}
+  - {type: variant, offset: 2877, length: 0, content: '', WYG: 徳精而不過}
+  - {type: punctuation, offset: 2882, content: /, id: KR3c0001_krp_006-bkkpn239}
+  - {type: variant, offset: 2882, length: 5, content: 徳精而不過, WYG: ''}
+  - {type: punctuation, offset: 2887, content: ), id: KR3c0001_krp_006-bkkpn240}
+  - {type: 'kr:newline', offset: 2894, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl115}
+  - {type: line-break, offset: 2894, content: '', id: KR3c0001_SBCK_006-5a11}
+  - {type: punctuation, offset: 2904, content: (, id: KR3c0001_krp_006-bkkpn241}
+  - {type: variant, offset: 2904, length: 0, content: '', WYG: 正者中立故過者令}
+  - {type: punctuation, offset: 2912, content: /, id: KR3c0001_krp_006-bkkpn242}
+  - {type: variant, offset: 2912, length: 8, content: 正者中立故過者令, WYG: ''}
+  - {type: punctuation, offset: 2920, content: ), id: KR3c0001_krp_006-bkkpn243}
+  - {type: page-break, offset: 2922, content: '', id: KR3c0001_WYG_006-9b, image: WYG0729/WYG0729-0069d.png}
+  - {type: 'kr:newline', offset: 2927, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl116}
+  - {type: line-break, offset: 2927, content: '', id: KR3c0001_SBCK_006-5a12}
+  - {type: punctuation, offset: 2929, content: (, id: KR3c0001_krp_006-bkkpn244}
+  - {type: variant, offset: 2929, length: 2, content: 中立, WYG: ''}
+  - {type: punctuation, offset: 2931, content: /, id: KR3c0001_krp_006-bkkpn245}
+  - {type: punctuation, offset: 2934, content: ), id: KR3c0001_krp_006-bkkpn246}
+  - {type: variant, offset: 2934, length: 0, content: '', WYG: 中立}
+  - {type: variant, offset: 2937, length: 4, content: 傷國一也, WYG: ''}
+  - {type: punctuation, offset: 2941, content: (, id: KR3c0001_krp_006-bkkpn247}
+  - {type: punctuation, offset: 2945, content: /, id: KR3c0001_krp_006-bkkpn248}
+  - {type: punctuation, offset: 2950, content: ), id: KR3c0001_krp_006-bkkpn249}
+  - {type: variant, offset: 2950, length: 0, content: '', WYG: 傷國一也}
+  - {type: punctuation, offset: 2956, content: (, id: KR3c0001_krp_006-bkkpn250}
+  - {type: variant, offset: 2956, length: 0, content: '', WYG: 不及於勇}
+  - {type: punctuation, offset: 2960, content: /, id: KR3c0001_krp_006-bkkpn251}
+  - {type: variant, offset: 2960, length: 4, content: 不及於勇, WYG: ''}
+  - {type: punctuation, offset: 2964, content: ), id: KR3c0001_krp_006-bkkpn252}
+  - {type: 'kr:newline', offset: 2964, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl117}
+  - {type: page-break, offset: 2964, content: '', id: KR3c0001_SBCK_006-5b}
+  - {type: 'kr:newline', offset: 2964, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl118}
+  - {type: line-break, offset: 2964, content: '', id: KR3c0001_SBCK_006-5b01}
+  - {type: punctuation, offset: 2970, content: (, id: KR3c0001_krp_006-bkkpn253}
+  - {type: variant, offset: 2970, length: 3, content: 故傷正, WYG: ''}
+  - {type: punctuation, offset: 2973, content: /, id: KR3c0001_krp_006-bkkpn254}
+  - {type: punctuation, offset: 2977, content: ), id: KR3c0001_krp_006-bkkpn255}
+  - {type: variant, offset: 2977, length: 0, content: '', WYG: 故傷正}
+  - {type: punctuation, offset: 2986, content: (, id: KR3c0001_krp_006-bkkpn256}
+  - {type: variant, offset: 2986, length: 4, content: 冝故軍敗, WYG: ''}
+  - {type: punctuation, offset: 2990, content: /, id: KR3c0001_krp_006-bkkpn257}
+  - {type: punctuation, offset: 2994, content: ), id: KR3c0001_krp_006-bkkpn258}
+  - {type: variant, offset: 2994, length: 0, content: '', WYG: 宜故軍敗}
+  - {type: 'kr:newline', offset: 2996, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl119}
+  - {type: line-break, offset: 2996, content: '', id: KR3c0001_SBCK_006-5b02}
+  - {type: variant, offset: 2999, length: 1, content: 於, WYG: 而}
+  - {type: punctuation, offset: 3002, content: (, id: KR3c0001_krp_006-bkkpn259}
+  - {type: variant, offset: 3002, length: 4, content: 故法侵也, WYG: ''}
+  - {type: punctuation, offset: 3006, content: /, id: KR3c0001_krp_006-bkkpn260}
+  - {type: punctuation, offset: 3011, content: ), id: KR3c0001_krp_006-bkkpn261}
+  - {type: variant, offset: 3012, length: 0, content: '', WYG: 法侵也故}
+  - {type: variant, offset: 3014, length: 1, content: 辯, WYG: 辨}
+  - {type: punctuation, offset: 3019, content: (, id: KR3c0001_krp_006-bkkpn262}
+  - {type: variant, offset: 3019, length: 0, content: '', WYG: 言辨而浮誕}
+  - {type: punctuation, offset: 3024, content: /, id: KR3c0001_krp_006-bkkpn263}
+  - {type: variant, offset: 3024, length: 5, content: 言辯而浮誕, WYG: ''}
+  - {type: punctuation, offset: 3029, content: ), id: KR3c0001_krp_006-bkkpn264}
+  - {type: 'kr:newline', offset: 3031, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl120}
+  - {type: line-break, offset: 3031, content: '', id: KR3c0001_SBCK_006-5b03}
+  - {type: punctuation, offset: 3036, content: (, id: KR3c0001_krp_006-bkkpn265}
+  - {type: variant, offset: 3036, length: 0, content: '', WYG: 行難而詭怪}
+  - {type: punctuation, offset: 3041, content: /, id: KR3c0001_krp_006-bkkpn266}
+  - {type: variant, offset: 3041, length: 5, content: 行難而詭恠, WYG: ''}
+  - {type: punctuation, offset: 3046, content: ), id: KR3c0001_krp_006-bkkpn267}
+  - {type: variant, offset: 3053, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 3060, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl121}
+  - {type: line-break, offset: 3060, content: '', id: KR3c0001_SBCK_006-5b04}
+  - {type: variant, offset: 3060, length: 1, content: 苟, WYG: 茍}
+  - {type: variant, offset: 3061, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 3083, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl122}
+  - {type: line-break, offset: 3083, content: '', id: KR3c0001_SBCK_006-5b05}
+  - {type: 'kr:newline', offset: 3106, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl123}
+  - {type: line-break, offset: 3106, content: '', id: KR3c0001_SBCK_006-5b06}
+  - {type: page-break, offset: 3121, content: '', id: KR3c0001_WYG_006-10a, image: WYG0729/WYG0729-0070a.png}
+  - {type: 'kr:newline', offset: 3129, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl124}
+  - {type: line-break, offset: 3129, content: '', id: KR3c0001_SBCK_006-5b07}
+  - {type: punctuation, offset: 3138, content: (, id: KR3c0001_krp_006-bkkpn268}
+  - {type: variant, offset: 3138, length: 4, content: 故曰一曰, WYG: ''}
+  - {type: punctuation, offset: 3142, content: /, id: KR3c0001_krp_006-bkkpn269}
+  - {type: punctuation, offset: 3147, content: ), id: KR3c0001_krp_006-bkkpn270}
+  - {type: variant, offset: 3147, length: 0, content: '', WYG: 故曰一曰}
+  - {type: variant, offset: 3151, length: 1, content: 德, WYG: 徳}
+  - {type: 'kr:newline', offset: 3158, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl125}
+  - {type: line-break, offset: 3158, content: '', id: KR3c0001_SBCK_006-5b08}
+  - {type: punctuation, offset: 3163, content: (, id: KR3c0001_krp_006-bkkpn271}
+  - {type: variant, offset: 3163, length: 0, content: '', WYG: 人君之徳行雖當威嚴既不能事亊盡賢}
+  - {type: punctuation, offset: 3178, content: /, id: KR3c0001_krp_006-bkkpn272}
+  - {type: variant, offset: 3178, length: 16, content: 人君之德行雖當威嚴旣不能事事盡賢, WYG: ''}
+  - {type: punctuation, offset: 3194, content: ), id: KR3c0001_krp_006-bkkpn273}
+  - {type: 'kr:newline', offset: 3200, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl126}
+  - {type: line-break, offset: 3200, content: '', id: KR3c0001_SBCK_006-5b09}
+  - {type: variant, offset: 3207, length: 1, content: 德, WYG: 徳}
+  - {type: punctuation, offset: 3212, content: (, id: KR3c0001_krp_006-bkkpn274}
+  - {type: variant, offset: 3212, length: 0, content: '', WYG: 人曰此人君也謂其道備徳成不察}
+  - {type: punctuation, offset: 3226, content: /, id: KR3c0001_krp_006-bkkpn275}
+  - {type: variant, offset: 3226, length: 14, content: 人曰此人君也謂其道備徳成不察, WYG: 卑}
+  - {type: punctuation, offset: 3240, content: ), id: KR3c0001_krp_006-bkkpn276}
+  - {type: 'kr:newline', offset: 3240, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl127}
+  - {type: line-break, offset: 3240, content: '', id: KR3c0001_SBCK_006-5b10}
+  - {type: punctuation, offset: 3240, content: (, id: KR3c0001_krp_006-bkkpn277}
+  - {type: punctuation, offset: 3241, content: /, id: KR3c0001_krp_006-bkkpn278}
+  - {type: variant, offset: 3241, length: 1, content: 卑, WYG: ''}
+  - {type: punctuation, offset: 3242, content: ), id: KR3c0001_krp_006-bkkpn279}
+  - {type: variant, offset: 3244, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 3248, length: 11, content: 急於司命也則軒冕塞路故, WYG: ''}
+  - {type: punctuation, offset: 3253, content: (, id: KR3c0001_krp_006-bkkpn280}
+  - {type: punctuation, offset: 3264, content: /, id: KR3c0001_krp_006-bkkpn281}
+  - {type: punctuation, offset: 3276, content: ), id: KR3c0001_krp_006-bkkpn282}
+  - {type: variant, offset: 3276, length: 0, content: '', WYG: 則軒冕塞路故急於司命也}
+  - {type: 'kr:newline', offset: 3278, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl128}
+  - {type: line-break, offset: 3278, content: '', id: KR3c0001_SBCK_006-5b11}
+  - {type: punctuation, offset: 3285, content: (, id: KR3c0001_krp_006-bkkpn283}
+  - {type: variant, offset: 3285, length: 8, content: 可使以富畜貧亦可, WYG: ''}
+  - {type: punctuation, offset: 3293, content: /, id: KR3c0001_krp_006-bkkpn284}
+  - {type: punctuation, offset: 3302, content: ), id: KR3c0001_krp_006-bkkpn285}
+  - {type: variant, offset: 3302, length: 0, content: '', WYG: 可使以富畜貧亦可}
+  - {type: punctuation, offset: 3311, content: (, id: KR3c0001_krp_006-bkkpn286}
+  - {type: variant, offset: 3311, length: 2, content: 亦可, WYG: ''}
+  - {type: punctuation, offset: 3313, content: /, id: KR3c0001_krp_006-bkkpn287}
+  - {type: punctuation, offset: 3315, content: ), id: KR3c0001_krp_006-bkkpn288}
+  - {type: 'kr:newline', offset: 3315, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl129}
+  - {type: line-break, offset: 3315, content: '', id: KR3c0001_SBCK_006-5b12}
+  - {type: punctuation, offset: 3315, content: (, id: KR3c0001_krp_006-bkkpn289}
+  - {type: variant, offset: 3315, length: 4, content: 以貴臣賤, WYG: ''}
+  - {type: punctuation, offset: 3321, content: /, id: KR3c0001_krp_006-bkkpn290}
+  - {type: punctuation, offset: 3327, content: ), id: KR3c0001_krp_006-bkkpn291}
+  - {type: variant, offset: 3327, length: 0, content: '', WYG: 以貴臣賤亦可}
+  - {type: punctuation, offset: 3337, content: (, id: KR3c0001_krp_006-bkkpn292}
+  - {type: variant, offset: 3337, length: 4, content: 富貴貧賤, WYG: ''}
+  - {type: punctuation, offset: 3341, content: /, id: KR3c0001_krp_006-bkkpn293}
+  - {type: punctuation, offset: 3346, content: ), id: KR3c0001_krp_006-bkkpn294}
+  - {type: variant, offset: 3346, length: 0, content: '', WYG: 富貴貧賤}
+  - {type: 'kr:newline', offset: 3352, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl130}
+  - {type: page-break, offset: 3352, content: '', id: KR3c0001_SBCK_006-6a}
+  - {type: 'kr:newline', offset: 3352, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl131}
+  - {type: line-break, offset: 3352, content: '', id: KR3c0001_SBCK_006-6a01}
+  - {type: page-break, offset: 3354, content: '', id: KR3c0001_WYG_006-10b, image: WYG0729/WYG0729-0070b.png}
+  - {type: punctuation, offset: 3357, content: (, id: KR3c0001_krp_006-bkkpn295}
+  - {type: variant, offset: 3357, length: 6, content: 此六者以臨下, WYG: ''}
+  - {type: punctuation, offset: 3363, content: /, id: KR3c0001_krp_006-bkkpn296}
+  - {type: punctuation, offset: 3370, content: ), id: KR3c0001_krp_006-bkkpn297}
+  - {type: variant, offset: 3370, length: 0, content: '', WYG: 此六者以臨下}
+  - {type: punctuation, offset: 3379, content: (, id: KR3c0001_krp_006-bkkpn298}
+  - {type: variant, offset: 3379, length: 5, content: 合皆欲謀操, WYG: ''}
+  - {type: punctuation, offset: 3384, content: /, id: KR3c0001_krp_006-bkkpn299}
+  - {type: punctuation, offset: 3389, content: ), id: KR3c0001_krp_006-bkkpn300}
+  - {type: 'kr:newline', offset: 3389, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl132}
+  - {type: line-break, offset: 3389, content: '', id: KR3c0001_SBCK_006-6a02}
+  - {type: punctuation, offset: 3389, content: (, id: KR3c0001_krp_006-bkkpn301}
+  - {type: variant, offset: 3389, length: 0, content: '', WYG: 合皆欲操此六}
+  - {type: punctuation, offset: 3390, content: /, id: KR3c0001_krp_006-bkkpn302}
+  - {type: variant, offset: 3390, length: 1, content: 六, WYG: ''}
+  - {type: punctuation, offset: 3391, content: ), id: KR3c0001_krp_006-bkkpn303}
+  - {type: 'kr:newline', offset: 3413, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl133}
+  - {type: line-break, offset: 3413, content: '', id: KR3c0001_SBCK_006-6a03}
+  - {type: 'kr:newline', offset: 3436, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl134}
+  - {type: line-break, offset: 3436, content: '', id: KR3c0001_SBCK_006-6a04}
+  - {type: punctuation, offset: 3441, content: (, id: KR3c0001_krp_006-bkkpn304}
+  - {type: variant, offset: 3441, length: 8, content: 是君父之不智也令, WYG: 今}
+  - {type: punctuation, offset: 3448, content: /, id: KR3c0001_krp_006-bkkpn305}
+  - {type: punctuation, offset: 3455, content: ), id: KR3c0001_krp_006-bkkpn306}
+  - {type: variant, offset: 3455, length: 0, content: '', WYG: 是父君之不智也}
+  - {type: 'kr:newline', offset: 3468, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl135}
+  - {type: line-break, offset: 3468, content: '', id: KR3c0001_SBCK_006-6a05}
+  - {type: 'kr:newline', offset: 3491, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl136}
+  - {type: line-break, offset: 3491, content: '', id: KR3c0001_SBCK_006-6a06}
+  - {type: punctuation, offset: 3496, content: (, id: KR3c0001_krp_006-bkkpn307}
+  - {type: variant, offset: 3496, length: 0, content: '', WYG: 牽於}
+  - {type: punctuation, offset: 3498, content: /, id: KR3c0001_krp_006-bkkpn308}
+  - {type: variant, offset: 3498, length: 2, content: 牽於, WYG: ''}
+  - {type: punctuation, offset: 3500, content: ), id: KR3c0001_krp_006-bkkpn309}
+  - {type: punctuation, offset: 3508, content: (, id: KR3c0001_krp_006-bkkpn310}
+  - {type: variant, offset: 3508, length: 3, content: 故曰瑕, WYG: ''}
+  - {type: punctuation, offset: 3511, content: /, id: KR3c0001_krp_006-bkkpn311}
+  - {type: punctuation, offset: 3515, content: ), id: KR3c0001_krp_006-bkkpn312}
+  - {type: variant, offset: 3515, length: 0, content: '', WYG: 故曰瑕}
+  - {type: 'kr:newline', offset: 3519, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl137}
+  - {type: line-break, offset: 3519, content: '', id: KR3c0001_SBCK_006-6a07}
+  - {type: variant, offset: 3520, length: 1, content: 事, WYG: 亊}
+  - {type: variant, offset: 3531, length: 1, content: 戸, WYG: 户}
+  - {type: variant, offset: 3533, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 3541, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl138}
+  - {type: line-break, offset: 3541, content: '', id: KR3c0001_SBCK_006-6a08}
+  - {type: page-break, offset: 3546, content: '', id: KR3c0001_WYG_006-11a, image: WYG0729/WYG0729-0070c.png}
+  - {type: 'kr:newline', offset: 3564, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl139}
+  - {type: line-break, offset: 3564, content: '', id: KR3c0001_SBCK_006-6a09}
+  - {type: variant, offset: 3565, length: 1, content: 愼, WYG: 慎}
+  - {type: variant, offset: 3574, length: 1, content: 寶, WYG: 寳}
+  - {type: 'kr:newline', offset: 3588, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl140}
+  - {type: line-break, offset: 3588, content: '', id: KR3c0001_SBCK_006-6a10}
+  - {type: 'kr:newline', offset: 3611, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl141}
+  - {type: line-break, offset: 3611, content: '', id: KR3c0001_SBCK_006-6a11}
+  - {type: variant, offset: 3621, length: 1, content: 戸, WYG: 户}
+  - {type: variant, offset: 3623, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 3634, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl142}
+  - {type: line-break, offset: 3634, content: '', id: KR3c0001_SBCK_006-6a12}
+  - {type: 'kr:newline', offset: 3658, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl143}
+  - {type: page-break, offset: 3658, content: '', id: KR3c0001_SBCK_006-6b}
+  - {type: 'kr:newline', offset: 3658, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl144}
+  - {type: line-break, offset: 3658, content: '', id: KR3c0001_SBCK_006-6b01}
+  - {type: 'kr:newline', offset: 3681, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl145}
+  - {type: line-break, offset: 3681, content: '', id: KR3c0001_SBCK_006-6b02}
+  - {type: variant, offset: 3685, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 3704, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl146}
+  - {type: line-break, offset: 3704, content: '', id: KR3c0001_SBCK_006-6b03}
+  - {type: page-break, offset: 3714, content: '', id: KR3c0001_WYG_006-11b, image: WYG0729/WYG0729-0070d.png}
+  - {type: 'kr:newline', offset: 3728, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl147}
+  - {type: line-break, offset: 3728, content: '', id: KR3c0001_SBCK_006-6b04}
+  - {type: variant, offset: 3728, length: 1, content: 脩, WYG: 修}
+  - {type: punctuation, offset: 3734, content: (, id: KR3c0001_krp_006-bkkpn313}
+  - {type: variant, offset: 3734, length: 0, content: '', WYG: 服行也先自}
+  - {type: punctuation, offset: 3739, content: /, id: KR3c0001_krp_006-bkkpn314}
+  - {type: variant, offset: 3739, length: 5, content: 服行也先自, WYG: ''}
+  - {type: punctuation, offset: 3744, content: ), id: KR3c0001_krp_006-bkkpn315}
+  - {type: punctuation, offset: 3749, content: (, id: KR3c0001_krp_006-bkkpn316}
+  - {type: variant, offset: 3749, length: 0, content: '', WYG: 論人才行}
+  - {type: punctuation, offset: 3753, content: /, id: KR3c0001_krp_006-bkkpn317}
+  - {type: variant, offset: 3753, length: 5, content: 論人才行矜, WYG: 務}
+  - {type: punctuation, offset: 3757, content: ), id: KR3c0001_krp_006-bkkpn318}
+  - {type: 'kr:newline', offset: 3762, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl148}
+  - {type: line-break, offset: 3762, content: '', id: KR3c0001_SBCK_006-6b05}
+  - {type: punctuation, offset: 3765, content: (, id: KR3c0001_krp_006-bkkpn319}
+  - {type: variant, offset: 3765, length: 4, content: 謙以接物, WYG: ''}
+  - {type: punctuation, offset: 3769, content: /, id: KR3c0001_krp_006-bkkpn320}
+  - {type: variant, offset: 3772, length: 1, content: 矜, WYG: 務謙而接物}
+  - {type: punctuation, offset: 3773, content: ), id: KR3c0001_krp_006-bkkpn321}
+  - {type: variant, offset: 3780, length: 4, content: 虛也損者, WYG: 虚}
+  - {type: punctuation, offset: 3782, content: (, id: KR3c0001_krp_006-bkkpn322}
+  - {type: punctuation, offset: 3785, content: /, id: KR3c0001_krp_006-bkkpn323}
+  - {type: punctuation, offset: 3789, content: ), id: KR3c0001_krp_006-bkkpn324}
+  - {type: variant, offset: 3789, length: 0, content: '', WYG: 損者也}
+  - {type: 'kr:newline', offset: 3793, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl149}
+  - {type: line-break, offset: 3793, content: '', id: KR3c0001_SBCK_006-6b06}
+  - {type: variant, offset: 3795, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 3798, content: (, id: KR3c0001_krp_006-bkkpn325}
+  - {type: variant, offset: 3798, length: 0, content: '', WYG: 既滿而虚則}
+  - {type: punctuation, offset: 3802, content: /, id: KR3c0001_krp_006-bkkpn326}
+  - {type: variant, offset: 3802, length: 5, content: 旣滿而虚則, WYG: ''}
+  - {type: punctuation, offset: 3807, content: ), id: KR3c0001_krp_006-bkkpn327}
+  - {type: punctuation, offset: 3813, content: (, id: KR3c0001_krp_006-bkkpn328}
+  - {type: variant, offset: 3813, length: 3, content: 人之類, WYG: ''}
+  - {type: punctuation, offset: 3816, content: /, id: KR3c0001_krp_006-bkkpn329}
+  - {type: punctuation, offset: 3820, content: ), id: KR3c0001_krp_006-bkkpn330}
+  - {type: variant, offset: 3820, length: 0, content: '', WYG: 人之類}
+  - {type: 'kr:newline', offset: 3825, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl150}
+  - {type: line-break, offset: 3825, content: '', id: KR3c0001_SBCK_006-6b07}
+  - {type: punctuation, offset: 3831, content: (, id: KR3c0001_krp_006-bkkpn331}
+  - {type: variant, offset: 3831, length: 0, content: '', WYG: 髙士必順}
+  - {type: punctuation, offset: 3835, content: /, id: KR3c0001_krp_006-bkkpn332}
+  - {type: variant, offset: 3835, length: 5, content: 髙士必順旣, WYG: 既}
+  - {type: punctuation, offset: 3839, content: ), id: KR3c0001_krp_006-bkkpn333}
+  - {type: punctuation, offset: 3852, content: (, id: KR3c0001_krp_006-bkkpn334}
+  - {type: variant, offset: 3852, length: 0, content: '', WYG: 智}
+  - {type: punctuation, offset: 3853, content: /, id: KR3c0001_krp_006-bkkpn335}
+  - {type: variant, offset: 3853, length: 4, content: 智謹功也, WYG: ''}
+  - {type: punctuation, offset: 3854, content: ), id: KR3c0001_krp_006-bkkpn336}
+  - {type: 'kr:newline', offset: 3854, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl151}
+  - {type: line-break, offset: 3854, content: '', id: KR3c0001_SBCK_006-6b08}
+  - {type: punctuation, offset: 3854, content: (, id: KR3c0001_krp_006-bkkpn337}
+  - {type: punctuation, offset: 3857, content: /, id: KR3c0001_krp_006-bkkpn338}
+  - {type: punctuation, offset: 3861, content: ), id: KR3c0001_krp_006-bkkpn339}
+  - {type: variant, offset: 3861, length: 0, content: '', WYG: 謹功也}
+  - {type: variant, offset: 3876, length: 1, content: 時, WYG: 事}
+  - {type: 'kr:newline', offset: 3881, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl152}
+  - {type: line-break, offset: 3881, content: '', id: KR3c0001_SBCK_006-6b09}
+  - {type: punctuation, offset: 3885, content: (, id: KR3c0001_krp_006-bkkpn340}
+  - {type: variant, offset: 3885, length: 18, content: 遇有道之時其業必見簡弃如此者可謂愚士, WYG: ''}
+  - {type: punctuation, offset: 3903, content: /, id: KR3c0001_krp_006-bkkpn341}
+  - {type: variant, offset: 3906, length: 1, content: 日, WYG: 曰}
+  - {type: punctuation, offset: 3921, content: ), id: KR3c0001_krp_006-bkkpn342}
+  - {type: variant, offset: 3921, length: 0, content: '', WYG: 遇有道之時其業必見簡棄如此者可謂愚士}
+  - {type: 'kr:newline', offset: 3926, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl153}
+  - {type: line-break, offset: 3926, content: '', id: KR3c0001_SBCK_006-6b10}
+  - {type: punctuation, offset: 3929, content: (, id: KR3c0001_krp_006-bkkpn343}
+  - {type: variant, offset: 3929, length: 0, content: '', WYG: 賢士必修}
+  - {type: page-break, offset: 3929, content: '', id: KR3c0001_WYG_006-12a, image: WYG0729/WYG0729-0071a.png}
+  - {type: punctuation, offset: 3933, content: /, id: KR3c0001_krp_006-bkkpn344}
+  - {type: variant, offset: 3933, length: 4, content: 賢士必脩, WYG: ''}
+  - {type: punctuation, offset: 3937, content: ), id: KR3c0001_krp_006-bkkpn345}
+  - {type: punctuation, offset: 3945, content: (, id: KR3c0001_krp_006-bkkpn346}
+  - {type: variant, offset: 3945, length: 0, content: '', WYG: 王主必度}
+  - {type: punctuation, offset: 3949, content: /, id: KR3c0001_krp_006-bkkpn347}
+  - {type: variant, offset: 3949, length: 4, content: 王主必度, WYG: ''}
+  - {type: punctuation, offset: 3953, content: ), id: KR3c0001_krp_006-bkkpn348}
+  - {type: 'kr:newline', offset: 3958, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl154}
+  - {type: line-break, offset: 3958, content: '', id: KR3c0001_SBCK_006-6b11}
+  - {type: 'kr:newline', offset: 3981, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl155}
+  - {type: line-break, offset: 3981, content: '', id: KR3c0001_SBCK_006-6b12}
+  - {type: punctuation, offset: 3991, content: (, id: KR3c0001_krp_006-bkkpn349}
+  - {type: variant, offset: 3991, length: 0, content: '', WYG: 不能已}
+  - {type: punctuation, offset: 3994, content: /, id: KR3c0001_krp_006-bkkpn350}
+  - {type: variant, offset: 3994, length: 3, content: 不能己, WYG: ''}
+  - {type: punctuation, offset: 3997, content: ), id: KR3c0001_krp_006-bkkpn351}
+  - {type: variant, offset: 4004, length: 1, content: 聽, WYG: 聴}
+  - {type: variant, offset: 4006, length: 1, content: 丗, WYG: 世賢明}
+  - {type: punctuation, offset: 4007, content: (, id: KR3c0001_krp_006-bkkpn352}
+  - {type: punctuation, offset: 4009, content: /, id: KR3c0001_krp_006-bkkpn353}
+  - {type: variant, offset: 4009, length: 2, content: 賢明, WYG: 必公誠於國以}
+  - {type: punctuation, offset: 4011, content: ), id: KR3c0001_krp_006-bkkpn354}
+  - {type: 'kr:newline', offset: 4011, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl156}
+  - {type: page-break, offset: 4011, content: '', id: KR3c0001_SBCK_006-7a}
+  - {type: 'kr:newline', offset: 4011, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl157}
+  - {type: line-break, offset: 4011, content: '', id: KR3c0001_SBCK_006-7a01}
+  - {type: punctuation, offset: 4011, content: (, id: KR3c0001_krp_006-bkkpn355}
+  - {type: punctuation, offset: 4017, content: /, id: KR3c0001_krp_006-bkkpn356}
+  - {type: variant, offset: 4017, length: 6, content: 必公誠於國以, WYG: ''}
+  - {type: punctuation, offset: 4023, content: ), id: KR3c0001_krp_006-bkkpn357}
+  - {type: punctuation, offset: 4031, content: (, id: KR3c0001_krp_006-bkkpn358}
+  - {type: variant, offset: 4031, length: 0, content: '', WYG: 忠臣必直}
+  - {type: punctuation, offset: 4035, content: /, id: KR3c0001_krp_006-bkkpn359}
+  - {type: variant, offset: 4035, length: 4, content: 忠臣必直, WYG: ''}
+  - {type: punctuation, offset: 4039, content: ), id: KR3c0001_krp_006-bkkpn360}
+  - {type: 'kr:newline', offset: 4046, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl158}
+  - {type: line-break, offset: 4046, content: '', id: KR3c0001_SBCK_006-7a02}
+  - {type: punctuation, offset: 4048, content: (, id: KR3c0001_krp_006-bkkpn361}
+  - {type: variant, offset: 4048, length: 0, content: '', WYG: 唯賢}
+  - {type: punctuation, offset: 4050, content: /, id: KR3c0001_krp_006-bkkpn362}
+  - {type: variant, offset: 4050, length: 2, content: 唯賢, WYG: ''}
+  - {type: punctuation, offset: 4052, content: ), id: KR3c0001_krp_006-bkkpn363}
+  - {type: punctuation, offset: 4061, content: (, id: KR3c0001_krp_006-bkkpn364}
+  - {type: variant, offset: 4061, length: 3, content: 必禄也, WYG: ''}
+  - {type: punctuation, offset: 4064, content: /, id: KR3c0001_krp_006-bkkpn365}
+  - {type: punctuation, offset: 4067, content: ), id: KR3c0001_krp_006-bkkpn366}
+  - {type: variant, offset: 4067, length: 0, content: '', WYG: 受禄也}
+  - {type: 'kr:newline', offset: 4075, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl159}
+  - {type: line-break, offset: 4075, content: '', id: KR3c0001_SBCK_006-7a03}
+  - {type: punctuation, offset: 4088, content: (, id: KR3c0001_krp_006-bkkpn367}
+  - {type: variant, offset: 4088, length: 0, content: '', WYG: 治雖未大足}
+  - {type: punctuation, offset: 4093, content: /, id: KR3c0001_krp_006-bkkpn368}
+  - {type: variant, offset: 4093, length: 5, content: 治雖未大足, WYG: ''}
+  - {type: punctuation, offset: 4098, content: ), id: KR3c0001_krp_006-bkkpn369}
+  - {type: 'kr:newline', offset: 4104, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl160}
+  - {type: line-break, offset: 4104, content: '', id: KR3c0001_SBCK_006-7a04}
+  - {type: punctuation, offset: 4126, content: (, id: KR3c0001_krp_006-bkkpn370}
+  - {type: variant, offset: 4126, length: 0, content: '', WYG: 誣能}
+  - {type: punctuation, offset: 4128, content: /, id: KR3c0001_krp_006-bkkpn371}
+  - {type: variant, offset: 4128, length: 8, content: 誣能可知起下文也, WYG: ''}
+  - {type: punctuation, offset: 4130, content: ), id: KR3c0001_krp_006-bkkpn372}
+  - {type: 'kr:newline', offset: 4130, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl161}
+  - {type: line-break, offset: 4130, content: '', id: KR3c0001_SBCK_006-7a05}
+  - {type: punctuation, offset: 4130, content: (, id: KR3c0001_krp_006-bkkpn373}
+  - {type: punctuation, offset: 4136, content: /, id: KR3c0001_krp_006-bkkpn374}
+  - {type: punctuation, offset: 4143, content: ), id: KR3c0001_krp_006-bkkpn375}
+  - {type: variant, offset: 4143, length: 0, content: '', WYG: 可知起下文也}
+  - {type: page-break, offset: 4143, content: '', id: KR3c0001_WYG_006-12b, image: WYG0729/WYG0729-0071b.png}
+  - {type: punctuation, offset: 4149, content: (, id: KR3c0001_krp_006-bkkpn376}
+  - {type: variant, offset: 4149, length: 3, content: 自稱也, WYG: ''}
+  - {type: punctuation, offset: 4152, content: /, id: KR3c0001_krp_006-bkkpn377}
+  - {type: punctuation, offset: 4155, content: ), id: KR3c0001_krp_006-bkkpn378}
+  - {type: variant, offset: 4155, length: 0, content: '', WYG: 自稱}
+  - {type: variant, offset: 4162, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 4163, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl162}
+  - {type: line-break, offset: 4163, content: '', id: KR3c0001_SBCK_006-7a06}
+  - {type: variant, offset: 4166, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 4171, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 4173, content: (, id: KR3c0001_krp_006-bkkpn379}
+  - {type: variant, offset: 4173, length: 4, content: 作此李官, WYG: ''}
+  - {type: punctuation, offset: 4177, content: /, id: KR3c0001_krp_006-bkkpn380}
+  - {type: punctuation, offset: 4182, content: ), id: KR3c0001_krp_006-bkkpn381}
+  - {type: variant, offset: 4182, length: 0, content: '', WYG: 作此李官}
+  - {type: variant, offset: 4184, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 4191, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl163}
+  - {type: line-break, offset: 4191, content: '', id: KR3c0001_SBCK_006-7a07}
+  - {type: variant, offset: 4200, length: 1, content: 德, WYG: 徳謂各精}
+  - {type: punctuation, offset: 4201, content: (, id: KR3c0001_krp_006-bkkpn382}
+  - {type: punctuation, offset: 4204, content: /, id: KR3c0001_krp_006-bkkpn383}
+  - {type: variant, offset: 4204, length: 3, content: 謂各精, WYG: ''}
+  - {type: punctuation, offset: 4207, content: ), id: KR3c0001_krp_006-bkkpn384}
+  - {type: 'kr:newline', offset: 4218, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl164}
+  - {type: line-break, offset: 4218, content: '', id: KR3c0001_SBCK_006-7a08}
+  - {type: punctuation, offset: 4239, content: (, id: KR3c0001_krp_006-bkkpn385}
+  - {type: variant, offset: 4239, length: 0, content: '', WYG: 結上}
+  - {type: punctuation, offset: 4241, content: /, id: KR3c0001_krp_006-bkkpn386}
+  - {type: variant, offset: 4241, length: 2, content: 結上, WYG: ''}
+  - {type: punctuation, offset: 4243, content: ), id: KR3c0001_krp_006-bkkpn387}
+  - {type: 'kr:newline', offset: 4244, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl165}
+  - {type: line-break, offset: 4244, content: '', id: KR3c0001_SBCK_006-7a09}
+  - {type: punctuation, offset: 4253, content: (, id: KR3c0001_krp_006-bkkpn388}
+  - {type: variant, offset: 4253, length: 0, content: '', WYG: 徳不足以}
+  - {type: punctuation, offset: 4257, content: /, id: KR3c0001_krp_006-bkkpn389}
+  - {type: variant, offset: 4257, length: 4, content: 德不足以, WYG: ''}
+  - {type: punctuation, offset: 4261, content: ), id: KR3c0001_krp_006-bkkpn390}
+  - {type: punctuation, offset: 4270, content: (, id: KR3c0001_krp_006-bkkpn391}
+  - {type: variant, offset: 4270, length: 0, content: '', WYG: 直以勢}
+  - {type: punctuation, offset: 4273, content: /, id: KR3c0001_krp_006-bkkpn392}
+  - {type: variant, offset: 4273, length: 1, content: 直, WYG: 故}
+  - {type: variant, offset: 4274, length: 1, content: 以, WYG: 每}
+  - {type: variant, offset: 4275, length: 1, content: 勢, SBCK: 􅀔}
+  - {type: variant, offset: 4275, length: 1, content: 勢, WYG: 舉}
+  - {type: punctuation, offset: 4276, content: ), id: KR3c0001_krp_006-bkkpn393}
+  - {type: 'kr:newline', offset: 4276, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl166}
+  - {type: line-break, offset: 4276, content: '', id: KR3c0001_SBCK_006-7a10}
+  - {type: punctuation, offset: 4276, content: (, id: KR3c0001_krp_006-bkkpn394}
+  - {type: punctuation, offset: 4279, content: /, id: KR3c0001_krp_006-bkkpn395}
+  - {type: variant, offset: 4279, length: 3, content: 故每舉, WYG: ''}
+  - {type: punctuation, offset: 4282, content: ), id: KR3c0001_krp_006-bkkpn396}
+  - {type: variant, offset: 4297, length: 1, content: 丗, WYG: 世}
+  - {type: 'kr:newline', offset: 4302, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl167}
+  - {type: line-break, offset: 4302, content: '', id: KR3c0001_SBCK_006-7a11}
+  - {type: 'kr:newline', offset: 4325, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl168}
+  - {type: line-break, offset: 4325, content: '', id: KR3c0001_SBCK_006-7a12}
+  - {type: page-break, offset: 4330, content: '', id: KR3c0001_WYG_006-13a, image: WYG0729/WYG0729-0071c.png}
+  - {type: punctuation, offset: 4336, content: (, id: KR3c0001_krp_006-bkkpn397}
+  - {type: variant, offset: 4336, length: 0, content: '', WYG: 三代無能授於有能桀紂失之湯武得之}
+  - {type: punctuation, offset: 4352, content: /, id: KR3c0001_krp_006-bkkpn398}
+  - {type: variant, offset: 4352, length: 16, content: 三代無能授於有能桀紂失之湯武得之, WYG: 其刑}
+  - {type: punctuation, offset: 4368, content: ), id: KR3c0001_krp_006-bkkpn399}
+  - {type: 'kr:newline', offset: 4368, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl169}
+  - {type: page-break, offset: 4368, content: '', id: KR3c0001_SBCK_006-7b}
+  - {type: 'kr:newline', offset: 4368, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl170}
+  - {type: line-break, offset: 4368, content: '', id: KR3c0001_SBCK_006-7b01}
+  - {type: punctuation, offset: 4368, content: (, id: KR3c0001_krp_006-bkkpn400}
+  - {type: punctuation, offset: 4370, content: /, id: KR3c0001_krp_006-bkkpn401}
+  - {type: variant, offset: 4370, length: 2, content: 其刑, WYG: ''}
+  - {type: punctuation, offset: 4372, content: ), id: KR3c0001_krp_006-bkkpn402}
+  - {type: 'kr:newline', offset: 4393, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl171}
+  - {type: line-break, offset: 4393, content: '', id: KR3c0001_SBCK_006-7b02}
+  - {type: punctuation, offset: 4412, content: (, id: KR3c0001_krp_006-bkkpn403}
+  - {type: variant, offset: 4412, length: 0, content: '', WYG: 兵有四患則}
+  - {type: punctuation, offset: 4417, content: /, id: KR3c0001_krp_006-bkkpn404}
+  - {type: variant, offset: 4417, length: 12, content: 兵有四患則之理難明故惑也, WYG: ''}
+  - {type: punctuation, offset: 4422, content: ), id: KR3c0001_krp_006-bkkpn405}
+  - {type: 'kr:newline', offset: 4422, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl172}
+  - {type: line-break, offset: 4422, content: '', id: KR3c0001_SBCK_006-7b03}
+  - {type: punctuation, offset: 4422, content: (, id: KR3c0001_krp_006-bkkpn406}
+  - {type: punctuation, offset: 4429, content: /, id: KR3c0001_krp_006-bkkpn407}
+  - {type: punctuation, offset: 4437, content: ), id: KR3c0001_krp_006-bkkpn408}
+  - {type: variant, offset: 4437, length: 0, content: '', WYG: 之理難明故惑也}
+  - {type: punctuation, offset: 4450, content: (, id: KR3c0001_krp_006-bkkpn409}
+  - {type: variant, offset: 4450, length: 5, content: 不廢旣不廢, WYG: ''}
+  - {type: punctuation, offset: 4455, content: /, id: KR3c0001_krp_006-bkkpn410}
+  - {type: variant, offset: 4459, length: 1, content: 興, WYG: 與不廢既不廢矣又欲廢之}
+  - {type: punctuation, offset: 4460, content: ), id: KR3c0001_krp_006-bkkpn411}
+  - {type: 'kr:newline', offset: 4460, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl173}
+  - {type: line-break, offset: 4460, content: '', id: KR3c0001_SBCK_006-7b04}
+  - {type: punctuation, offset: 4460, content: (, id: KR3c0001_krp_006-bkkpn412}
+  - {type: punctuation, offset: 4464, content: /, id: KR3c0001_krp_006-bkkpn413}
+  - {type: variant, offset: 4464, length: 5, content: 矣乆欲廢之, WYG: ''}
+  - {type: punctuation, offset: 4469, content: ), id: KR3c0001_krp_006-bkkpn414}
+  - {type: punctuation, offset: 4476, content: (, id: KR3c0001_krp_006-bkkpn415}
+  - {type: variant, offset: 4476, length: 0, content: '', WYG: 廢之則寇來無以禦固傷國不廢}
+  - {type: punctuation, offset: 4489, content: /, id: KR3c0001_krp_006-bkkpn416}
+  - {type: variant, offset: 4489, length: 15, content: 廢之則冦來無以禦則傷國也不廢黃, WYG: 黄}
+  - {type: punctuation, offset: 4503, content: ), id: KR3c0001_krp_006-bkkpn417}
+  - {type: 'kr:newline', offset: 4505, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl174}
+  - {type: line-break, offset: 4505, content: '', id: KR3c0001_SBCK_006-7b05}
+  - {type: punctuation, offset: 4519, content: (, id: KR3c0001_krp_006-bkkpn418}
+  - {type: variant, offset: 4519, length: 0, content: '', WYG: 資用也率土之濱莫非}
+  - {type: punctuation, offset: 4527, content: /, id: KR3c0001_krp_006-bkkpn419}
+  - {type: variant, offset: 4527, length: 9, content: 資用也率土之賔莫非, WYG: ''}
+  - {type: punctuation, offset: 4536, content: ), id: KR3c0001_krp_006-bkkpn420}
+  - {type: 'kr:newline', offset: 4538, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl175}
+  - {type: line-break, offset: 4538, content: '', id: KR3c0001_SBCK_006-7b06}
+  - {type: punctuation, offset: 4554, content: (, id: KR3c0001_krp_006-bkkpn421}
+  - {type: variant, offset: 4554, length: 0, content: '', WYG: 三帝之時天下}
+  - {type: page-break, offset: 4558, content: '', id: KR3c0001_WYG_006-13b, image: WYG0729/WYG0729-0071d.png}
+  - {type: punctuation, offset: 4560, content: /, id: KR3c0001_krp_006-bkkpn422}
+  - {type: variant, offset: 4560, length: 6, content: 三帝之時天下, WYG: ''}
+  - {type: punctuation, offset: 4566, content: ), id: KR3c0001_krp_006-bkkpn423}
+  - {type: 'kr:newline', offset: 4569, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl176}
+  - {type: line-break, offset: 4569, content: '', id: KR3c0001_SBCK_006-7b07}
+  - {type: 'kr:newline', offset: 4592, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl177}
+  - {type: line-break, offset: 4592, content: '', id: KR3c0001_SBCK_006-7b08}
+  - {type: punctuation, offset: 4594, content: (, id: KR3c0001_krp_006-bkkpn424}
+  - {type: variant, offset: 4594, length: 9, content: 於國而治民務積聚也, WYG: ''}
+  - {type: punctuation, offset: 4603, content: /, id: KR3c0001_krp_006-bkkpn425}
+  - {type: variant, offset: 4610, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 4612, content: ), id: KR3c0001_krp_006-bkkpn426}
+  - {type: variant, offset: 4612, length: 0, content: '', WYG: 於為家治民務積聚也}
+  - {type: punctuation, offset: 4619, content: (, id: KR3c0001_krp_006-bkkpn427}
+  - {type: variant, offset: 4619, length: 0, content: '', WYG: 動靜失宜}
+  - {type: punctuation, offset: 4623, content: /, id: KR3c0001_krp_006-bkkpn428}
+  - {type: variant, offset: 4623, length: 4, content: 動靜失冝, WYG: ''}
+  - {type: punctuation, offset: 4627, content: ), id: KR3c0001_krp_006-bkkpn429}
+  - {type: 'kr:newline', offset: 4630, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl178}
+  - {type: line-break, offset: 4630, content: '', id: KR3c0001_SBCK_006-7b09}
+  - {type: 'kr:newline', offset: 4653, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl179}
+  - {type: line-break, offset: 4653, content: '', id: KR3c0001_SBCK_006-7b10}
+  - {type: punctuation, offset: 4675, content: (, id: KR3c0001_krp_006-bkkpn430}
+  - {type: variant, offset: 4675, length: 0, content: '', WYG: 輕}
+  - {type: punctuation, offset: 4676, content: /, id: KR3c0001_krp_006-bkkpn431}
+  - {type: variant, offset: 4676, length: 1, content: 輕, WYG: 則乖正故道}
+  - {type: punctuation, offset: 4677, content: ), id: KR3c0001_krp_006-bkkpn432}
+  - {type: 'kr:newline', offset: 4677, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl180}
+  - {type: line-break, offset: 4677, content: '', id: KR3c0001_SBCK_006-7b11}
+  - {type: punctuation, offset: 4677, content: (, id: KR3c0001_krp_006-bkkpn433}
+  - {type: punctuation, offset: 4682, content: /, id: KR3c0001_krp_006-bkkpn434}
+  - {type: variant, offset: 4682, length: 5, content: 則乖正故道, WYG: ''}
+  - {type: punctuation, offset: 4687, content: ), id: KR3c0001_krp_006-bkkpn435}
+  - {type: 'kr:newline', offset: 4706, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl181}
+  - {type: line-break, offset: 4706, content: '', id: KR3c0001_SBCK_006-7b12}
+  - {type: variant, offset: 4706, length: 1, content: 僞, WYG: 偽}
+  - {type: variant, offset: 4707, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 4718, content: (, id: KR3c0001_krp_006-bkkpn436}
+  - {type: variant, offset: 4718, length: 14, content: 知我情必爲敵謀我所以外難至也, WYG: ''}
+  - {type: punctuation, offset: 4732, content: /, id: KR3c0001_krp_006-bkkpn437}
+  - {type: variant, offset: 4734, length: 1, content: 則, WYG: 即}
+  - {type: variant, offset: 4745, length: 1, content: 旣, WYG: 既知我情必為敵謀我所以外難至也}
+  - {type: punctuation, offset: 4746, content: ), id: KR3c0001_krp_006-bkkpn438}
+  - {type: 'kr:newline', offset: 4747, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl182}
+  - {type: page-break, offset: 4747, content: '', id: KR3c0001_SBCK_006-8a}
+  - {type: 'kr:newline', offset: 4747, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl183}
+  - {type: line-break, offset: 4747, content: '', id: KR3c0001_SBCK_006-8a01}
+  - {type: punctuation, offset: 4764, content: (, id: KR3c0001_krp_006-bkkpn439}
+  - {type: variant, offset: 4764, length: 0, content: '', WYG: 難為}
+  - {type: punctuation, offset: 4766, content: /, id: KR3c0001_krp_006-bkkpn440}
+  - {type: variant, offset: 4766, length: 2, content: 難爲, WYG: ''}
+  - {type: punctuation, offset: 4768, content: ), id: KR3c0001_krp_006-bkkpn441}
+  - {type: page-break, offset: 4768, content: '', id: KR3c0001_WYG_006-14a, image: WYG0729/WYG0729-0072a.png}
+  - {type: 'kr:newline', offset: 4772, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl184}
+  - {type: line-break, offset: 4772, content: '', id: KR3c0001_SBCK_006-8a02}
+  - {type: 'kr:newline', offset: 4795, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl185}
+  - {type: line-break, offset: 4795, content: '', id: KR3c0001_SBCK_006-8a03}
+  - {type: variant, offset: 4796, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: punctuation, offset: 4798, content: (, id: KR3c0001_krp_006-bkkpn442}
+  - {type: variant, offset: 4798, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: variant, offset: 4798, length: 0, content: '', WYG: 蔽君美}
+  - {type: punctuation, offset: 4801, content: /, id: KR3c0001_krp_006-bkkpn443}
+  - {type: variant, offset: 4801, length: 3, content: 蔽君美, WYG: ''}
+  - {type: punctuation, offset: 4804, content: ), id: KR3c0001_krp_006-bkkpn444}
+  - {type: variant, offset: 4806, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: variant, offset: 4814, length: 1, content: 矣, WYG: ''}
+  - {type: 'kr:newline', offset: 4821, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl186}
+  - {type: line-break, offset: 4821, content: '', id: KR3c0001_SBCK_006-8a04}
+  - {type: variant, offset: 4829, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 4842, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 4844, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl187}
+  - {type: line-break, offset: 4844, content: '', id: KR3c0001_SBCK_006-8a05}
+  - {type: variant, offset: 4853, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 4864, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 4867, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl188}
+  - {type: line-break, offset: 4867, content: '', id: KR3c0001_SBCK_006-8a06}
+  - {type: variant, offset: 4867, length: 1, content: 虧, SBCK: 􅃜}
+  - {type: 'kr:newline', offset: 4874, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl189}
+  - {type: line-break, offset: 4874, content: '', id: KR3c0001_SBCK_006-8a07}
+  - {type: indent, offset: 4879, content: 　, id: KR3c0001_krp_006-bkkind5}
+  - {type: 'kr:newline', offset: 4882, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl190}
+  - {type: line-break, offset: 4882, content: '', id: KR3c0001_SBCK_006-8a08}
+  - {type: variant, offset: 4891, length: 1, content: 德, WYG: 徳}
+  - {type: punctuation, offset: 4894, content: (, id: KR3c0001_krp_006-bkkpn445}
+  - {type: variant, offset: 4894, length: 14, content: 以生者也德者物由以成者也夫皇, WYG: ''}
+  - {type: punctuation, offset: 4908, content: /, id: KR3c0001_krp_006-bkkpn446}
+  - {type: variant, offset: 4918, length: 0, content: '', WYG: 徳者}
+  - {type: variant, offset: 4919, length: 0, content: '', WYG: 由以成}
+  - {type: variant, offset: 4920, length: 2, content: 物由, WYG: 也夫皇帝王道隨世立名}
+  - {type: punctuation, offset: 4922, content: ), id: KR3c0001_krp_006-bkkpn447}
+  - {type: 'kr:newline', offset: 4922, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl191}
+  - {type: line-break, offset: 4922, content: '', id: KR3c0001_SBCK_006-8a09}
+  - {type: punctuation, offset: 4922, content: (, id: KR3c0001_krp_006-bkkpn448}
+  - {type: punctuation, offset: 4929, content: /, id: KR3c0001_krp_006-bkkpn449}
+  - {type: variant, offset: 4929, length: 7, content: 帝王道隨丗立名, WYG: ''}
+  - {type: punctuation, offset: 4936, content: ), id: KR3c0001_krp_006-bkkpn450}
+  - {type: punctuation, offset: 4942, content: (, id: KR3c0001_krp_006-bkkpn451}
+  - {type: variant, offset: 4942, length: 0, content: '', WYG: 所謀必得用}
+  - {type: punctuation, offset: 4947, content: /, id: KR3c0001_krp_006-bkkpn452}
+  - {type: variant, offset: 4947, length: 5, content: 所謀必得用, WYG: ''}
+  - {type: punctuation, offset: 4952, content: ), id: KR3c0001_krp_006-bkkpn453}
+  - {type: page-break, offset: 4954, content: '', id: KR3c0001_WYG_006-14b, image: WYG0729/WYG0729-0072b.png}
+  - {type: 'kr:newline', offset: 4959, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl192}
+  - {type: line-break, offset: 4959, content: '', id: KR3c0001_SBCK_006-8a10}
+  - {type: punctuation, offset: 4970, content: (, id: KR3c0001_krp_006-bkkpn454}
+  - {type: variant, offset: 4970, length: 15, content: 則未備於德則未至然用之上可以輔, WYG: ''}
+  - {type: punctuation, offset: 4985, content: /, id: KR3c0001_krp_006-bkkpn455}
+  - {type: punctuation, offset: 5000, content: ), id: KR3c0001_krp_006-bkkpn456}
+  - {type: 'kr:newline', offset: 5000, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl193}
+  - {type: line-break, offset: 5000, content: '', id: KR3c0001_SBCK_006-8a11}
+  - {type: punctuation, offset: 5000, content: (, id: KR3c0001_krp_006-bkkpn457}
+  - {type: variant, offset: 5000, length: 0, content: '', WYG: 則未備於徳則未至然用之上可以輔王下可}
+  - {type: punctuation, offset: 5003, content: /, id: KR3c0001_krp_006-bkkpn458}
+  - {type: variant, offset: 5003, length: 3, content: 王下可, WYG: ''}
+  - {type: punctuation, offset: 5006, content: ), id: KR3c0001_krp_006-bkkpn459}
+  - {type: punctuation, offset: 5020, content: (, id: KR3c0001_krp_006-bkkpn460}
+  - {type: variant, offset: 5020, length: 0, content: '', WYG: 權者所以知輕重既不}
+  - {type: punctuation, offset: 5029, content: /, id: KR3c0001_krp_006-bkkpn461}
+  - {type: variant, offset: 5029, length: 9, content: 權者所以知輕重旣不, WYG: ''}
+  - {type: punctuation, offset: 5038, content: ), id: KR3c0001_krp_006-bkkpn462}
+  - {type: 'kr:newline', offset: 5038, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl194}
+  - {type: line-break, offset: 5038, content: '', id: KR3c0001_SBCK_006-8a12}
+  - {type: punctuation, offset: 5047, content: (, id: KR3c0001_krp_006-bkkpn463}
+  - {type: variant, offset: 5047, length: 0, content: '', WYG: 行師十萬}
+  - {type: punctuation, offset: 5051, content: /, id: KR3c0001_krp_006-bkkpn464}
+  - {type: variant, offset: 5051, length: 4, content: 行師十萬, WYG: ''}
+  - {type: punctuation, offset: 5055, content: ), id: KR3c0001_krp_006-bkkpn465}
+  - {type: punctuation, offset: 5063, content: (, id: KR3c0001_krp_006-bkkpn466}
+  - {type: variant, offset: 5063, length: 0, content: '', WYG: 雖令得勝}
+  - {type: punctuation, offset: 5067, content: /, id: KR3c0001_krp_006-bkkpn467}
+  - {type: variant, offset: 5067, length: 4, content: 雖今得勝, WYG: ''}
+  - {type: punctuation, offset: 5071, content: ), id: KR3c0001_krp_006-bkkpn468}
+  - {type: 'kr:newline', offset: 5071, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl195}
+  - {type: page-break, offset: 5071, content: '', id: KR3c0001_SBCK_006-8b}
+  - {type: 'kr:newline', offset: 5071, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl196}
+  - {type: line-break, offset: 5071, content: '', id: KR3c0001_SBCK_006-8b01}
+  - {type: punctuation, offset: 5076, content: (, id: KR3c0001_krp_006-bkkpn469}
+  - {type: variant, offset: 5076, length: 0, content: '', WYG: 雖復得地既貧}
+  - {type: punctuation, offset: 5082, content: /, id: KR3c0001_krp_006-bkkpn470}
+  - {type: variant, offset: 5082, length: 6, content: 雖復得地旣貧, WYG: ''}
+  - {type: punctuation, offset: 5088, content: ), id: KR3c0001_krp_006-bkkpn471}
+  - {type: punctuation, offset: 5097, content: (, id: KR3c0001_krp_006-bkkpn472}
+  - {type: variant, offset: 5097, length: 0, content: '', WYG: 四者謂内貧不}
+  - {type: punctuation, offset: 5103, content: /, id: KR3c0001_krp_006-bkkpn473}
+  - {type: variant, offset: 5104, length: 6, content: 者謂内貧不四, WYG: ''}
+  - {type: punctuation, offset: 5109, content: ), id: KR3c0001_krp_006-bkkpn474}
+  - {type: 'kr:newline', offset: 5110, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl197}
+  - {type: line-break, offset: 5110, content: '', id: KR3c0001_SBCK_006-8b02}
+  - {type: variant, offset: 5115, length: 7, content: 不危矣則何爲而, WYG: ''}
+  - {type: punctuation, offset: 5118, content: (, id: KR3c0001_krp_006-bkkpn475}
+  - {type: punctuation, offset: 5125, content: /, id: KR3c0001_krp_006-bkkpn476}
+  - {type: punctuation, offset: 5132, content: ), id: KR3c0001_krp_006-bkkpn477}
+  - {type: variant, offset: 5132, length: 0, content: '', WYG: 則何為而不危矣}
+  - {type: punctuation, offset: 5137, content: (, id: KR3c0001_krp_006-bkkpn478}
+  - {type: variant, offset: 5137, length: 3, content: 度之書, WYG: ''}
+  - {type: punctuation, offset: 5140, content: /, id: KR3c0001_krp_006-bkkpn479}
+  - {type: punctuation, offset: 5144, content: ), id: KR3c0001_krp_006-bkkpn480}
+  - {type: variant, offset: 5144, length: 0, content: '', WYG: 度之書}
+  - {type: 'kr:newline', offset: 5147, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl198}
+  - {type: line-break, offset: 5147, content: '', id: KR3c0001_SBCK_006-8b03}
+  - {type: variant, offset: 5167, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 5170, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl199}
+  - {type: line-break, offset: 5170, content: '', id: KR3c0001_SBCK_006-8b04}
+  - {type: punctuation, offset: 5173, content: (, id: KR3c0001_krp_006-bkkpn481}
+  - {type: variant, offset: 5173, length: 0, content: '', WYG: 四者謂不貧得}
+  - {type: punctuation, offset: 5179, content: /, id: KR3c0001_krp_006-bkkpn482}
+  - {type: variant, offset: 5179, length: 6, content: 四者謂不貧得, WYG: ''}
+  - {type: punctuation, offset: 5185, content: ), id: KR3c0001_krp_006-bkkpn483}
+  - {type: page-break, offset: 5185, content: '', id: KR3c0001_WYG_006-15a, image: WYG0729/WYG0729-0072c.png}
+  - {type: 'kr:newline', offset: 5200, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl200}
+  - {type: line-break, offset: 5200, content: '', id: KR3c0001_SBCK_006-8b05}
+  - {type: variant, offset: 5213, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 5223, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl201}
+  - {type: line-break, offset: 5223, content: '', id: KR3c0001_SBCK_006-8b06}
+  - {type: variant, offset: 5233, length: 0, content: '', WYG: 也}
+  - {type: variant, offset: 5235, length: 1, content: 民, WYG: 利}
+  - {type: punctuation, offset: 5242, content: (, id: KR3c0001_krp_006-bkkpn484}
+  - {type: variant, offset: 5242, length: 0, content: '', WYG: 號令制度}
+  - {type: punctuation, offset: 5246, content: /, id: KR3c0001_krp_006-bkkpn485}
+  - {type: variant, offset: 5246, length: 5, content: 號令制度敎, WYG: 教}
+  - {type: punctuation, offset: 5250, content: ), id: KR3c0001_krp_006-bkkpn486}
+  - {type: 'kr:newline', offset: 5251, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl202}
+  - {type: line-break, offset: 5251, content: '', id: KR3c0001_SBCK_006-8b07}
+  - {type: punctuation, offset: 5258, content: (, id: KR3c0001_krp_006-bkkpn487}
+  - {type: variant, offset: 5258, length: 0, content: '', WYG: 有制則}
+  - {type: punctuation, offset: 5261, content: /, id: KR3c0001_krp_006-bkkpn488}
+  - {type: variant, offset: 5261, length: 3, content: 有制則, WYG: ''}
+  - {type: punctuation, offset: 5264, content: ), id: KR3c0001_krp_006-bkkpn489}
+  - {type: punctuation, offset: 5271, content: (, id: KR3c0001_krp_006-bkkpn490}
+  - {type: variant, offset: 5271, length: 3, content: 法度審, WYG: ''}
+  - {type: punctuation, offset: 5274, content: /, id: KR3c0001_krp_006-bkkpn491}
+  - {type: punctuation, offset: 5278, content: ), id: KR3c0001_krp_006-bkkpn492}
+  - {type: variant, offset: 5278, length: 0, content: '', WYG: 法度審也}
+  - {type: 'kr:newline', offset: 5281, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl203}
+  - {type: line-break, offset: 5281, content: '', id: KR3c0001_SBCK_006-8b08}
+  - {type: punctuation, offset: 5285, content: (, id: KR3c0001_krp_006-bkkpn493}
+  - {type: variant, offset: 5285, length: 0, content: '', WYG: 有明則}
+  - {type: punctuation, offset: 5288, content: /, id: KR3c0001_krp_006-bkkpn494}
+  - {type: variant, offset: 5288, length: 3, content: 有明則, WYG: ''}
+  - {type: punctuation, offset: 5291, content: ), id: KR3c0001_krp_006-bkkpn495}
+  - {type: punctuation, offset: 5295, content: (, id: KR3c0001_krp_006-bkkpn496}
+  - {type: variant, offset: 5295, length: 0, content: '', WYG: 自治其軍}
+  - {type: punctuation, offset: 5299, content: /, id: KR3c0001_krp_006-bkkpn497}
+  - {type: variant, offset: 5299, length: 4, content: 自治其軍, WYG: ''}
+  - {type: punctuation, offset: 5303, content: ), id: KR3c0001_krp_006-bkkpn498}
+  - {type: punctuation, offset: 5307, content: (, id: KR3c0001_krp_006-bkkpn499}
+  - {type: variant, offset: 5307, length: 0, content: '', WYG: 勝於敵國}
+  - {type: punctuation, offset: 5311, content: /, id: KR3c0001_krp_006-bkkpn500}
+  - {type: variant, offset: 5311, length: 4, content: 勝於敵國, WYG: ''}
+  - {type: punctuation, offset: 5315, content: ), id: KR3c0001_krp_006-bkkpn501}
+  - {type: 'kr:newline', offset: 5316, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl204}
+  - {type: line-break, offset: 5316, content: '', id: KR3c0001_SBCK_006-8b09}
+  - {type: punctuation, offset: 5325, content: (, id: KR3c0001_krp_006-bkkpn502}
+  - {type: variant, offset: 5325, length: 0, content: '', WYG: 器備利則}
+  - {type: punctuation, offset: 5329, content: /, id: KR3c0001_krp_006-bkkpn503}
+  - {type: variant, offset: 5329, length: 4, content: 器備利則, WYG: ''}
+  - {type: punctuation, offset: 5333, content: ), id: KR3c0001_krp_006-bkkpn504}
+  - {type: punctuation, offset: 5338, content: (, id: KR3c0001_krp_006-bkkpn505}
+  - {type: variant, offset: 5338, length: 0, content: '', WYG: 勝敵者在}
+  - {type: punctuation, offset: 5342, content: /, id: KR3c0001_krp_006-bkkpn506}
+  - {type: variant, offset: 5342, length: 4, content: 勝敵者在, WYG: ''}
+  - {type: punctuation, offset: 5346, content: ), id: KR3c0001_krp_006-bkkpn507}
+  - {type: 'kr:newline', offset: 5349, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl205}
+  - {type: line-break, offset: 5349, content: '', id: KR3c0001_SBCK_006-8b10}
+  - {type: punctuation, offset: 5349, content: (, id: KR3c0001_krp_006-bkkpn508}
+  - {type: variant, offset: 5349, length: 0, content: '', WYG: 寇寜則}
+  - {type: punctuation, offset: 5352, content: /, id: KR3c0001_krp_006-bkkpn509}
+  - {type: variant, offset: 5352, length: 3, content: 冦寜則, WYG: ''}
+  - {type: punctuation, offset: 5355, content: ), id: KR3c0001_krp_006-bkkpn510}
+  - {type: punctuation, offset: 5358, content: (, id: KR3c0001_krp_006-bkkpn511}
+  - {type: variant, offset: 5358, length: 0, content: '', WYG: 人安則}
+  - {type: punctuation, offset: 5361, content: /, id: KR3c0001_krp_006-bkkpn512}
+  - {type: variant, offset: 5361, length: 3, content: 人安則, WYG: ''}
+  - {type: punctuation, offset: 5364, content: ), id: KR3c0001_krp_006-bkkpn513}
+  - {type: punctuation, offset: 5367, content: (, id: KR3c0001_krp_006-bkkpn514}
+  - {type: variant, offset: 5367, length: 0, content: '', WYG: 既定且寜則四}
+  - {type: punctuation, offset: 5372, content: /, id: KR3c0001_krp_006-bkkpn515}
+  - {type: variant, offset: 5372, length: 6, content: 旣定且寜則四, WYG: ''}
+  - {type: punctuation, offset: 5378, content: ), id: KR3c0001_krp_006-bkkpn516}
+  - {type: variant, offset: 5383, length: 1, content: 德, WYG: 徳}
+  - {type: 'kr:newline', offset: 5385, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl206}
+  - {type: line-break, offset: 5385, content: '', id: KR3c0001_SBCK_006-8b11}
+  - {type: page-break, offset: 5392, content: '', id: KR3c0001_WYG_006-15b, image: WYG0729/WYG0729-0072d.png}
+  - {type: punctuation, offset: 5406, content: (, id: KR3c0001_krp_006-bkkpn517}
+  - {type: variant, offset: 5406, length: 0, content: '', WYG: 兵無主則}
+  - {type: punctuation, offset: 5410, content: /, id: KR3c0001_krp_006-bkkpn518}
+  - {type: variant, offset: 5410, length: 6, content: 兵無主則知敵, WYG: ''}
+  - {type: punctuation, offset: 5414, content: ), id: KR3c0001_krp_006-bkkpn519}
+  - {type: 'kr:newline', offset: 5414, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl207}
+  - {type: line-break, offset: 5414, content: '', id: KR3c0001_SBCK_006-8b12}
+  - {type: punctuation, offset: 5414, content: (, id: KR3c0001_krp_006-bkkpn520}
+  - {type: punctuation, offset: 5416, content: /, id: KR3c0001_krp_006-bkkpn521}
+  - {type: punctuation, offset: 5419, content: ), id: KR3c0001_krp_006-bkkpn522}
+  - {type: variant, offset: 5419, length: 0, content: '', WYG: 知敵}
+  - {type: variant, offset: 5423, length: 6, content: 無蓄積本業故, WYG: ''}
+  - {type: punctuation, offset: 5426, content: (, id: KR3c0001_krp_006-bkkpn523}
+  - {type: punctuation, offset: 5432, content: /, id: KR3c0001_krp_006-bkkpn524}
+  - {type: punctuation, offset: 5439, content: ), id: KR3c0001_krp_006-bkkpn525}
+  - {type: variant, offset: 5439, length: 0, content: '', WYG: 本業故無蓄積}
+  - {type: punctuation, offset: 5446, content: (, id: KR3c0001_krp_006-bkkpn526}
+  - {type: variant, offset: 5446, length: 0, content: '', WYG: 官無}
+  - {type: punctuation, offset: 5448, content: /, id: KR3c0001_krp_006-bkkpn527}
+  - {type: variant, offset: 5448, length: 2, content: 官無, WYG: 徵賦不節}
+  - {type: punctuation, offset: 5450, content: ), id: KR3c0001_krp_006-bkkpn528}
+  - {type: 'kr:newline', offset: 5450, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl208}
+  - {type: page-break, offset: 5450, content: '', id: KR3c0001_SBCK_006-9a}
+  - {type: 'kr:newline', offset: 5450, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl209}
+  - {type: line-break, offset: 5450, content: '', id: KR3c0001_SBCK_006-9a01}
+  - {type: punctuation, offset: 5450, content: (, id: KR3c0001_krp_006-bkkpn529}
+  - {type: punctuation, offset: 5454, content: /, id: KR3c0001_krp_006-bkkpn530}
+  - {type: variant, offset: 5454, length: 4, content: 徵賦不節, WYG: ''}
+  - {type: punctuation, offset: 5458, content: ), id: KR3c0001_krp_006-bkkpn531}
+  - {type: punctuation, offset: 5466, content: (, id: KR3c0001_krp_006-bkkpn532}
+  - {type: variant, offset: 5466, length: 0, content: '', WYG: 器械不巧則寇敵}
+  - {type: punctuation, offset: 5472, content: /, id: KR3c0001_krp_006-bkkpn533}
+  - {type: variant, offset: 5472, length: 7, content: 器械不巧則冦敵, WYG: ''}
+  - {type: punctuation, offset: 5479, content: ), id: KR3c0001_krp_006-bkkpn534}
+  - {type: 'kr:newline', offset: 5485, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl210}
+  - {type: line-break, offset: 5485, content: '', id: KR3c0001_SBCK_006-9a02}
+  - {type: variant, offset: 5485, length: 6, content: 輕其産聊生故, WYG: ''}
+  - {type: punctuation, offset: 5488, content: (, id: KR3c0001_krp_006-bkkpn535}
+  - {type: punctuation, offset: 5494, content: /, id: KR3c0001_krp_006-bkkpn536}
+  - {type: punctuation, offset: 5501, content: ), id: KR3c0001_krp_006-bkkpn537}
+  - {type: variant, offset: 5501, length: 0, content: '', WYG: 聊生故輕其産}
+  - {type: 'kr:newline', offset: 5515, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl211}
+  - {type: line-break, offset: 5515, content: '', id: KR3c0001_SBCK_006-9a03}
+  - {type: 'kr:newline', offset: 5538, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl212}
+  - {type: line-break, offset: 5538, content: '', id: KR3c0001_SBCK_006-9a04}
+  - {type: variant, offset: 5538, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5556, content: (, id: KR3c0001_krp_006-bkkpn538}
+  - {type: variant, offset: 5556, length: 4, content: 重有其事, WYG: ''}
+  - {type: punctuation, offset: 5560, content: /, id: KR3c0001_krp_006-bkkpn539}
+  - {type: punctuation, offset: 5565, content: ), id: KR3c0001_krp_006-bkkpn540}
+  - {type: variant, offset: 5565, length: 0, content: '', WYG: 重有其事}
+  - {type: 'kr:newline', offset: 5566, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl213}
+  - {type: line-break, offset: 5566, content: '', id: KR3c0001_SBCK_006-9a05}
+  - {type: variant, offset: 5572, length: 1, content: 彊, WYG: 强}
+  - {type: punctuation, offset: 5575, content: (, id: KR3c0001_krp_006-bkkpn541}
+  - {type: variant, offset: 5575, length: 6, content: 有制則強可縱, WYG: ''}
+  - {type: punctuation, offset: 5581, content: /, id: KR3c0001_krp_006-bkkpn542}
+  - {type: punctuation, offset: 5587, content: ), id: KR3c0001_krp_006-bkkpn543}
+  - {type: variant, offset: 5587, length: 0, content: '', WYG: 有制則强可縱}
+  - {type: 'kr:newline', offset: 5597, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl214}
+  - {type: line-break, offset: 5597, content: '', id: KR3c0001_SBCK_006-9a06}
+  - {type: punctuation, offset: 5597, content: (, id: KR3c0001_krp_006-bkkpn544}
+  - {type: variant, offset: 5597, length: 5, content: 令之俶裝也, WYG: ''}
+  - {type: punctuation, offset: 5602, content: /, id: KR3c0001_krp_006-bkkpn545}
+  - {type: punctuation, offset: 5607, content: ), id: KR3c0001_krp_006-bkkpn546}
+  - {type: variant, offset: 5607, length: 0, content: '', WYG: 今之俶裝也}
+  - {type: page-break, offset: 5607, content: '', id: KR3c0001_WYG_006-16a, image: WYG0729/WYG0729-0073a.png}
+  - {type: 'kr:newline', offset: 5628, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl215}
+  - {type: line-break, offset: 5628, content: '', id: KR3c0001_SBCK_006-9a07}
+  - {type: 'kr:newline', offset: 5652, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl216}
+  - {type: line-break, offset: 5652, content: '', id: KR3c0001_SBCK_006-9a08}
+  - {type: variant, offset: 5664, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 5667, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5675, content: (, id: KR3c0001_krp_006-bkkpn547}
+  - {type: variant, offset: 5675, length: 0, content: '', WYG: 五}
+  - {type: punctuation, offset: 5676, content: /, id: KR3c0001_krp_006-bkkpn548}
+  - {type: variant, offset: 5676, length: 8, content: 五尚青夏尚赤之類, WYG: ''}
+  - {type: punctuation, offset: 5677, content: ), id: KR3c0001_krp_006-bkkpn549}
+  - {type: 'kr:newline', offset: 5677, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl217}
+  - {type: line-break, offset: 5677, content: '', id: KR3c0001_SBCK_006-9a09}
+  - {type: punctuation, offset: 5677, content: (, id: KR3c0001_krp_006-bkkpn550}
+  - {type: punctuation, offset: 5684, content: /, id: KR3c0001_krp_006-bkkpn551}
+  - {type: punctuation, offset: 5692, content: ), id: KR3c0001_krp_006-bkkpn552}
+  - {type: variant, offset: 5692, length: 0, content: '', WYG: 尚青夏尚赤之類}
+  - {type: variant, offset: 5694, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5702, content: (, id: KR3c0001_krp_006-bkkpn553}
+  - {type: variant, offset: 5702, length: 2, content: 之數, WYG: ''}
+  - {type: punctuation, offset: 5704, content: /, id: KR3c0001_krp_006-bkkpn554}
+  - {type: punctuation, offset: 5707, content: ), id: KR3c0001_krp_006-bkkpn555}
+  - {type: variant, offset: 5707, length: 0, content: '', WYG: 之數}
+  - {type: variant, offset: 5709, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 5712, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl218}
+  - {type: line-break, offset: 5712, content: '', id: KR3c0001_SBCK_006-9a10}
+  - {type: variant, offset: 5719, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 5726, length: 0, content: '', WYG: 利長兵短兵各有所}
+  - {type: punctuation, offset: 5727, content: (, id: KR3c0001_krp_006-bkkpn556}
+  - {type: punctuation, offset: 5734, content: /, id: KR3c0001_krp_006-bkkpn557}
+  - {type: variant, offset: 5734, length: 8, content: 長兵短兵各有所利, WYG: ''}
+  - {type: punctuation, offset: 5742, content: ), id: KR3c0001_krp_006-bkkpn558}
+  - {type: 'kr:newline', offset: 5744, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl219}
+  - {type: line-break, offset: 5744, content: '', id: KR3c0001_SBCK_006-9a11}
+  - {type: variant, offset: 5744, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5752, content: (, id: KR3c0001_krp_006-bkkpn559}
+  - {type: variant, offset: 5752, length: 0, content: '', WYG: 貪賞畏罰}
+  - {type: punctuation, offset: 5756, content: /, id: KR3c0001_krp_006-bkkpn560}
+  - {type: variant, offset: 5756, length: 4, content: 貪賞畏罰, WYG: ''}
+  - {type: punctuation, offset: 5760, content: ), id: KR3c0001_krp_006-bkkpn561}
+  - {type: variant, offset: 5761, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5770, content: (, id: KR3c0001_krp_006-bkkpn562}
+  - {type: variant, offset: 5770, length: 0, content: '', WYG: 負恃}
+  - {type: punctuation, offset: 5772, content: /, id: KR3c0001_krp_006-bkkpn563}
+  - {type: variant, offset: 5772, length: 2, content: 負恃, WYG: 其便習}
+  - {type: punctuation, offset: 5774, content: ), id: KR3c0001_krp_006-bkkpn564}
+  - {type: 'kr:newline', offset: 5774, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl220}
+  - {type: line-break, offset: 5774, content: '', id: KR3c0001_SBCK_006-9a12}
+  - {type: punctuation, offset: 5774, content: (, id: KR3c0001_krp_006-bkkpn565}
+  - {type: punctuation, offset: 5777, content: /, id: KR3c0001_krp_006-bkkpn566}
+  - {type: variant, offset: 5777, length: 3, content: 其便習, WYG: ''}
+  - {type: punctuation, offset: 5780, content: ), id: KR3c0001_krp_006-bkkpn567}
+  - {type: variant, offset: 5788, length: 1, content: 畫, WYG: 晝}
+  - {type: page-break, offset: 5799, content: '', id: KR3c0001_WYG_006-16b, image: WYG0729/WYG0729-0073b.png}
+  - {type: 'kr:newline', offset: 5801, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl221}
+  - {type: page-break, offset: 5801, content: '', id: KR3c0001_SBCK_006-9b}
+  - {type: 'kr:newline', offset: 5801, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl222}
+  - {type: line-break, offset: 5801, content: '', id: KR3c0001_SBCK_006-9b01}
+  - {type: 'kr:newline', offset: 5824, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl223}
+  - {type: line-break, offset: 5824, content: '', id: KR3c0001_SBCK_006-9b02}
+  - {type: 'kr:newline', offset: 5847, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl224}
+  - {type: line-break, offset: 5847, content: '', id: KR3c0001_SBCK_006-9b03}
+  - {type: variant, offset: 5849, length: 1, content: 􆄆, WYG: 韟}
+  - {type: punctuation, offset: 5856, content: (, id: KR3c0001_krp_006-bkkpn568}
+  - {type: variant, offset: 5856, length: 0, content: '', WYG: 韟韜也謂韜其章而舉之}
+  - {type: punctuation, offset: 5865, content: /, id: KR3c0001_krp_006-bkkpn569}
+  - {type: variant, offset: 5865, length: 10, content: 􆄆韜也謂韜其章而舉之, WYG: ''}
+  - {type: punctuation, offset: 5875, content: ), id: KR3c0001_krp_006-bkkpn570}
+  - {type: variant, offset: 5877, length: 1, content: 旣, WYG: 既}
+  - {type: 'kr:newline', offset: 5881, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl225}
+  - {type: line-break, offset: 5881, content: '', id: KR3c0001_SBCK_006-9b04}
+  - {type: variant, offset: 5887, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 5898, content: (, id: KR3c0001_krp_006-bkkpn571}
+  - {type: variant, offset: 5898, length: 0, content: '', WYG: 無端無窮皆出敵}
+  - {type: punctuation, offset: 5906, content: /, id: KR3c0001_krp_006-bkkpn572}
+  - {type: variant, offset: 5906, length: 7, content: 無端無窮者出敵, WYG: ''}
+  - {type: punctuation, offset: 5909, content: /, id: KR3c0001_krp_006-bkkpn573}
+  - {type: punctuation, offset: 5913, content: ), id: KR3c0001_krp_006-bkkpn574}
+  - {type: 'kr:newline', offset: 5913, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl226}
+  - {type: line-break, offset: 5913, content: '', id: KR3c0001_SBCK_006-9b05}
+  - {type: variant, offset: 5925, length: 1, content: 德, WYG: 徳}
+  - {type: variant, offset: 5931, length: 1, content: 德, WYG: 徳}
+  - {type: 'kr:newline', offset: 5936, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl227}
+  - {type: line-break, offset: 5936, content: '', id: KR3c0001_SBCK_006-9b06}
+  - {type: variant, offset: 5942, length: 1, content: 彊, WYG: 强}
+  - {type: variant, offset: 5950, length: 1, content: 僞, WYG: 偽}
+  - {type: 'kr:newline', offset: 5959, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl228}
+  - {type: line-break, offset: 5959, content: '', id: KR3c0001_SBCK_006-9b07}
+  - {type: punctuation, offset: 5968, content: (, id: KR3c0001_krp_006-bkkpn575}
+  - {type: variant, offset: 5968, length: 0, content: '', WYG: 徑謂卒然直}
+  - {type: punctuation, offset: 5973, content: /, id: KR3c0001_krp_006-bkkpn576}
+  - {type: variant, offset: 5973, length: 5, content: 徑謂卒然直, WYG: ''}
+  - {type: punctuation, offset: 5978, content: ), id: KR3c0001_krp_006-bkkpn577}
+  - {type: 'kr:newline', offset: 5988, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl229}
+  - {type: line-break, offset: 5988, content: '', id: KR3c0001_SBCK_006-9b08}
+  - {type: page-break, offset: 5988, content: '', id: KR3c0001_WYG_006-17a, image: WYG0729/WYG0729-0073c.png}
+  - {type: 'kr:newline', offset: 6011, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl230}
+  - {type: line-break, offset: 6011, content: '', id: KR3c0001_SBCK_006-9b09}
+  - {type: variant, offset: 6011, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 6016, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 6019, content: (, id: KR3c0001_krp_006-bkkpn578}
+  - {type: variant, offset: 6019, length: 0, content: '', WYG: 教既因便}
+  - {type: punctuation, offset: 6023, content: /, id: KR3c0001_krp_006-bkkpn579}
+  - {type: variant, offset: 6023, length: 4, content: 敎旣因便, WYG: ''}
+  - {type: punctuation, offset: 6027, content: ), id: KR3c0001_krp_006-bkkpn580}
+  - {type: punctuation, offset: 6030, content: (, id: KR3c0001_krp_006-bkkpn581}
+  - {type: variant, offset: 6030, length: 0, content: '', WYG: 行既准利故}
+  - {type: punctuation, offset: 6034, content: /, id: KR3c0001_krp_006-bkkpn582}
+  - {type: variant, offset: 6034, length: 5, content: 行旣凖利故, WYG: ''}
+  - {type: punctuation, offset: 6039, content: ), id: KR3c0001_krp_006-bkkpn583}
+  - {type: variant, offset: 6040, length: 1, content: 乃, WYG: 者}
+  - {type: 'kr:newline', offset: 6044, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl231}
+  - {type: line-break, offset: 6044, content: '', id: KR3c0001_SBCK_006-9b10}
+  - {type: punctuation, offset: 6047, content: (, id: KR3c0001_krp_006-bkkpn584}
+  - {type: variant, offset: 6047, length: 3, content: 敎與行, WYG: ''}
+  - {type: punctuation, offset: 6050, content: /, id: KR3c0001_krp_006-bkkpn585}
+  - {type: punctuation, offset: 6053, content: ), id: KR3c0001_krp_006-bkkpn586}
+  - {type: variant, offset: 6053, length: 0, content: '', WYG: 教與行}
+  - {type: variant, offset: 6055, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 6065, length: 1, content: 剌, WYG: 刺}
+  - {type: 'kr:newline', offset: 6071, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl232}
+  - {type: line-break, offset: 6071, content: '', id: KR3c0001_SBCK_006-9b11}
+  - {type: variant, offset: 6071, length: 6, content: 不守固可恃故, WYG: ''}
+  - {type: punctuation, offset: 6073, content: (, id: KR3c0001_krp_006-bkkpn587}
+  - {type: punctuation, offset: 6079, content: /, id: KR3c0001_krp_006-bkkpn588}
+  - {type: variant, offset: 6080, length: 1, content: 孤, SBCK: 􅀌}
+  - {type: punctuation, offset: 6086, content: ), id: KR3c0001_krp_006-bkkpn589}
+  - {type: variant, offset: 6086, length: 0, content: '', WYG: 固可恃故不守}
+  - {type: punctuation, offset: 6090, content: (, id: KR3c0001_krp_006-bkkpn590}
+  - {type: variant, offset: 6090, length: 0, content: '', WYG: 拔恃固之守必}
+  - {type: punctuation, offset: 6096, content: /, id: KR3c0001_krp_006-bkkpn591}
+  - {type: variant, offset: 6096, length: 6, content: 拔恃固之守必, WYG: ''}
+  - {type: punctuation, offset: 6102, content: ), id: KR3c0001_krp_006-bkkpn592}
+  - {type: 'kr:newline', offset: 6110, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl233}
+  - {type: line-break, offset: 6110, content: '', id: KR3c0001_SBCK_006-9b12}
+  - {type: punctuation, offset: 6112, content: (, id: KR3c0001_krp_006-bkkpn593}
+  - {type: variant, offset: 6112, length: 13, content: 避而不能敵有令必行而不留也, WYG: ''}
+  - {type: punctuation, offset: 6125, content: /, id: KR3c0001_krp_006-bkkpn594}
+  - {type: punctuation, offset: 6139, content: ), id: KR3c0001_krp_006-bkkpn595}
+  - {type: variant, offset: 6139, length: 0, content: '', WYG: 避而不能敵有令必行而不留也}
+  - {type: variant, offset: 6141, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 6143, length: 1, content: 散, WYG: 㪚}
+  - {type: 'kr:newline', offset: 6149, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl234}
+  - {type: page-break, offset: 6149, content: '', id: KR3c0001_SBCK_006-10a}
+  - {type: 'kr:newline', offset: 6149, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl235}
+  - {type: line-break, offset: 6149, content: '', id: KR3c0001_SBCK_006-10a01}
+  - {type: variant, offset: 6152, length: 1, content: 敎, WYG: 教}
+  - {type: punctuation, offset: 6166, content: (, id: KR3c0001_krp_006-bkkpn596}
+  - {type: variant, offset: 6166, length: 1, content: 也, WYG: ''}
+  - {type: punctuation, offset: 6167, content: /, id: KR3c0001_krp_006-bkkpn597}
+  - {type: punctuation, offset: 6169, content: ), id: KR3c0001_krp_006-bkkpn598}
+  - {type: variant, offset: 6169, length: 0, content: '', WYG: 也}
+  - {type: 'kr:newline', offset: 6174, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl236}
+  - {type: line-break, offset: 6174, content: '', id: KR3c0001_SBCK_006-10a02}
+  - {type: punctuation, offset: 6179, content: (, id: KR3c0001_krp_006-bkkpn599}
+  - {type: variant, offset: 6179, length: 5, content: 且定故不疑, WYG: ''}
+  - {type: punctuation, offset: 6184, content: /, id: KR3c0001_krp_006-bkkpn600}
+  - {type: punctuation, offset: 6190, content: ), id: KR3c0001_krp_006-bkkpn601}
+  - {type: variant, offset: 6190, length: 0, content: '', WYG: 且定故不疑}
+  - {type: page-break, offset: 6198, content: '', id: KR3c0001_WYG_006-17b, image: WYG0729/WYG0729-0073d.png}
+  - {type: punctuation, offset: 6200, content: (, id: KR3c0001_krp_006-bkkpn602}
+  - {type: variant, offset: 6200, length: 0, content: '', WYG: 士既厲械之}
+  - {type: punctuation, offset: 6204, content: /, id: KR3c0001_krp_006-bkkpn603}
+  - {type: variant, offset: 6204, length: 5, content: 士旣厲械又, WYG: ''}
+  - {type: punctuation, offset: 6209, content: ), id: KR3c0001_krp_006-bkkpn604}
+  - {type: 'kr:newline', offset: 6209, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl237}
+  - {type: line-break, offset: 6209, content: '', id: KR3c0001_SBCK_006-10a03}
+  - {type: variant, offset: 6219, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 6221, content: (, id: KR3c0001_krp_006-bkkpn605}
+  - {type: variant, offset: 6221, length: 7, content: 服從而爲己用旣, WYG: 既}
+  - {type: punctuation, offset: 6227, content: /, id: KR3c0001_krp_006-bkkpn606}
+  - {type: punctuation, offset: 6233, content: ), id: KR3c0001_krp_006-bkkpn607}
+  - {type: variant, offset: 6233, length: 0, content: '', WYG: 服從而為己用}
+  - {type: variant, offset: 6235, length: 1, content: 阮, WYG: 阬}
+  - {type: 'kr:newline', offset: 6239, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl238}
+  - {type: line-break, offset: 6239, content: '', id: KR3c0001_SBCK_006-10a04}
+  - {type: punctuation, offset: 6240, content: (, id: KR3c0001_krp_006-bkkpn608}
+  - {type: variant, offset: 6240, length: 0, content: '', WYG: 習山}
+  - {type: punctuation, offset: 6242, content: /, id: KR3c0001_krp_006-bkkpn609}
+  - {type: variant, offset: 6242, length: 3, content: 習山歷, WYG: 歴}
+  - {type: punctuation, offset: 6244, content: ), id: KR3c0001_krp_006-bkkpn610}
+  - {type: punctuation, offset: 6251, content: (, id: KR3c0001_krp_006-bkkpn611}
+  - {type: variant, offset: 6251, length: 5, content: 謂凌歷而度, WYG: ''}
+  - {type: punctuation, offset: 6256, content: /, id: KR3c0001_krp_006-bkkpn612}
+  - {type: variant, offset: 6260, length: 1, content: 歷, WYG: 歴謂逺歴而渡}
+  - {type: punctuation, offset: 6261, content: ), id: KR3c0001_krp_006-bkkpn613}
+  - {type: 'kr:newline', offset: 6270, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl239}
+  - {type: line-break, offset: 6270, content: '', id: KR3c0001_SBCK_006-10a05}
+  - {type: punctuation, offset: 6278, content: (, id: KR3c0001_krp_006-bkkpn614}
+  - {type: variant, offset: 6278, length: 0, content: '', WYG: 見其}
+  - {type: punctuation, offset: 6280, content: /, id: KR3c0001_krp_006-bkkpn615}
+  - {type: variant, offset: 6280, length: 2, content: 見其, WYG: ''}
+  - {type: punctuation, offset: 6282, content: ), id: KR3c0001_krp_006-bkkpn616}
+  - {type: variant, offset: 6286, length: 1, content: 而, WYG: 故}
+  - {type: punctuation, offset: 6291, content: (, id: KR3c0001_krp_006-bkkpn617}
+  - {type: variant, offset: 6291, length: 0, content: '', WYG: 俘厥寳玉必}
+  - {type: punctuation, offset: 6296, content: /, id: KR3c0001_krp_006-bkkpn618}
+  - {type: variant, offset: 6296, length: 5, content: 浮厥寳玉必, WYG: 故曰不}
+  - {type: punctuation, offset: 6301, content: ), id: KR3c0001_krp_006-bkkpn619}
+  - {type: 'kr:newline', offset: 6301, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl240}
+  - {type: line-break, offset: 6301, content: '', id: KR3c0001_SBCK_006-10a06}
+  - {type: punctuation, offset: 6301, content: (, id: KR3c0001_krp_006-bkkpn620}
+  - {type: punctuation, offset: 6304, content: /, id: KR3c0001_krp_006-bkkpn621}
+  - {type: variant, offset: 6304, length: 3, content: 故曰不, WYG: ''}
+  - {type: punctuation, offset: 6307, content: ), id: KR3c0001_krp_006-bkkpn622}
+  - {type: punctuation, offset: 6311, content: (, id: KR3c0001_krp_006-bkkpn623}
+  - {type: variant, offset: 6311, length: 0, content: '', WYG: 與精勇}
+  - {type: punctuation, offset: 6314, content: /, id: KR3c0001_krp_006-bkkpn624}
+  - {type: variant, offset: 6314, length: 3, content: 與精勇, WYG: ''}
+  - {type: punctuation, offset: 6317, content: ), id: KR3c0001_krp_006-bkkpn625}
+  - {type: punctuation, offset: 6322, content: (, id: KR3c0001_krp_006-bkkpn626}
+  - {type: variant, offset: 6322, length: 0, content: '', WYG: 寳玉所以禮神使無水}
+  - {type: punctuation, offset: 6331, content: /, id: KR3c0001_krp_006-bkkpn627}
+  - {type: variant, offset: 6331, length: 9, content: 寳玉所以禮神使無水, WYG: ''}
+  - {type: punctuation, offset: 6340, content: ), id: KR3c0001_krp_006-bkkpn628}
+  - {type: 'kr:newline', offset: 6341, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl241}
+  - {type: line-break, offset: 6341, content: '', id: KR3c0001_SBCK_006-10a07}
+  - {type: punctuation, offset: 6345, content: (, id: KR3c0001_krp_006-bkkpn629}
+  - {type: variant, offset: 6345, length: 8, content: 至能盡獲而不匱也, WYG: ''}
+  - {type: punctuation, offset: 6353, content: /, id: KR3c0001_krp_006-bkkpn630}
+  - {type: punctuation, offset: 6362, content: ), id: KR3c0001_krp_006-bkkpn631}
+  - {type: variant, offset: 6362, length: 0, content: '', WYG: 至能盡獲而不匱也}
+  - {type: punctuation, offset: 6371, content: (, id: KR3c0001_krp_006-bkkpn632}
+  - {type: variant, offset: 6371, length: 0, content: '', WYG: 既盡寳}
+  - {type: punctuation, offset: 6374, content: /, id: KR3c0001_krp_006-bkkpn633}
+  - {type: variant, offset: 6374, length: 9, content: 旣盡寳疑度謂之爲神, WYG: ''}
+  - {type: punctuation, offset: 6377, content: ), id: KR3c0001_krp_006-bkkpn634}
+  - {type: 'kr:newline', offset: 6377, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl242}
+  - {type: line-break, offset: 6377, content: '', id: KR3c0001_SBCK_006-10a08}
+  - {type: punctuation, offset: 6377, content: (, id: KR3c0001_krp_006-bkkpn635}
+  - {type: punctuation, offset: 6383, content: /, id: KR3c0001_krp_006-bkkpn636}
+  - {type: punctuation, offset: 6389, content: ), id: KR3c0001_krp_006-bkkpn637}
+  - {type: variant, offset: 6389, length: 0, content: '', WYG: 疑度謂之為神}
+  - {type: variant, offset: 6399, length: 1, content: 德, WYG: 徳}
+  - {type: 'kr:newline', offset: 6407, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl243}
+  - {type: line-break, offset: 6407, content: '', id: KR3c0001_SBCK_006-10a09}
+  - {type: punctuation, offset: 6420, content: (, id: KR3c0001_krp_006-bkkpn638}
+  - {type: variant, offset: 6420, length: 0, content: '', WYG: 我之軍士悉以諧}
+  - {type: page-break, offset: 6420, content: '', id: KR3c0001_WYG_006-18a, image: WYG0729/WYG0729-0074a.png}
+  - {type: punctuation, offset: 6427, content: /, id: KR3c0001_krp_006-bkkpn639}
+  - {type: variant, offset: 6427, length: 7, content: 我之軍士悉以諧, WYG: ''}
+  - {type: punctuation, offset: 6434, content: ), id: KR3c0001_krp_006-bkkpn640}
+  - {type: 'kr:newline', offset: 6439, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl244}
+  - {type: line-break, offset: 6439, content: '', id: KR3c0001_SBCK_006-10a10}
+  - {type: variant, offset: 6445, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 6463, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl245}
+  - {type: line-break, offset: 6463, content: '', id: KR3c0001_SBCK_006-10a11}
+  - {type: punctuation, offset: 6464, content: (, id: KR3c0001_krp_006-bkkpn641}
+  - {type: variant, offset: 6464, length: 0, content: '', WYG: 自一至以下管氏不}
+  - {type: punctuation, offset: 6472, content: /, id: KR3c0001_krp_006-bkkpn642}
+  - {type: variant, offset: 6472, length: 8, content: 自一至已下管氏不, WYG: ''}
+  - {type: punctuation, offset: 6480, content: ), id: KR3c0001_krp_006-bkkpn643}
+  - {type: punctuation, offset: 6486, content: (, id: KR3c0001_krp_006-bkkpn644}
+  - {type: variant, offset: 6486, length: 7, content: 大勝謂遍服諸國, WYG: ''}
+  - {type: punctuation, offset: 6493, content: /, id: KR3c0001_krp_006-bkkpn645}
+  - {type: punctuation, offset: 6501, content: ), id: KR3c0001_krp_006-bkkpn646}
+  - {type: variant, offset: 6501, length: 0, content: '', WYG: 大勝謂遍服諸國}
+  - {type: 'kr:newline', offset: 6505, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl246}
+  - {type: line-break, offset: 6505, content: '', id: KR3c0001_SBCK_006-10a12}
+  - {type: punctuation, offset: 6508, content: (, id: KR3c0001_krp_006-bkkpn647}
+  - {type: variant, offset: 6508, length: 0, content: '', WYG: 無守謂不守一數}
+  - {type: punctuation, offset: 6515, content: /, id: KR3c0001_krp_006-bkkpn648}
+  - {type: variant, offset: 6515, length: 7, content: 無守謂不守一數, WYG: ''}
+  - {type: punctuation, offset: 6522, content: ), id: KR3c0001_krp_006-bkkpn649}
+  - {type: 'kr:newline', offset: 6536, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl247}
+  - {type: page-break, offset: 6536, content: '', id: KR3c0001_SBCK_006-10b}
+  - {type: 'kr:newline', offset: 6536, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl248}
+  - {type: line-break, offset: 6536, content: '', id: KR3c0001_SBCK_006-10b01}
+  - {type: punctuation, offset: 6550, content: (, id: KR3c0001_krp_006-bkkpn650}
+  - {type: variant, offset: 6550, length: 0, content: '', WYG: 服之}
+  - {type: punctuation, offset: 6552, content: /, id: KR3c0001_krp_006-bkkpn651}
+  - {type: variant, offset: 6552, length: 2, content: 服之, WYG: ''}
+  - {type: punctuation, offset: 6554, content: ), id: KR3c0001_krp_006-bkkpn652}
+  - {type: punctuation, offset: 6558, content: (, id: KR3c0001_krp_006-bkkpn653}
+  - {type: variant, offset: 6558, length: 0, content: '', WYG: 雖勝}
+  - {type: variant, offset: 6559, length: 2, content: 驕雖, WYG: ''}
+  - {type: punctuation, offset: 6560, content: /, id: KR3c0001_krp_006-bkkpn654}
+  - {type: punctuation, offset: 6562, content: ), id: KR3c0001_krp_006-bkkpn655}
+  - {type: 'kr:newline', offset: 6565, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl249}
+  - {type: line-break, offset: 6565, content: '', id: KR3c0001_SBCK_006-10b02}
+  - {type: variant, offset: 6565, length: 1, content: 彊, WYG: 强}
+  - {type: punctuation, offset: 6570, content: (, id: KR3c0001_krp_006-bkkpn656}
+  - {type: variant, offset: 6570, length: 0, content: '', WYG: 不以勝為勝故}
+  - {type: variant, offset: 6574, length: 1, content: 彊, WYG: 強}
+  - {type: punctuation, offset: 6576, content: /, id: KR3c0001_krp_006-bkkpn657}
+  - {type: variant, offset: 6576, length: 6, content: 不以勝爲勝故, WYG: ''}
+  - {type: punctuation, offset: 6582, content: ), id: KR3c0001_krp_006-bkkpn658}
+  - {type: punctuation, offset: 6587, content: (, id: KR3c0001_krp_006-bkkpn659}
+  - {type: variant, offset: 6587, length: 3, content: 變計也, WYG: ''}
+  - {type: punctuation, offset: 6590, content: /, id: KR3c0001_krp_006-bkkpn660}
+  - {type: punctuation, offset: 6594, content: ), id: KR3c0001_krp_006-bkkpn661}
+  - {type: variant, offset: 6594, length: 0, content: '', WYG: 計變也}
+  - {type: punctuation, offset: 6599, content: (, id: KR3c0001_krp_006-bkkpn662}
+  - {type: variant, offset: 6599, length: 0, content: '', WYG: 乘}
+  - {type: punctuation, offset: 6600, content: /, id: KR3c0001_krp_006-bkkpn663}
+  - {type: variant, offset: 6600, length: 3, content: 乘詭故, WYG: ''}
+  - {type: punctuation, offset: 6601, content: ), id: KR3c0001_krp_006-bkkpn664}
+  - {type: 'kr:newline', offset: 6601, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl250}
+  - {type: line-break, offset: 6601, content: '', id: KR3c0001_SBCK_006-10b03}
+  - {type: punctuation, offset: 6601, content: (, id: KR3c0001_krp_006-bkkpn665}
+  - {type: punctuation, offset: 6603, content: /, id: KR3c0001_krp_006-bkkpn666}
+  - {type: punctuation, offset: 6605, content: ), id: KR3c0001_krp_006-bkkpn667}
+  - {type: variant, offset: 6605, length: 0, content: '', WYG: 詭計}
+  - {type: punctuation, offset: 6610, content: (, id: KR3c0001_krp_006-bkkpn668}
+  - {type: variant, offset: 6610, length: 0, content: '', WYG: 勝敵不}
+  - {type: punctuation, offset: 6613, content: /, id: KR3c0001_krp_006-bkkpn669}
+  - {type: variant, offset: 6613, length: 7, content: 勝敵不一之實也, WYG: ''}
+  - {type: punctuation, offset: 6616, content: ), id: KR3c0001_krp_006-bkkpn670}
+  - {type: punctuation, offset: 6620, content: (, id: KR3c0001_krp_006-bkkpn671}
+  - {type: punctuation, offset: 6624, content: /, id: KR3c0001_krp_006-bkkpn672}
+  - {type: punctuation, offset: 6628, content: ), id: KR3c0001_krp_006-bkkpn673}
+  - {type: variant, offset: 6628, length: 0, content: '', WYG: 一之實也}
+  - {type: 'kr:newline', offset: 6635, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl251}
+  - {type: line-break, offset: 6635, content: '', id: KR3c0001_SBCK_006-10b04}
+  - {type: punctuation, offset: 6636, content: (, id: KR3c0001_krp_006-bkkpn674}
+  - {type: variant, offset: 6636, length: 1, content: 號, WYG: ''}
+  - {type: punctuation, offset: 6637, content: /, id: KR3c0001_krp_006-bkkpn675}
+  - {type: punctuation, offset: 6639, content: ), id: KR3c0001_krp_006-bkkpn676}
+  - {type: variant, offset: 6639, length: 0, content: '', WYG: 號}
+  - {type: variant, offset: 6643, length: 1, content: 彊, WYG: 強}
+  - {type: page-break, offset: 6643, content: '', id: KR3c0001_WYG_006-18b, image: WYG0729/WYG0729-0074b.png}
+  - {type: variant, offset: 6651, length: 1, content: 德, WYG: 徳}
+  - {type: punctuation, offset: 6659, content: (, id: KR3c0001_krp_006-bkkpn677}
+  - {type: variant, offset: 6659, length: 0, content: '', WYG: 原}
+  - {type: punctuation, offset: 6660, content: /, id: KR3c0001_krp_006-bkkpn678}
+  - {type: variant, offset: 6660, length: 1, content: 原, WYG: 也凡此皆我守}
+  - {type: punctuation, offset: 6661, content: ), id: KR3c0001_krp_006-bkkpn679}
+  - {type: 'kr:newline', offset: 6661, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl252}
+  - {type: line-break, offset: 6661, content: '', id: KR3c0001_SBCK_006-10b05}
+  - {type: punctuation, offset: 6661, content: (, id: KR3c0001_krp_006-bkkpn680}
+  - {type: punctuation, offset: 6667, content: /, id: KR3c0001_krp_006-bkkpn681}
+  - {type: variant, offset: 6667, length: 6, content: 也凡此皆我守, WYG: ''}
+  - {type: punctuation, offset: 6673, content: ), id: KR3c0001_krp_006-bkkpn682}
+  - {type: punctuation, offset: 6685, content: (, id: KR3c0001_krp_006-bkkpn683}
+  - {type: variant, offset: 6685, length: 0, content: '', WYG: 用衆貴詳審故若時}
+  - {type: punctuation, offset: 6693, content: /, id: KR3c0001_krp_006-bkkpn684}
+  - {type: variant, offset: 6693, length: 5, content: 用衆貴詳審, WYG: ''}
+  - {type: variant, offset: 6700, length: 1, content: 時, WYG: 飄風之卒至皆以}
+  - {type: punctuation, offset: 6701, content: ), id: KR3c0001_krp_006-bkkpn685}
+  - {type: 'kr:newline', offset: 6701, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl253}
+  - {type: line-break, offset: 6701, content: '', id: KR3c0001_SBCK_006-10b06}
+  - {type: punctuation, offset: 6701, content: (, id: KR3c0001_krp_006-bkkpn686}
+  - {type: variant, offset: 6702, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 6710, content: /, id: KR3c0001_krp_006-bkkpn687}
+  - {type: variant, offset: 6710, length: 10, content: 故若飄風之卒至此亦以, WYG: ''}
+  - {type: punctuation, offset: 6720, content: ), id: KR3c0001_krp_006-bkkpn688}
+  - {type: punctuation, offset: 6726, content: (, id: KR3c0001_krp_006-bkkpn689}
+  - {type: variant, offset: 6726, length: 6, content: 其器得冝之至, WYG: ''}
+  - {type: punctuation, offset: 6732, content: /, id: KR3c0001_krp_006-bkkpn690}
+  - {type: punctuation, offset: 6738, content: ), id: KR3c0001_krp_006-bkkpn691}
+  - {type: variant, offset: 6738, length: 0, content: '', WYG: 其器得宜之至}
+  - {type: 'kr:newline', offset: 6742, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl254}
+  - {type: line-break, offset: 6742, content: '', id: KR3c0001_SBCK_006-10b07}
+  - {type: punctuation, offset: 6744, content: (, id: KR3c0001_krp_006-bkkpn692}
+  - {type: variant, offset: 6744, length: 6, content: 者則敎練之盡, WYG: ''}
+  - {type: punctuation, offset: 6750, content: /, id: KR3c0001_krp_006-bkkpn693}
+  - {type: punctuation, offset: 6756, content: ), id: KR3c0001_krp_006-bkkpn694}
+  - {type: variant, offset: 6756, length: 0, content: '', WYG: 者則教練之盡}
+  - {type: variant, offset: 6768, length: 1, content: 敎, WYG: 教}
+  - {type: 'kr:newline', offset: 6771, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl255}
+  - {type: line-break, offset: 6771, content: '', id: KR3c0001_SBCK_006-10b08}
+  - {type: variant, offset: 6773, length: 0, content: '', WYG: 敵器既不利教又不盡}
+  - {type: punctuation, offset: 6774, content: (, id: KR3c0001_krp_006-bkkpn695}
+  - {type: punctuation, offset: 6782, content: /, id: KR3c0001_krp_006-bkkpn696}
+  - {type: variant, offset: 6782, length: 9, content: 器旣不利敎又不盡敵, WYG: ''}
+  - {type: punctuation, offset: 6791, content: ), id: KR3c0001_krp_006-bkkpn697}
+  - {type: punctuation, offset: 6797, content: (, id: KR3c0001_krp_006-bkkpn698}
+  - {type: variant, offset: 6797, length: 0, content: '', WYG: 既不能用敵敵}
+  - {type: punctuation, offset: 6803, content: /, id: KR3c0001_krp_006-bkkpn699}
+  - {type: variant, offset: 6803, length: 6, content: 旣不能用敵敵, WYG: ''}
+  - {type: punctuation, offset: 6809, content: ), id: KR3c0001_krp_006-bkkpn700}
+  - {type: 'kr:newline', offset: 6810, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl256}
+  - {type: line-break, offset: 6810, content: '', id: KR3c0001_SBCK_006-10b09}
+  - {type: punctuation, offset: 6815, content: (, id: KR3c0001_krp_006-bkkpn701}
+  - {type: variant, offset: 6815, length: 0, content: '', WYG: 既不能致器則無}
+  - {type: punctuation, offset: 6821, content: /, id: KR3c0001_krp_006-bkkpn702}
+  - {type: variant, offset: 6821, length: 7, content: 旣不能致器則無, WYG: ''}
+  - {type: punctuation, offset: 6828, content: ), id: KR3c0001_krp_006-bkkpn703}
+  - {type: punctuation, offset: 6836, content: (, id: KR3c0001_krp_006-bkkpn704}
+  - {type: variant, offset: 6836, length: 0, content: '', WYG: 兵逺用所以}
+  - {type: punctuation, offset: 6841, content: /, id: KR3c0001_krp_006-bkkpn705}
+  - {type: variant, offset: 6841, length: 5, content: 兵逺用所以, WYG: 心故}
+  - {type: punctuation, offset: 6846, content: ), id: KR3c0001_krp_006-bkkpn706}
+  - {type: 'kr:newline', offset: 6846, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl257}
+  - {type: line-break, offset: 6846, content: '', id: KR3c0001_SBCK_006-10b10}
+  - {type: punctuation, offset: 6846, content: (, id: KR3c0001_krp_006-bkkpn707}
+  - {type: punctuation, offset: 6848, content: /, id: KR3c0001_krp_006-bkkpn708}
+  - {type: variant, offset: 6848, length: 2, content: 心故, WYG: ''}
+  - {type: punctuation, offset: 6850, content: ), id: KR3c0001_krp_006-bkkpn709}
+  - {type: punctuation, offset: 6858, content: (, id: KR3c0001_krp_006-bkkpn710}
+  - {type: variant, offset: 6858, length: 10, content: 迷而失道故爲敵所傷也, WYG: ''}
+  - {type: punctuation, offset: 6868, content: /, id: KR3c0001_krp_006-bkkpn711}
+  - {type: punctuation, offset: 6878, content: ), id: KR3c0001_krp_006-bkkpn712}
+  - {type: variant, offset: 6878, length: 0, content: '', WYG: 迷而失道故為敵所傷也}
+  - {type: 'kr:newline', offset: 6883, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl258}
+  - {type: line-break, offset: 6883, content: '', id: KR3c0001_SBCK_006-10b11}
+  - {type: variant, offset: 6885, length: 12, content: 脩之死地故士自脩以求生也, WYG: 修}
+  - {type: page-break, offset: 6885, content: '', id: KR3c0001_WYG_006-19a, image: WYG0729/WYG0729-0074c.png}
+  - {type: punctuation, offset: 6886, content: (, id: KR3c0001_krp_006-bkkpn713}
+  - {type: punctuation, offset: 6897, content: /, id: KR3c0001_krp_006-bkkpn714}
+  - {type: punctuation, offset: 6908, content: ), id: KR3c0001_krp_006-bkkpn715}
+  - {type: variant, offset: 6908, length: 0, content: '', WYG: 之死地故}
+  - {type: variant, offset: 6910, length: 1, content: 脩, WYG: 修以求生也士自修}
+  - {type: 'kr:newline', offset: 6919, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl259}
+  - {type: line-break, offset: 6919, content: '', id: KR3c0001_SBCK_006-10b12}
+  - {type: variant, offset: 6919, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 6927, content: (, id: KR3c0001_krp_006-bkkpn716}
+  - {type: variant, offset: 6927, length: 0, content: '', WYG: 居常}
+  - {type: punctuation, offset: 6929, content: /, id: KR3c0001_krp_006-bkkpn717}
+  - {type: variant, offset: 6929, length: 2, content: 居常, WYG: ''}
+  - {type: punctuation, offset: 6931, content: ), id: KR3c0001_krp_006-bkkpn718}
+  - {type: variant, offset: 6932, length: 1, content: 搏, WYG: 摶}
+  - {type: punctuation, offset: 6934, content: (, id: KR3c0001_krp_006-bkkpn719}
+  - {type: variant, offset: 6934, length: 0, content: '', WYG: 擊無}
+  - {type: punctuation, offset: 6936, content: /, id: KR3c0001_krp_006-bkkpn720}
+  - {type: variant, offset: 6936, length: 2, content: 繫無, WYG: ''}
+  - {type: punctuation, offset: 6938, content: ), id: KR3c0001_krp_006-bkkpn721}
+  - {type: 'kr:newline', offset: 6946, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl260}
+  - {type: page-break, offset: 6946, content: '', id: KR3c0001_SBCK_006-11a}
+  - {type: 'kr:newline', offset: 6946, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl261}
+  - {type: line-break, offset: 6946, content: '', id: KR3c0001_SBCK_006-11a01}
+  - {type: variant, offset: 6948, length: 10, content: 也向皆無故不可以成功, WYG: ''}
+  - {type: punctuation, offset: 6949, content: (, id: KR3c0001_krp_006-bkkpn722}
+  - {type: punctuation, offset: 6959, content: /, id: KR3c0001_krp_006-bkkpn723}
+  - {type: punctuation, offset: 6970, content: ), id: KR3c0001_krp_006-bkkpn724}
+  - {type: variant, offset: 6970, length: 0, content: '', WYG: 向皆無故不可以成功也}
+  - {type: variant, offset: 6973, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 6981, content: (, id: KR3c0001_krp_006-bkkpn725}
+  - {type: variant, offset: 6981, length: 0, content: '', WYG: 無形}
+  - {type: punctuation, offset: 6983, content: /, id: KR3c0001_krp_006-bkkpn726}
+  - {type: variant, offset: 6983, length: 0, content: '', WYG: 覩}
+  - {type: variant, offset: 6984, length: 1, content: 形, WYG: 計可以為所在皆}
+  - {type: punctuation, offset: 6985, content: ), id: KR3c0001_krp_006-bkkpn727}
+  - {type: 'kr:newline', offset: 6985, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl262}
+  - {type: line-break, offset: 6985, content: '', id: KR3c0001_SBCK_006-11a02}
+  - {type: punctuation, offset: 6985, content: (, id: KR3c0001_krp_006-bkkpn728}
+  - {type: punctuation, offset: 6993, content: /, id: KR3c0001_krp_006-bkkpn729}
+  - {type: variant, offset: 6993, length: 9, content: 覩無計可以爲所在皆, WYG: ''}
+  - {type: punctuation, offset: 7002, content: ), id: KR3c0001_krp_006-bkkpn730}
+  - {type: punctuation, offset: 7007, content: (, id: KR3c0001_krp_006-bkkpn731}
+  - {type: variant, offset: 7007, length: 0, content: '', WYG: 無形迹可㝷}
+  - {type: punctuation, offset: 7012, content: /, id: KR3c0001_krp_006-bkkpn732}
+  - {type: variant, offset: 7012, length: 5, content: 無形迹可㝷, WYG: ''}
+  - {type: punctuation, offset: 7017, content: ), id: KR3c0001_krp_006-bkkpn733}
+  - {type: 'kr:newline', offset: 7024, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl263}
+  - {type: line-break, offset: 7024, content: '', id: KR3c0001_SBCK_006-11a03}
+  - {type: punctuation, offset: 7031, content: (, id: KR3c0001_krp_006-bkkpn734}
+  - {type: variant, offset: 7031, length: 0, content: '', WYG: 善用兵者體道以為變化者也故若亡者而乃}
+  - {type: punctuation, offset: 7048, content: /, id: KR3c0001_krp_006-bkkpn735}
+  - {type: variant, offset: 7048, length: 18, content: 魯用兵者體道以爲變化者也故若亡者而乃, WYG: ''}
+  - {type: punctuation, offset: 7066, content: ), id: KR3c0001_krp_006-bkkpn736}
+  - {type: 'kr:newline', offset: 7066, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl264}
+  - {type: line-break, offset: 7066, content: '', id: KR3c0001_SBCK_006-11a04}
+  - {type: page-break, offset: 7066, content: '', id: KR3c0001_WYG_006-19b, image: WYG0729/WYG0729-0074d.png}
+  - {type: variant, offset: 7069, length: 1, content: 第, WYG: ''}
+  - {type: 'kr:newline', offset: 7071, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl265}
+  - {type: page-break, offset: 7071, content: '', id: KR3c0001_SBCK_006-11b}
+  - {type: 'kr:newline', offset: 7071, content: '
+
+      ', id: KR3c0001_krp_006-bkkkrnewl266}
+  back: []
+hash: sha256:ef20e4c268d3853ed9f8d26447971826faed3135e16ca4ebf8dc89ac21a9100d
