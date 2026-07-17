@@ -612,6 +612,7 @@ markers:
   - {type: variant, offset: 2453, length: 1, content: 毀, WYG: 毁}
   - {type: punctuation, offset: 2467, content: (, id: KR3c0001_krp_020-bkkpn1}
   - {type: variant, offset: 2467, length: 0, content: '', WYG: 為劌}
+  - {type: voice, offset: 2467, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2468, content: /, id: KR3c0001_krp_020-bkkpn2}
   - {type: variant, offset: 2468, length: 2, content: 爲劌, WYG: ''}
   - {type: punctuation, offset: 2470, content: ), id: KR3c0001_krp_020-bkkpn3}
@@ -778,6 +779,7 @@ markers:
   - {type: variant, offset: 3058, length: 1, content: 猒, WYG: 厭}
   - {type: punctuation, offset: 3066, content: (, id: KR3c0001_krp_020-bkkpn4}
   - {type: variant, offset: 3066, length: 3, content: 嫌食皃, WYG: ''}
+  - {type: voice, offset: 3066, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 3069, content: /, id: KR3c0001_krp_020-bkkpn5}
   - {type: punctuation, offset: 3072, content: ), id: KR3c0001_krp_020-bkkpn6}
   - {type: variant, offset: 3072, length: 0, content: '', WYG: 嫌食貌}
@@ -825,6 +827,7 @@ markers:
   - {type: line-break, offset: 3243, content: '', id: KR3c0001_SBCK_020-7a11}
   - {type: punctuation, offset: 3255, content: (, id: KR3c0001_krp_020-bkkpn7}
   - {type: variant, offset: 3255, length: 0, content: '', WYG: 上如由切}
+  - {type: voice, offset: 3255, length: 8, name: note, id: n3}
   - {type: variant, offset: 3258, length: 4, content: 切上如由, WYG: ''}
   - {type: punctuation, offset: 3259, content: /, id: KR3c0001_krp_020-bkkpn8}
   - {type: punctuation, offset: 3263, content: ), id: KR3c0001_krp_020-bkkpn9}
@@ -1602,4 +1605,4 @@ markers:
 
       ', id: KR3c0001_krp_020-bkkkrnewl331}
   back: []
-hash: sha256:91f3b3642a4e2d2c6dd5764af2b56e92ae07ad0ad70557452f910bc2ea7984c4
+hash: sha256:00f8c206124a38aac1a958b6b1c6b49749b0d10e1a159c32642e31e59114a0de
